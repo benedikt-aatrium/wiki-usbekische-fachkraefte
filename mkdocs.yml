@@ -3,8 +3,6 @@ site_url: https://benedikt-aatrium.github.io/wiki-usbekische-fachkraefte/
 site_description: Wiki zur Einreise, Anerkennung und Beschäftigung usbekischer Fachkräfte in Deutschland
 site_author: AATRIUM
 
-docs_dir: .
-
 theme:
   name: material
   palette:
