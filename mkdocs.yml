@@ -1,0 +1,45 @@
+site_name: AATRIUM Wiki – Usbekische Fachkräfte in Deutschland
+site_url: https://benedikt-aatrium.github.io/wiki-usbekische-fachkraefte/
+site_description: Wiki zur Einreise, Anerkennung und Beschäftigung usbekischer Fachkräfte in Deutschland
+site_author: AATRIUM
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+
+plugins:
+  - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - fenced_code
+  - admonition
+
+nav:
+  - Start: index.md
+  - 01 Gesamtablauf: 01_gesamtablauf.md
+  - 02 Arbeitsvertrag & Zulassung: 02_arbeitsvertrag_zulassung.md
+  - 03 Visum: 03_visum.md
+  - 04 Berufliche Anerkennung: 04_berufliche_anerkennung.md
+  - 05 Usbekische Dokumente: 05_usbekische_dokumente.md
+  - 06 Checklisten: 06_checklisten.md
+  - Quellen: 99_quellen.md
