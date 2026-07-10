@@ -2,92 +2,256 @@
 
 ## Überblick
 
-Die Max Bögl Unternehmensgruppe rekrutiert Fachkräfte für verschiedene Berufe an mehreren deutschen Standorten. Für die Rekrutierung in Usbekistan ist entscheidend, welche **deutsche Anerkennungsstelle** für den jeweiligen Beruf zuständig ist. Die Einteilung erfolgt nach dem Prinzip:
+Die Max Bögl Unternehmensgruppe rekrutiert Fachkräfte für **11 verschiedene Berufe** an mehreren deutschen Standorten. Für die Rekrutierung in Usbekistan ist entscheidend:
 
-- **Handwerksberufe** → Handwerkskammer (HWK)
-- **Industrielle/technische Berufe** → IHK FOSA (Industrie- und Handelskammer)
+1. **Welcher deutsche Beruf** entspricht der usbekischen Ausbildung?
+2. **Welche Anerkennungsstelle** ist zuständig – HWK oder IHK FOSA?
+3. **Welcher Standort** bestimmt die konkrete Kammer?
 
-Diese Seite fasst die aktuellen Stellenprofile zusammen und zeigt die zuständige Kammer für den jeweiligen Einsatzort.
+!!! info "Kernregel"
+    Die zuständige Kammer richtet sich nach dem **Einsatzort des Arbeitnehmers**, nicht nach dem Unternehmenssitz.
 
-## Stellenprofile im Überblick
+---
 
-| Nr. | Beruf | Standort(e) | Referenzcode | Anerkennung durch |
-|-----|-------|-------------|--------------|-------------------|
-| 1 | **Baufacharbeiter / Baumaschinist (Tiefbau)** | Sengenthal, Magdeburg, Elterlein, Gera, Berlin, Hamburg | DE-50311082 | HWK |
-| 2 | **Elektroniker für Geräte und Systeme** | Sengenthal, Neumarkt | DE-50438392 | IHK FOSA |
-| 3 | **Elektroniker für Baustellenversorgung** | Sengenthal, Neumarkt | DE-50456029 | IHK FOSA |
-| 4 | **Kranfahrer (Mobil-/Raupen-/Turmdrehkran)** | bundesweit | DE-50493401 | IHK FOSA / keine Anerkennung |
-| 5 | **Kranmonteur** | bundesweit | DE-50455987 | HWK |
-| 6 | **Tiefbaufacharbeiter / Rohrleger (Infrastruktur)** | bundesweit | DE-50472915 | HWK |
-| 7 | **CNC-Anlagenbediener (Erneuerbare Energien)** | Sengenthal, Neumarkt | DE-50439123 | IHK FOSA |
-| 8 | **Fachkraft für Lagerlogistik** | Sengenthal, Neumarkt | DE-50484766 | IHK FOSA |
-| 9 | **Industriemechaniker** | Sengenthal, Neumarkt | DE-50483273 | IHK FOSA |
-| 10 | **Maurer / Betonbauer / Zimmerer** | Sengenthal, Neumarkt | DE-50444256 | HWK |
-| 11 | **Schlosser / Monteur im Stahlbau** | bundesweit | DE-50489411 | HWK |
+## Entscheidung: HWK oder IHK FOSA?
 
-## HWK-Berufe vs. IHK-FOSA-Berufe
+| Merkmal | HWK | IHK FOSA |
+|---------|-----|----------|
+| Zuständigkeit | Handwerksberufe | Industrielle/technische Berufe |
+| Prüfung | Handwerkliche Tätigkeit, Bauausführung | Industrielle Ausbildung, Fertigung |
+| Typische Berufe | Maurer, Zimmerer, Betonbauer, Metallbauer | Elektroniker, Industriemechaniker, CNC-Fräser |
+| Dokumente | Arbeitsbuch, Ausbildungsnachweis, Arbeitszeugnisse | Ausbildungszeugnis, Fertigungsnachweise |
+| Dauer | 4–8 Wochen | 4–12 Wochen |
 
-### Berufe, die über die Handwerkskammer (HWK) anerkannt werden
+---
 
-Diese Berufe fallen in das **Handwerk** und werden von einer HWK geprüft:
+## Stellenprofile im Detail
 
-- Baufacharbeiter / Baumaschinist
-- Kranmonteur
-- Tiefbaufacharbeiter / Rohrleger
-- Maurer / Betonbauer / Zimmerer
-- Schlosser / Monteur im Stahlbau
+### 1. Baufacharbeiter / Baumaschinist (Tiefbau)
 
-### Berufe, die über die IHK FOSA anerkannt werden
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50311082 |
+| **Standorte** | Sengenthal, Magdeburg, Elterlein, Gera, Berlin, Hamburg |
+| **Tätigkeit** | Bedienung, Pflege und Wartung von Baumaschinen, selbstständiges Arbeiten im Tiefbau |
+| **Anforderungen** | Facharbeiterausbildung oder gleichwertige Erfahrung, Führerschein B (C1E/CE vorteilhaft), Mobilität |
+| **Anerkennung durch** | **HWK** |
+| **Zugeordneter Beruf** | Maurer, Betonbauer, Straßenbauer, Baugeräteführer |
 
-Diese Berufe sind **industrielle/technische Ausbildungsberufe** und werden von der IHK FOSA geprüft:
+### 2. Elektroniker für Geräte und Systeme
 
-- Elektroniker für Geräte und Systeme
-- Elektroniker für Baustellenversorgung
-- CNC-Anlagenbediener
-- Fachkraft für Lagerlogistik
-- Industriemechaniker
-- Kranfahrer (in der Regel kein Anerkennungsverfahren nötig, ggf. Fahrerlaubnis- und Kranschein)
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50438392 |
+| **Standorte** | Sengenthal, Neumarkt |
+| **Tätigkeit** | Installation, Inbetriebnahme, Prüfung und Instandhaltung elektrotechnischer Anlagen |
+| **Anforderungen** | Ausbildung als Elektroniker oder vergleichbare Qualifikation |
+| **Anerkennung durch** | **IHK FOSA** |
+| **Zugeordneter Beruf** | Elektroniker für Geräte und Systeme |
 
-## Zuständige HWK je nach Einsatzort
+### 3. Elektroniker für Baustellenversorgung
 
-| Standort | Bundesland | Zuständige HWK |
-|----------|------------|-----------------|
-| Sengenthal / Neumarkt | Bayern | HWK für die Oberpfalz, Regensburg |
-| Magdeburg | Sachsen-Anhalt | HWK Magdeburg |
-| Elterlein | Sachsen | HWK Chemnitz |
-| Gera | Thüringen | HWK Südthüringen, Suhl |
-| Berlin | Berlin | HWK Berlin |
-| Hamburg | Hamburg | HWK Hamburg |
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50456029 |
+| **Standorte** | Sengenthal, Neumarkt (Einsatzgebiet Frankfurt/Stuttgart) |
+| **Tätigkeit** | Installation von Baustromanlagen, Netzwerkanlagen und Alarmanlagen auf Baustellen |
+| **Anforderungen** | Elektronikerausbildung, Baustellenerfahrung |
+| **Anerkennung durch** | **IHK FOSA** |
+| **Zugeordneter Beruf** | Elektroniker für Energie- und Gebäudetechnik / Elektroniker für Geräte und Systeme |
 
-## Typische Anforderungen der Stellenprofile
+### 4. Kranfahrer (Mobil-/Raupen-/Turmdrehkran)
 
-Für nahezu alle Profile gelten folgende Grundvoraussetzungen:
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50493401 |
+| **Standorte** | Bundesweit |
+| **Tätigkeit** | Führen von Mobilkranen, Raupenkranen, Turmdrehkranen |
+| **Anforderungen** | Kranschein / Kranführerschein, Führerschein C1E/CE vorteilhaft |
+| **Anerkennung durch** | **Meist keine Anerkennung erforderlich** – Kranschein gilt EU-weit; ggf. IHK FOSA |
+| **Zugeordneter Beruf** | Fahrzeugführer, Kranführer (kein Ausbildungsberuf im klassischen Sinne) |
 
-- Abgeschlossene Facharbeiterausbildung oder gleichwertige Berufserfahrung
-- Führerschein Klasse B, C1E/CE vorteilhaft
-- Flexibilität und Mobilität für bundesweite Einsätze
-- Teamfähigkeit, Eigeninitiative, Verantwortungsbewusstsein
-- Einhaltung von Arbeitssicherheit, Umwelt- und Gesundheitsschutz
+### 5. Kranmonteur
 
-## Praktische Bedeutung für die Rekrutierung in Usbekistan
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50455987 |
+| **Standorte** | Bundesweit |
+| **Tätigkeit** | Montage und Demontage von Turmdrehkranen, Reparatur und Wartung |
+| **Anforderungen** | Ausbildung in Metall- oder Holzbau, Höhenunempfindlichkeit |
+| **Anerkennung durch** | **HWK** |
+| **Zugeordneter Beruf** | Metallbauer, Zimmerer, Konstruktionsmechaniker |
 
-1. **Berufszuordnung prüfen:** Vor dem Bewerbungsgespräch muss klar sein, welcher deutsche Beruf der usbekischen Ausbildung am nächsten kommt.
-2. **Richtige Kammer wählen:** Die Zuständigkeit hängt vom Einsatzort ab, nicht vom Sitz des Unternehmens.
-3. **Dokumente vorbereiten:** Arbeitsbuch, Ausbildungsnachweis, Arbeitszeugnisse, Apostille und beglaubigte Übersetzung.
-4. **Führerschein klären:** Besonders für Baumaschinist und Kranfahrer ist die Führerscheinklasse relevant.
+### 6. Tiefbaufacharbeiter / Rohrleger (Infrastruktur)
 
-## Hinweis zu Max Bögl Standorten
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50472915 |
+| **Standorte** | Bundesweit |
+| **Tätigkeit** | Trassenbau, Energietrassen, Leerrohrbauwerke, Verkehrswegebau |
+| **Anforderungen** | Erfahrung im Tiefbau, Rohrlegerkenntnisse |
+| **Anerkennung durch** | **HWK** |
+| **Zugeordneter Beruf** | Maurer, Straßenbauer, Rohrleger |
 
-Die Stellenprofile nennen explizit:
+### 7. CNC-Anlagenbediener (Erneuerbare Energien)
 
-- **Sengenthal, Neumarkt** (Hauptsitz, Fertigteilwerk, Erneuerbare Energien)
-- **Magdeburg, Elterlein, Gera, Berlin, Hamburg** (Tiefbaustandorte)
-- **Bundesweite Einsätze** bei Kranmonteur, Tiefbaufacharbeiter, Schlosser/Monteur
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50439123 |
+| **Standorte** | Sengenthal, Neumarkt |
+| **Tätigkeit** | Bedienung und Rüsten von 5-Achs-CNC-Schleifanlagen für Betonringe/Windkraft |
+| **Anforderungen** | CNC-Erfahrung, technisches Verständnis |
+| **Anerkennung durch** | **IHK FOSA** |
+| **Zugeordneter Beruf** | Zerspanungsmechaniker, Industriemechaniker |
 
-Für jeden Standort muss die zuständige Kammer separat ermittelt werden, bevor das Anerkennungsverfahren eingeleitet wird.
+### 8. Fachkraft für Lagerlogistik
+
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50484766 |
+| **Standorte** | Sengenthal, Neumarkt |
+| **Tätigkeit** | Kommissionierung, Materialbereitstellung, Lagerorganisation für Windkraft und Fertigteilwerke |
+| **Anforderungen** | Lagerlogistik-Erfahrung, ggf. Staplerschein |
+| **Anerkennung durch** | **IHK FOSA** |
+| **Zugeordneter Beruf** | Fachkraft für Lagerlogistik |
+
+### 9. Industriemechaniker
+
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50483273 |
+| **Standorte** | Sengenthal, Neumarkt |
+| **Tätigkeit** | Wartung, Instandhaltung, Fehleranalyse an Produktionsmaschinen und Anlagen |
+| **Anforderungen** | Ausbildung als Industriemechaniker oder vergleichbar |
+| **Anerkennung durch** | **IHK FOSA** |
+| **Zugeordneter Beruf** | Industriemechaniker |
+
+### 10. Maurer / Betonbauer / Zimmerer
+
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50444256 |
+| **Standorte** | Sengenthal, Neumarkt |
+| **Tätigkeit** | Herstellung von Betonfertigteilen, Lesen von Schal- und Bewehrungsplänen |
+| **Anforderungen** | Ausbildung als Maurer, Betonbauer oder Zimmerer |
+| **Anerkennung durch** | **HWK** |
+| **Zugeordneter Beruf** | Maurer, Betonbauer, Zimmerer |
+
+### 11. Schlosser / Monteur im Stahlbau
+
+| Kategorie | Inhalt |
+|-----------|--------|
+| **Referenzcode** | DE-50489411 |
+| **Standorte** | Bundesweit |
+| **Tätigkeit** | Stahlbaumontage im Stahlhoch- und Stahlbrückenbau |
+| **Anforderungen** | Ausbildung als Metallbauer/Schlosser, Schweißkenntnisse vorteilhaft |
+| **Anerkennung durch** | **HWK** |
+| **Zugeordneter Beruf** | Metallbauer, Konstruktionsmechaniker |
+
+---
+
+## Zuständige Anerkennungsstellen nach Standort
+
+### HWK-Standorte
+
+| Standort | Bundesland | Zuständige HWK | Adresse (wahlweise) |
+|----------|------------|----------------|---------------------|
+| Sengenthal | Bayern | HWK für die Oberpfalz | Regensburg |
+| Neumarkt | Bayern | HWK für die Oberpfalz | Regensburg |
+| Magdeburg | Sachsen-Anhalt | HWK Magdeburg | Magdeburg |
+| Elterlein | Sachsen | HWK Chemnitz | Chemnitz |
+| Gera | Thüringen | HWK Südthüringen | Suhl |
+| Berlin | Berlin | HWK Berlin | Berlin |
+| Hamburg | Hamburg | HWK Hamburg | Hamburg |
+
+### IHK-FOSA-Standorte
+
+| Standort | Bundesland | Zuständige Stelle |
+|----------|------------|-------------------|
+| Sengenthal | Bayern | IHK FOSA (für alle Bundesländer zuständig) |
+| Neumarkt | Bayern | IHK FOSA |
+
+!!! note "IHK FOSA"
+    Die IHK FOSA ist zentral für ganz Deutschland zuständig. Der Standort spielt hier keine Rolle für die Zuständigkeit, aber für die spätere ZAV/Visumsfrage ist er relevant.
+
+---
+
+## Erforderliche Dokumente für die Anerkennung
+
+### Für HWK-Berufe
+
+- Arbeitsbuch / Mehnat faoliyati (Arbeitsbescheinigung)
+- Ausbildungsnachweis (Diplom, Zeugnis)
+- Arbeitszeugnisse der letzten Arbeitgeber
+- Praktische Arbeitserfahrung nachweisen (mind. 3–5 Jahre)
+- Apostille und beglaubigte Übersetzung (Deutsch)
+
+### Für IHK-FOSA-Berufe
+
+- Ausbildungszeugnis / Abschlusszeugnis
+- Arbeitsbescheinigungen / Arbeitsbuch
+- Praktische Tätigkeitsnachweise (ggf. Fertigungspläne, Werkstattnachweise)
+- Apostille und beglaubigte Übersetzung (Deutsch)
+
+### Für Kranfahrer
+
+- Kranführerschein (anerkannt in der EU)
+- Führerschein C1E/CE
+- Arbeitsbescheinigung als Kranführer
+- Keine Anerkennung im klassischen Sinne, aber Arbeitsvisum über ZAV erforderlich
+
+---
+
+## Vorgehen bei der Rekrutierung
+
+1. **Kandidatenprofil klären**
+   - Welche Ausbildung hat der Kandidat?
+   - Welche Berufserfahrung liegt vor?
+   - Welcher Standort ist bei Max Bögl vorgesehen?
+
+2. **Deutschen Beruf zuordnen**
+   - Vergleich mit der deutschen Ausbildung
+   - Ggf. Beratung durch die zuständige Kammer vorab
+
+3. **Zuständige Kammer ermitteln**
+   - HWK-Beruf: HWK am Einsatzort
+   - IHK-Beruf: IHK FOSA (zentral)
+
+4. **Anerkennungsverfahren einleiten**
+   - Dokumente sammeln und übersetzen lassen
+   - Antrag bei der zuständigen Stelle
+
+5. **ZAV-Zustimmung und Visum**
+   - Nach Anerkennung oder bei Nachweis ausreichender Qualifikation: ZAV-Verfahren
+   - Visum nach § 18 AufenthG für Fachkräfte
+
+---
+
+## Häufige Fehler vermeiden
+
+| Fehler | Lösung |
+|--------|--------|
+| Falsche Kammer anschreiben | Zuständigkeit nach **Einsatzort**, nicht Unternehmenssitz prüfen |
+| Dokumente ohne Apostille | Usbekische Dokumente brauchen Apostille + Übersetzung |
+| Kranfahrer als Ausbildungsberuf behandeln | Kranfahrer ist kein dualer Ausbildungsberuf – Kranschein prüfen |
+| HWK-Beruf bei IHK FOSA einreichen | Vorab klären: Maurer/Betonbauer = HWK, Industriemechaniker = IHK FOSA |
+| Standort „bundesweit“ ignorieren | Bei Max-Bögl-Stellen oft bundesweite Einsätze – dann Hauptstandort oder erster Einsatzort wählen |
+
+---
+
+## Zusammenfassung für die Praxis
+
+- **6 von 11 Stellen** erfordern eine HWK-Anerkennung (Bau, Metall, Kranmontage).
+- **5 von 11 Stellen** laufen über die IHK FOSA (Elektro, CNC, Industriemechanik, Lagerlogistik).
+- **Kranfahrer** ist ein Sonderfall: Keine Anerkennung, aber Kranschein und Führerschein sind entscheidend.
+- Die **meisten HWK-Profile sind bundesweit** einsetzbar – die zuständige Kammer hängt vom konkreten Einsatzort ab.
+- Für **Sengenthal/Neumarkt** ist die **HWK für die Oberpfalz** in Regensburg zuständig.
+
+---
 
 ## Quellen
 
-- Max Bögl Stellenprofil-PDF „Alle Stellen Bögl“ (Stand: 2026)
+- Max Bögl Stellenprofil-PDF „Alle Stellen Bögl“ (2026)
 - IHK FOSA: https://www.ihk-fosa.de
-- Zuständige Handwerkskammern je Bundesland
+- Handwerkskammern der jeweiligen Bundesländer
+- AufenthG § 18 (Fachkräfteeinwanderung)
