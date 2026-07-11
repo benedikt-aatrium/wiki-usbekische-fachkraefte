@@ -71,6 +71,19 @@ Auf Anabin (https://anabin.kmk.org) finden sich für **Usbekistan** folgende, ta
 !!! note "Was bedeutet das in der Praxis?"
     Ein usbekischer Kandidat mit **Bakalavr in Bino va inshootlar qurilishi** (Bauingenieurwesen) erscheint in Anabin als Hochschulabschluss. Ob er für eine konkrete deutsche Position als Bauingenieur anerkannt wird, hängt aber von der **IHK FOSA** (für Ingenieure) oder der **zuständigen Kammer** ab, nicht von Anabin allein.
 
+### Anleitung: Anabin für ein usbekisches Studium prüfen
+
+1. Rufe https://anabin.kmk.org auf.
+2. Klicke auf **„Hochschulabschlüsse“** (oder „Schulabschlüsse“ für Schulzeugnisse).
+3. Wähle im Feld **„Länder“** die Option **Usbekistan**.
+4. Optional: Wähle einen **Abschlusstyp** (z. B. `bakalavr`, `magistr`, `mutaxassis`).
+5. Optional: Wähle eine **Studienrichtung** (z. B. `bino va inshootlar qurilishi` für Bauingenieurwesen).
+6. Klicke auf **„Suche starten“**.
+7. Prüfe das Ergebnis: **H+**, **H-** oder **H+/-**.
+
+!!! tip "Für Nicht-Deutschleser"
+    Die Anabin-Datenbank zeigt die usbekischen Studiengänge oft in der Originalsprache (kyrillisch oder lateinisch transliteriert). Suche am besten mit dem originalen usbekischen Begriff, z. B. `bino va inshootlar qurilishi` statt „Bauingenieurwesen“.
+
 ---
 
 ## 2. KMK – Kultusministerkonferenz
@@ -100,7 +113,39 @@ Die **Kultusministerkonferenz (KMK)** ist die Vereinigung der Bildungsministerie
 
 ---
 
-## 3. IHK FOSA / HWK – Anerkennung der Berufsausbildung
+## 3. Anerkennung in Deutschland & BQ-Portal – Weitere offizielle Quellen
+
+Neben Anabin gibt es zwei weitere zentrale Informationsportale des Bundes zur Anerkennung ausländischer Qualifikationen:
+
+### Anerkennung in Deutschland
+
+- Website: https://www.anerkennung-in-deutschland.de (live verifiziert)
+- Betreiber: Bundesministerium für Bildung und Forschung (BMBF) / Arbeitsgemeinschaft
+- Ziel: Wegweiser für alle, die eine ausländische Qualifikation in Deutschland anerkennen lassen möchten
+- Besonderheit: Bietet einen **Online-Assistenten**, der die zuständige Stelle für den jeweiligen Beruf und Wohnort findet.
+
+!!! tip "Wann nutzt man Anerkennung in Deutschland?"
+    Für Fachkräfte mit einer **usbekischen Berufsausbildung** (z. B. Maurer, Schweißer, Elektroniker) ist dieses Portal der bessere Einstieg als Anabin, weil es direkt zur **IHK FOSA** oder **HWK** weiterleitet.
+
+### BQ-Portal (Berufsqualifikation)
+
+- Website: https://www.bq-portal.de (live verifiziert)
+- Betreiber: Bundesministerium für Wirtschaft und Energie (BMWK) / Bundesinstitut für Berufsbildung (BIBB)
+- Ziel: Informationen über **Berufsqualifikationen aus aller Welt**, insbesondere aus Ländern, aus denen Deutschland Fachkräfte rekrutiert
+- Besonderheit: Ländersteckbriefe und Berufsprofile helfen, das Ausbildungssystem des Herkunftslandes zu verstehen
+
+!!! info "Usbekistan im BQ-Portal"
+    Im Länder- und Berufsprofil-Filter von BQ-Portal ist **Usbekistan** als Land auswählbar (live verifiziert im Juli 2026). Das Portal bietet damit prinzipiell Informationen zu usbekischen Ausbildungen und Berufen.
+
+| Portal | Wofür geeignet? | Für AATRIUM besonders wichtig bei |
+|---|---|---|
+| Anabin | Hochschul- und Schulabschlüsse | Ingenieuren, Technikern mit Studium |
+| Anerkennung in Deutschland | Wegweiser zur richtigen Anerkennungsstelle | Allen Fachkräften mit Berufsausbildung |
+| BQ-Portal | Informationen über ausländische Ausbildungssysteme | Vorbereitung von Bewerbungsgesprächen, Plausibilisierung von Kandidatenprofilen |
+
+---
+
+## 4. IHK FOSA / HWK – Anerkennung der Berufsausbildung
 
 Diese Stellen wurden bereits in Artikel 18 detailliert erklärt. Hier nur die Einordnung im Gesamtablauf:
 
@@ -113,9 +158,12 @@ Diese Stellen wurden bereits in Artikel 18 detailliert erklärt. Hier nur die Ei
 !!! tip "Verknüpfung"
     Die Berufsanerkennung ist für AATRIUM meist der **wichtigste Schritt**, weil die Kandidaten Facharbeiter sind. Sie muss **vor** oder **parallel** zum ZAV-Verfahren erfolgen.
 
+!!! warning "Hinweis zur IHK FOSA"
+    Die Hauptseite https://www.ihk-fosa.de ist live erreichbar. Direkte Unterseiten (z. B. `/der-ihk-fosa/anerkennung`, `/verfahren`) waren im Juli 2026 nicht mehr erreichbar (404). Für aktuelle Formulare und Abläufe sollte man direkt über die Hauptseite navigieren oder die zuständige IHK FOSA kontaktieren.
+
 ---
 
-## 4. ZAV – Zentrale Auslands- und Fachvermittlung
+## 5. ZAV – Zentrale Auslands- und Fachvermittlung
 
 ### Was ist die ZAV?
 
@@ -127,6 +175,13 @@ Die **ZAV** (Zentrale Auslands- und Fachvermittlung) ist eine Abteilung der **Bu
 
 !!! warning "Hinweis zur Quellenlage"
     Direkte Links zur ZAV (z. B. `/zav`, `/zustimmung-beschaeftigung`, `/arbeitsmarkt-beruf/fachkraefte-ankommen/zav...`) waren im Juli 2026 nicht mehr erreichbar (404). Die ZAV existiert weiterhin als Abteilung der Bundesagentur für Arbeit. Für aktuelle Antragsformulare sollte man die Bundesagentur für Arbeit direkt kontaktieren.
+
+!!! info "Alternative Informationsquellen zur ZAV"
+    Da die Direktlinks der Bundesagentur für Arbeit nicht verfügbar sind, können folgende Stellen aktuelle Informationen liefern:
+    - **Auswärtiges Amt**: Visum- und Einreisefragen (https://www.auswaertiges-amt.de)
+    - **Deutsche Botschaft Taschkent**: Zuständig für Visausbürgerung in Usbekistan
+    - **Arbeitgeber**: Reicht den ZAV-Antrag über die örtliche Agentur für Arbeit oder direkt bei der ZAV ein
+    - **Rechtsanwälte / Fachkräfteeinwanderungsberater**: Für komplexe Fälle
 
 ### Wann muss die ZAV eingeschaltet werden?
 
@@ -244,21 +299,21 @@ graph TD
 
 ## Checkliste: Alle Systeme im Blick
 
-### Für Kandidaten mit Berufsausbildung
+### Checkliste für Kandidaten mit Berufsausbildung
 
 - [ ] Ausbildung der IHK FOSA oder HWK zur Anerkennung vorlegen
 - [ ] Bescheid über Gleichwertigkeit einholen
 - [ ] Arbeitgeber reicht ZAV-Antrag ein
 - [ ] Nach ZAV-Zustimmung: Visum beantragen
 
-### Für Kandidaten mit Hochschulabschluss
+### Checkliste für Kandidaten mit Hochschulabschluss
 
 - [ ] Abschluss in Anabin prüfen
 - [ ] Ggf. offizielle Anerkennung des Studiums beantragen
 - [ ] Arbeitgeber reicht ZAV-Antrag ein
 - [ ] Nach ZAV-Zustimmung: Visum beantragen
 
-### Für Kandidaten mit Schulabschluss, aber ohne Berufsausbildung
+### Checkliste für Kandidaten mit Schulabschluss, aber ohne Berufsausbildung
 
 - [ ] Schulabschluss in Anabin/KMK prüfen
 - [ ] Ggf. Ausbildungsnachweis oder Qualifizierung
@@ -266,11 +321,34 @@ graph TD
 
 ---
 
-## Quellen
+## Praxis-Checkliste für AATRIUM-Recruiter (Patrick / Team)
 
-- Anabin: https://anabin.kmk.org (live verifiziert)
-- Anerkennung in Deutschland: https://www.anerkennung-in-deutschland.de (live verifiziert)
-- IHK FOSA: https://www.ihk-fosa.de
-- ZAV: *siehe Hinweis zur Quellenlage* – Bundesagentur für Arbeit (aktueller Direktlink nicht verfügbar)
-- KMK: https://www.kmk.org (live verifiziert, aber Seite zur Anerkennung ausländischer Abschlüsse nicht mehr erreichbar)
-- AufenthG § 18 (Fachkräfteeinwanderung)
+Bevor ein Kandidat an Max Bögl oder einen anderen Arbeitgeber weitergeleitet wird, sollten folgende Punkte geprüft werden:
+
+| Nr. | Prüfung | Wo nachschauen? | Was ist das Ziel? |
+|-----|---------|-----------------|-------------------|
+| 1 | Hat der Kandidat einen **Berufsabschluss**? | Arbeitsbuch, Arbeitsbescheinigung, Anketa, Zeugnisse | Klären, ob IHK FOSA oder HWK zuständig ist |
+| 2 | Hat der Kandidat ein **Studium**? | Diplom, Zeugnisse, Anabin | Anabin-Suche nach Stufe H+/H-/H+/- |
+| 3 | Ist der Beruf auf dem deutschen **Ausbildungsberufe-Index**? | Anerkennung in Deutschland / IHK FOSA / HWK | Einschätzung der Anerkennungswahrscheinlichkeit |
+| 4 | Gibt es **Berufserfahrung** statt Ausbildung? | Arbeitsbuch, Arbeitsbescheinigungen | ZAV kann bei ausreichender Erfahrung auch ohne Anerkennung zustimmen |
+| 5 | Ist der Arbeitgeber bereit, **ZAV-Antrag** zu stellen? | Gespräch mit Arbeitgeber | Ohne Arbeitgeber keine ZAV-Zustimmung |
+| 6 | Passen **Arbeitsvertrag** und **Qualifikation** zusammen? | ZAV prüft dies | Verhindert Ablehnung wegen unzureichender Qualifikation |
+
+!!! tip "Dokumenten-Check vor Weiterleitung"
+    Bevor ein Kandidat weitergeleitet wird, sollten immer vorliegen: **Arbeitsbuch / Arbeitsbescheinigung**, **Ausbildungszeugnis oder Studiennachweis**, **Passkopie**, **ggf. Anabin- oder Anerkennungsausdruck**.
+
+---
+
+## Quellen und Stand der Recherche
+
+- **Anabin**: https://anabin.kmk.org (live verifiziert, Juli 2026)
+- **Anerkennung in Deutschland**: https://www.anerkennung-in-deutschland.de (live verifiziert, Juli 2026)
+- **BQ-Portal**: https://www.bq-portal.de (live verifiziert, Usbekistan im Länderfilter vorhanden, Juli 2026)
+- **IHK FOSA**: https://www.ihk-fosa.de (Hauptseite live erreichbar; direkte Unterseiten im Juli 2026 nicht mehr verfügbar)
+- **KMK**: https://www.kmk.org (live erreichbar; Seite zur Anerkennung ausländischer Abschlüsse im Juli 2026 nicht mehr erreichbar)
+- **ZAV**: Bundesagentur für Arbeit (direkte URLs im Juli 2026 nicht mehr erreichbar)
+- **Auswärtiges Amt**: https://www.auswaertiges-amt.de (für Visum- und Einreisefragen)
+- **AufenthG § 18** (Fachkräfteeinwanderung)
+
+!!! info "Hinweis zur Recherche"
+    Dieser Artikel wurde auf Grundlage einer Live-Recherche im Juli 2026 erstellt. Viele Bundesbehörden-Websites (Bundesagentur für Arbeit, KMK, Bundesregierung, BMWK) haben ihre URL-Strukturen umfangreich umgebaut. Wo Direktlinks nicht mehr funktionierten, wurde dies transparent vermerkt.
