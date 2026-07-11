@@ -50,6 +50,27 @@ In vielen Informationsseiten werden **Anabin, ZAV, KMK, IHK FOSA und HWK** separ
 !!! warning "Wichtig"
     Anabin ersetzt **keine** offizielle Anerkennung. Es ist eine Orientierungshilfe. Für rechtsverbindliche Entscheidungen ist die zuständige Anerkennungsstelle zuständig.
 
+### Beispiel aus der Live-Recherche (Juli 2026)
+
+Auf Anabin (https://anabin.kmk.org) finden sich für **Usbekistan** folgende, tatsächlich im System vorhandene Hochschulabschlüsse (Auswahl):
+
+| Usbekischer Abschluss (Abschlusstyp) | Deutscher Vergleich | Typische Nutzung |
+|---|---|---|
+| **Bakalavr** | Bachelor | Erster Hochschulabschluss, ca. 4 Jahre |
+| **Magistr** | Master | Aufbauend auf Bakalavr, ca. 2 Jahre |
+| **Mutaxassis** | Diplom (Fach-)Hochschule | Qualifizierter Abschluss, teilweise 5-jährig |
+| **Fan doktori / falsafa doktori** | Promotion (PhD) | Doktorgrad |
+
+**Studienrichtungen, die für AATRIUM-Kandidaten relevant sein können:**
+
+- `bino va inshootlar qurilishi` → Bauingenieurwesen / Construction of Buildings and Structures
+- `agroinjeneriya` → Agrar-Ingenieurwesen
+- `elektr texnikasi, elektr mexanikasi va elektr texnologiyalari` → Elektrotechnik / Elektromechanik
+- `avtomobilsozlik va traktorsozlik` → Fahrzeug-/Traktorentechnik
+
+!!! note "Was bedeutet das in der Praxis?"
+    Ein usbekischer Kandidat mit **Bakalavr in Bino va inshootlar qurilishi** (Bauingenieurwesen) erscheint in Anabin als Hochschulabschluss. Ob er für eine konkrete deutsche Position als Bauingenieur anerkannt wird, hängt aber von der **IHK FOSA** (für Ingenieure) oder der **zuständigen Kammer** ab, nicht von Anabin allein.
+
 ---
 
 ## 2. KMK – Kultusministerkonferenz
