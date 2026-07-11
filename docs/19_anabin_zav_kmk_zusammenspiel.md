@@ -26,7 +26,7 @@ In vielen Informationsseiten werden **Anabin, ZAV, KMK, IHK FOSA und HWK** separ
 
 **Anabin** ist eine Online-Datenbank der Kultusministerkonferenz (KMK). Sie gibt Auskunft darüber, wie ausländische **Schul- und Hochschulabschlüsse** in Deutschland bewertet werden.
 
-- Website: https://anabin.kmk.org
+- Website: https://anabin.kmk.org (live verifiziert)
 - Betreiber: Kultusministerkonferenz (KMK)
 - Zielgruppe: Akademiker, Studienbewerber, Arbeitgeber, Behörden
 
@@ -57,6 +57,9 @@ In vielen Informationsseiten werden **Anabin, ZAV, KMK, IHK FOSA und HWK** separ
 ### Was ist die KMK?
 
 Die **Kultusministerkonferenz (KMK)** ist die Vereinigung der Bildungsministerien der Bundesländer. Sie legt gemeinsame Standards für Schulen und Hochschulen fest. Die KMK betreibt Anabin und regelt die Anerkennung ausländischer Schulabschlüsse.
+
+!!! warning "Hinweis zur Quellenlage"
+    Direkte Links zur KMK-Seite zur Anerkennung ausländischer Abschlüsse (z. B. `/themen/berufliche-schulen-und-berufsbildung/anerkennung-auslaendischer-abschluesse`) waren im Juli 2026 nicht mehr erreichbar (404). Die KMK als Betreiberin von Anabin ist weiterhin zuständig. Aktuelle Informationen finden sich auf https://www.kmk.org oder direkt in Anabin.
 
 ### Was macht die KMK für AATRIUM?
 
@@ -95,10 +98,14 @@ Diese Stellen wurden bereits in Artikel 18 detailliert erklärt. Hier nur die Ei
 
 ### Was ist die ZAV?
 
-Die **ZAV** (Zentrale Auslands- und Fachvermittlung) ist eine Abteilung der Bundesagentur für Arbeit. Sie prüft, ob die **Beschäftigung eines ausländischen Arbeitnehmers** in Deutschland zugelassen wird.
+Die **ZAV** (Zentrale Auslands- und Fachvermittlung) ist eine Abteilung der **Bundesagentur für Arbeit**. Sie prüft, ob die **Beschäftigung eines ausländischen Arbeitnehmers** in Deutschland zugelassen wird.
 
 - Zuständig für: Arbeitserlaubnis/Arbeitsplatzprüfung vor Visumerteilung
 - Wichtig für: Nicht-EU-Bürger, die in Deutschland arbeiten wollen
+- Website: *Die Bundesagentur für Arbeit hat ihre URL-Struktur umfangreich geändert. Eine stabile, direkte URL für die ZAV war im Juli 2026 nicht mehr erreichbar. Aktuelle Formulare und Informationen finden sich über die Suche auf* https://www.arbeitsagentur.de *oder direkt bei der ZAV per E-Mail/Telefon.*
+
+!!! warning "Hinweis zur Quellenlage"
+    Direkte Links zur ZAV (z. B. `/zav`, `/zustimmung-beschaeftigung`, `/arbeitsmarkt-beruf/fachkraefte-ankommen/zav...`) waren im Juli 2026 nicht mehr erreichbar (404). Die ZAV existiert weiterhin als Abteilung der Bundesagentur für Arbeit. Für aktuelle Antragsformulare sollte man die Bundesagentur für Arbeit direkt kontaktieren.
 
 ### Wann muss die ZAV eingeschaltet werden?
 
@@ -240,9 +247,9 @@ graph TD
 
 ## Quellen
 
-- Anabin: https://anabin.kmk.org
-- Anerkennung in Deutschland: https://www.anerkennung-in-deutschland.de
+- Anabin: https://anabin.kmk.org (live verifiziert)
+- Anerkennung in Deutschland: https://www.anerkennung-in-deutschland.de (live verifiziert)
 - IHK FOSA: https://www.ihk-fosa.de
-- ZAV: https://www.arbeitsagentur.de/zav (allgemein)
-- KMK: https://www.kmk.org
+- ZAV: *siehe Hinweis zur Quellenlage* – Bundesagentur für Arbeit (aktueller Direktlink nicht verfügbar)
+- KMK: https://www.kmk.org (live verifiziert, aber Seite zur Anerkennung ausländischer Abschlüsse nicht mehr erreichbar)
 - AufenthG § 18 (Fachkräfteeinwanderung)
