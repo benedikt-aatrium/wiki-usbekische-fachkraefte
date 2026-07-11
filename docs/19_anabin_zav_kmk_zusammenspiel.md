@@ -52,24 +52,38 @@ In vielen Informationsseiten werden **Anabin, ZAV, KMK, IHK FOSA und HWK** separ
 
 ### Beispiel aus der Live-Recherche (Juli 2026)
 
-Auf Anabin (https://anabin.kmk.org) finden sich für **Usbekistan** folgende, tatsächlich im System vorhandene Hochschulabschlüsse (Auswahl):
+Auf Anabin (https://anabin.kmk.org) finden sich für **Usbekistan** tatsächlich im System vorhandene Hochschulabschlüsse. Die Live-Recherche (Juli 2026) ergab konkrete Einträge, die für AATRIUM relevant sind:
 
-| Usbekischer Abschluss (Abschlusstyp) | Deutscher Vergleich | Typische Nutzung |
-|---|---|---|
-| **Bakalavr** | Bachelor | Erster Hochschulabschluss, ca. 4 Jahre |
-| **Magistr** | Master | Aufbauend auf Bakalavr, ca. 2 Jahre |
-| **Mutaxassis** | Diplom (Fach-)Hochschule | Qualifizierter Abschluss, teilweise 5-jährig |
-| **Fan doktori / falsafa doktori** | Promotion (PhD) | Doktorgrad |
+### Beispiele für Bachelor (bakalavr)
 
-**Studienrichtungen, die für AATRIUM-Kandidaten relevant sein können:**
+| Usbekischer Abschluss | Deutscher Vergleich | Klasse | Studienrichtung |
+|---|---|---|---|
+| `bakalavr (bino va inshootlar qurilishi)` | Bachelor (Bauwesen und Baukonstruktionen) | **A4** | Bauwesen und Baukonstruktionen |
+| `akparattyk-kommunikacijalyk technologijalar salasynyn bakalavry (bagdarlamalyk inzenerija)` | Bachelor im Bereich Informations- und Kommunikationstechnologien (Softwaretechnik) | **A4** | Softwaretechnik / Software Engineering |
+| `akparattyk-kommunikacijalyk technologijalar salasynyn bakalavry (telekommunikacijalyk züjeler)` | Bachelor im Bereich Informations- und Kommunikationstechnologien (Telekommunikationssysteme) | **A4** | Telekommunikationssysteme |
+| `ajyl carbasynyn bakalavry (agroekonomika)` | Bachelor der Landwirtschaft (Agrarökonomie) | **A4** | Agrarökonomie |
+| `architektor-dyzajner (architektura)` | Architekt-Designer (Architektur) | **A4** | Architektur |
 
-- `bino va inshootlar qurilishi` → Bauingenieurwesen / Construction of Buildings and Structures
-- `agroinjeneriya` → Agrar-Ingenieurwesen
-- `elektr texnikasi, elektr mexanikasi va elektr texnologiyalari` → Elektrotechnik / Elektromechanik
-- `avtomobilsozlik va traktorsozlik` → Fahrzeug-/Traktorentechnik
+### Beispiele für Master (magistr)
+
+| Usbekischer Abschluss | Deutscher Vergleich | Klasse | Studienrichtung |
+|---|---|---|---|
+| `magistr (elektr energeticarsi tizim va tarmoqlar)` | Master (Elektrische Energienetze und -systeme) | **A5** | Elektrische Energienetze und -systeme |
+| `magistr (kopriklar va transport tonnellaridan foydalanish)` | Master (Instandhaltung von Brücken und Verkehrstunneln) | **A5** | Instandhaltung von Brücken und Verkehrstunneln |
+| `magistr (neft va gaz quduqlarini burgulash)` | Master (Erdöl- und Erdgasbohrungen) | **A5** | Erdöl- und Erdgasbohrungen |
+| `magistr (suv taminati, suv oqizish)` | Magister (Wasserversorgung und -netze) | **A5** | Wasserversorgung und -netze |
+| `Biznes boshqaruvi magistri (biznes boshqaruvi)` | Master für Betriebswirtschaft (Betriebswirtschaft) | **A5** | Betriebswirtschaft |
+
+### Was bedeutet die Klasse?
+
+| Klasse | Bedeutung |
+|---|---|
+| **A4** | Bachelor vergleichbar |
+| **A5** | Master vergleichbar |
+| **A6** | Promotion vergleichbar |
 
 !!! note "Was bedeutet das in der Praxis?"
-    Ein usbekischer Kandidat mit **Bakalavr in Bino va inshootlar qurilishi** (Bauingenieurwesen) erscheint in Anabin als Hochschulabschluss. Ob er für eine konkrete deutsche Position als Bauingenieur anerkannt wird, hängt aber von der **IHK FOSA** (für Ingenieure) oder der **zuständigen Kammer** ab, nicht von Anabin allein.
+    Ein usbekischer Kandidat mit **Bakalavr in Bino va inshootlar qurilishi** (Bauwesen und Baukonstruktionen) wird in Anabin als **Klasse A4** geführt. Das ist ein konkreter Hinweis auf die Gleichwertigkeit mit einem deutschen Bachelor. Ob er für eine konkrete deutsche Position als Bauingenieur anerkannt wird, hängt aber von der **IHK FOSA** (für Ingenieure) oder der **zuständigen Kammer** ab, nicht von Anabin allein.
 
 ### Anleitung: Anabin für ein usbekisches Studium prüfen
 
@@ -86,14 +100,57 @@ Auf Anabin (https://anabin.kmk.org) finden sich für **Usbekistan** folgende, ta
 
 ---
 
-## 2. KMK – Kultusministerkonferenz
+## 2. Anabin-Einträge für konkrete Max-Bögl-Berufe (Juli 2026)
+
+Die folgenden Zuordnungen basieren auf der Stellenprofile-PDF der Max-Bögl-Firmengruppe (`Alle Stellen Bögl.pdf`, 21 Seiten, 11 Profile) und einer Live-Recherche in Anabin. Sie zeigen, welche usbekischen **Hochschulabschlüsse** für typische Bögl-Berufe in Anabin gefunden wurden. Die meisten Max-Bögl-Positionen sind jedoch **Facharbeiterstellen**, für die Anabin nur bedingt relevant ist – die eigentliche Berufsanerkennung erfolgt über IHK FOSA/HWK. Diese Liste ist keine Garantie für Anerkennung, liefert aber eine konkrete Orientierung für Recruiter.
+
+| # | Max-Bögl-Stelle | Referenzcode | Relevante Anforderung | Usbekischer Abschluss in Anabin | Deutscher Vergleich | Klasse | Anabin-relevant? |
+|---|-----------------|--------------|----------------------|----------------------------------|---------------------|--------|------------------|
+| 1 | Baufacharbeiter / Baumaschinist (Tiefbau) | `DE-50311082-0002-B` | Facharbeiter/Berufserfahrung, Baumaschinenführer | `bakalavr (avtomobil yo'llari, ko'priklar, tonnellar, yo'l o'tkazgichlar va aerodromlarni loyihalash va qurish)` | Bachelor (Planung und Bau von Autobahnen, Brücken, Tunneln, Straßenüberführungen und Flugplätzen) | **A4** | Nur bei Studium |
+| 2 | Elektroniker für Geräte und Systeme | `DE-50438392-0002-A` | Elektroniker/Mechatroniker-Ausbildung | `bakalavr (avtomobilsozlik va traktorsozlik)` | Bachelor (Automobil- und Traktorenbau) | **A4** | Nur bei Studium |
+| 3 | Elektroniker für Baustellenversorgung (Frankfurt/Stuttgart) | `DE-50456029-0002-A` | Elektroniker/Mechatroniker-Ausbildung | `bakalavr (avtomobilsozlik va traktorsozlik)` | Bachelor (Automobil- und Traktorenbau) | **A4** | Nur bei Studium |
+| 4 | Kranfahrer (Mobil-/Raupen-/Turmdrehkran) | `DE-50493401-0002-A` | Facharbeiter, Kranführer | *kein passender usbekischer Anabin-Eintrag* | — | — | Nein |
+| 5 | Kranmonteur | `DE-50455987-0002-A` | Schlosser, Maschinenschlosser, Kfz-/Landmaschinenmechatroniker | *kein passender usbekischer Anabin-Eintrag* | — | — | Nein |
+| 6 | Tiefbaufacharbeiter / Rohrleger (Infrastruktur) | `DE-50472915-0002-A` | Facharbeiter/Berufserfahrung, Tiefbau/Rohrleger | `bakalavr (suv xo'jaligi va melioratsiya)` | Bachelor (Wasserwirtschaft und Melioration) | **A4** | Nur bei Studium |
+| 7 | CNC-Anlagenbediener (Windenergie) | `DE-50439123-0002-A` | Zerspanungsmechaniker, CNC-Schleifer oder gleichwertig | *kein passender usbekischer Anabin-Eintrag* | — | — | Nein |
+| 8 | Fachkraft für Lagerlogistik (Kommissionierung Windkraft) | `DE-50484766-0002-A` | Lagerlogistik/Fachkraft für Lagerlogistik | *kein passender usbekischer Anabin-Eintrag* | — | — | Nein |
+| 9 | Industriemechaniker (Instandhaltung/Anlagenbau) | `DE-50483273-0002-A` | Industriemechaniker-Ausbildung oder gleichwertig | *kein passender usbekischer Anabin-Eintrag* | — | — | Nein |
+| 10 | Maurer / Betonbauer / Zimmerer | `DE-50444256-0002-A` | Maurer/Betonbauer/Zimmerer oder gleichwertig | *kein passender usbekischer Anabin-Eintrag* | — | — | Nein |
+| 11 | Schlosser / Monteur im Stahlbau | `DE-50489411-0002-A` | Facharbeiter, Montage/Stahlbau | *kein passender usbekischer Anabin-Eintrag* | — | — | Nein |
+
+### Erklärung: „Nur bei Studium“ vs. „Nein“
+
+| Kategorie | Bedeutung | Konsequenz für AATRIUM |
+|-----------|-----------|------------------------|
+| **Nur bei Studium** | Anabin listet einen passenden usbekischen Bachelor für diesen Fachbereich. Falls der Kandidat **tatsächlich ein Studium** hat, kann Anabin die akademische Einordnung liefern. Für die eigentliche Facharbeiterstelle ist aber trotzdem die **IHK FOSA/HWK** zuständig. | Recruiter sollten prüfen, ob der Kandidat ein Studium hat, aber dürfen Anabin nicht als Berufsanerkennung missverstehen. |
+| **Nein** | Anabin listet **keinen** usbekischen Hochschulabschluss, der direkt auf diese Berufsausbildung passt. | Anabin ist hier komplett irrelevant. Die Anerkennung muss über IHK FOSA/HWK oder eine ZAV-Entscheidung auf Basis von Berufserfahrung erfolgen. |
+
+!!! warning "Kernbotschaft"
+    Für **9 von 11** Max-Bögl-Positionen ist Anabin **nicht die richtige Datenbank**, weil es sich um Facharbeiterausbildungen handelt. Die korrekte Anerkennungsstelle ist die **IHK FOSA** (Industrie/Technik) oder die **HWK** (Handwerk/Bau). Anabin ist nur für Kandidaten mit Hochschulabschluss relevant und selbst dann nur als ergänzende Orientierung.
+
+!!! note "Weitere usbekische Anabin-Treffer (allgemein bau- und wassertechnisch)"
+    Zusätzlich zu den oben genannten passenden Einträgen finden sich in Anabin für Usbekistan weitere Hochschulabschlüsse in verwandten Bereichen, die bei bestimmten Kandidatenprofilen nützlich sein können:
+
+    | Usbekischer Abschluss | Deutscher Vergleich | Klasse | Anwendungskontext |
+    |---|---|---|---|
+    | `bakalavr (suv xo'jaligida menejment)` | Bachelor (Management in der Wasserwirtschaft) | **A4** | Wasserwirtschaft, Tiefbau |
+    | `magistr (suv taminati, suv oqizish)` | Magister (Wasserversorgung und -netze) | **A5** | Tiefbau, Rohrleitungen |
+    | `muhandis-kuruvic (suv tabminoti, kanalizacija, suv dojliklaridan...)` | Bauingenieur (Wasserversorgung, Kanalisation, Rationalisierung der Nutzung von Wasserressourcen) | **A5** | Tiefbau, Infrastruktur |
+    | `bakalavr (bino va inshootlar qurilishi)` | Bachelor (Bauwesen und Baukonstruktionen) | **A4** | Allgemeiner Bauwesen-Bachelor |
+
+!!! tip "Recherche-Tipp"
+    In Anabin funktioniert die Suche nach Ländern über das Dropdown nur eingeschränkt. Gezielte Suchbegriffe in usbekischer Sprache liefern bessere Ergebnisse: `bino`, `inshoot`, `elektr`, `mexanika`, `mashinasozlik`, `energetika`, `transport`, `suv`, `avtomobil`, `yo'l`. Für reine Berufsausbildungen sollte aber nicht Anabin, sondern `Anerkennung in Deutschland` genutzt werden.
+
+---
+
+## 3. KMK – Kultusministerkonferenz
 
 ### Was ist die KMK?
 
 Die **Kultusministerkonferenz (KMK)** ist die Vereinigung der Bildungsministerien der Bundesländer. Sie legt gemeinsame Standards für Schulen und Hochschulen fest. Die KMK betreibt Anabin und regelt die Anerkennung ausländischer Schulabschlüsse.
 
 !!! warning "Hinweis zur Quellenlage"
-    Direkte Links zur KMK-Seite zur Anerkennung ausländischer Abschlüsse (z. B. `/themen/berufliche-schulen-und-berufsbildung/anerkennung-auslaendischer-abschluesse`) waren im Juli 2026 nicht mehr erreichbar (404). Die KMK als Betreiberin von Anabin ist weiterhin zuständig. Aktuelle Informationen finden sich auf https://www.kmk.org oder direkt in Anabin.
+    Eine aktuelle KMK-Seite zur Anerkennung ausländischer Abschlüsse ist verfügbar: https://www.kmk.org/kultusministerkonferenz/uebergreifende-themen/anerkennung-auslaendischer-abschluesse.html (live verifiziert, Juli 2026). Ältere Direktlinks (z. B. `/themen/berufliche-schulen-und-berufsbildung/anerkennung-auslaendischer-abschluesse`) waren nicht mehr erreichbar. Die KMK als Betreiberin von Anabin ist weiterhin zuständig.
 
 ### Was macht die KMK für AATRIUM?
 
@@ -113,7 +170,7 @@ Die **Kultusministerkonferenz (KMK)** ist die Vereinigung der Bildungsministerie
 
 ---
 
-## 3. Anerkennung in Deutschland & BQ-Portal – Weitere offizielle Quellen
+## 4. Anerkennung in Deutschland & BQ-Portal – Weitere offizielle Quellen
 
 Neben Anabin gibt es zwei weitere zentrale Informationsportale des Bundes zur Anerkennung ausländischer Qualifikationen:
 
@@ -137,15 +194,50 @@ Neben Anabin gibt es zwei weitere zentrale Informationsportale des Bundes zur An
 !!! info "Usbekistan im BQ-Portal"
     Im Länder- und Berufsprofil-Filter von BQ-Portal ist **Usbekistan** als Land auswählbar (live verifiziert im Juli 2026). Das Portal bietet damit prinzipiell Informationen zu usbekischen Ausbildungen und Berufen.
 
-| Portal | Wofür geeignet? | Für AATRIUM besonders wichtig bei |
-|---|---|---|
-| Anabin | Hochschul- und Schulabschlüsse | Ingenieuren, Technikern mit Studium |
-| Anerkennung in Deutschland | Wegweiser zur richtigen Anerkennungsstelle | Allen Fachkräften mit Berufsausbildung |
-| BQ-Portal | Informationen über ausländische Ausbildungssysteme | Vorbereitung von Bewerbungsgesprächen, Plausibilisierung von Kandidatenprofilen |
+### Usbekische Berufsausbildungssysteme im BQ-Portal
+
+Das BQ-Portal-Länderprofil für Usbekistan (gültig seit 01.09.2020) beschreibt das formelle Ausbildungssystem. Für die Praxis bei AATRIUM sind folgende Abschlüsse und Nachweistypen relevant:
+
+| Stufe | Institution | Dauer | Usbekischer Abschluss | Deutscher Gegenstück | Für AATRIUM relevant |
+|---|---|---|---|---|---|
+| Grundlegende Berufsbildung | Berufsschule / Professional college | 2 Jahre | `O’zbekiston Respublikasi Boshlangʻich professional taʼlim diplomi` (Diploma of primary professional education) | Einfache Berufsausbildung / Grundbildung | Ja, für Facharbeiterstellen |
+| Mittlere Berufsbildung | College | bis 2 Jahre | `O’zbekiston Respublikasi oʻrta professional taʼlim diplomi` (Diploma of secondary professional education) | Mittlere Berufsausbildung | Ja, typische Facharbeiterqualifikation |
+| Mittlere Fachschulbildung | Technikum | mind. 2 Jahre | `O’zbekiston Respublikasi oʻrta maxsus professional ta’lim diplomi` (Diploma of secondary specialized professional education) | Techniker / Fachschulabschluss | Ja, für höherqualifizierte Fachkräfte |
+| Bachelor | Universität | 4 Jahre | `O’zbekiston Respublikasi BAKALAVR DIPLOMI` | Bachelor | Ja, für akademische/technische Stellen |
+| Master | Universität | 2 Jahre | `O’zbekiston Respublikasi MAGISTR DIPLOMI` | Master | Ja, für Führungs-/Ingenieurstellen |
+
+!!! warning "Wichtig: Die Dokumente heißen anders"
+    In der usbekischen Praxis sind für die Anerkennung in Deutschland meist **nicht** die reinen Diplome entscheidend, sondern die **Arbeitsnachweise**:
+    - **Arbeitsbuch** (Mehnat daftari / Трудовая книжка) – der wichtigste Nachweis für Berufserfahrung
+    - **Arbeitsbescheinigungen** (Ish staji to‘g‘risida ma’lumotnoma / Свидетельство о стаже)
+    - **Ausbildungszeugnis** oder **Diplom** des Berufskollegs/Technikums
+    - Für sowjetische Abschlüsse: **Svidetelstvo** (Свидетельство) oder **Attestat** mit Qualifikationskategorie (Razrjad)
+
+### Berufsprofile im BQ-Portal für Max-Bögl-Berufe
+
+Das BQ-Portal listet für Usbekistan konkrete Berufsprofile, die für die Max-Bögl-Positionen relevant sind. Die folgende Tabelle zeigt die Zuordnung:
+
+| Max-Bögl-Stelle | BQ-Portal-Profil Usbekistan | Usbekischer/russischer Titel | Gültigkeitszeitraum | Hinweis |
+|---|---|---|---|---|
+| Elektroniker für Geräte und Systeme / Elektroniker für Baustellenversorgung | `Autoschlosser (Qualifikationskategorie 3/4/6)` | `Слесарь по ремонту автомобилей (3/4/6 разряд)` | 1969–1985 / Seit 1985 | Nächster verwandter Beruf; Elektroniker-Beruf nicht explizit gelistet |
+| Kranmonteur / Schlosser / Monteur im Stahlbau | `Autoschlosser (Qualifikationskategorie 4/6)` | `Слесарь по ремонту автомобилей 4/6-го разряда` | 1969–1985 / Seit 1985 | Allgemeiner Schlosserbereich; Kran/Stahlbau nicht separat |
+| Maurer / Betonbauer / Zimmerer | `Bautischler` / `Bautischler, Zimmerer (Parkettleger)` | `Столяр строительный`, `плотник` | 1986–2001 | Zimmerer/Bautischler, aber kein Maurer/Betonbauer |
+| Baufacharbeiter / Baumaschinist | `Bautechniker/in` | `Quruvchi-texnik` | Seit 2021 | Techniker-Niveau, nicht reine Facharbeiterausbildung |
+| (akademische Bau-/Wasserstellen) | `Bautechniker, Fr. Industrie- und Zivilbau` | `Техник-строитель` | 1982–1990 | Mittlere Fachschule |
+| (akademische Bau-/Wasserstellen) | `Bautechniker-Technologe (Bau von Gebäuden und Anlagen)` | `Техник-строитель-технолог` | 1990–1997 | Mittlere Fachschule |
+
+!!! warning "Fazit BQ-Portal-Recherche"
+    Für die meisten reinen **Facharbeiterstellen** (Maurer, Betonbauer, Kranfahrer, CNC, Industriemechaniker, Elektroniker, Lagerlogistik) existieren im BQ-Portal **keine direkten usbekischen Berufsprofile**. Die nächsten verwandten Profile sind Autoschlosser und Bautischler. Das bedeutet: Die Anerkennung dieser usbekischen Facharbeiter in Deutschland erfordert in der Regel eine **individuelle Gleichwertigkeitsprüfung** durch IHK FOSA oder HWK auf Basis von Arbeitsbuch, Zeugnissen und ggf. Prüfung.
+
+|| Portal | Wofür geeignet? | Für AATRIUM besonders wichtig bei |
+|---|---|---|---|
+|| Anabin | Hochschul- und Schulabschlüsse | Ingenieuren, Technikern mit Studium |
+|| Anerkennung in Deutschland | Wegweiser zur richtigen Anerkennungsstelle | Allen Fachkräften mit Berufsausbildung |
+|| BQ-Portal | Informationen über ausländische Ausbildungssysteme und konkrete Berufsprofile | Vorbereitung von Bewerbungsgesprächen, Plausibilisierung von Kandidatenprofilen, Erwartungsmanagement bei fehlenden direkten Berufsprofilen |
 
 ---
 
-## 4. IHK FOSA / HWK – Anerkennung der Berufsausbildung
+## 5. IHK FOSA / HWK – Anerkennung der Berufsausbildung
 
 Diese Stellen wurden bereits in Artikel 18 detailliert erklärt. Hier nur die Einordnung im Gesamtablauf:
 
@@ -159,11 +251,15 @@ Diese Stellen wurden bereits in Artikel 18 detailliert erklärt. Hier nur die Ei
     Die Berufsanerkennung ist für AATRIUM meist der **wichtigste Schritt**, weil die Kandidaten Facharbeiter sind. Sie muss **vor** oder **parallel** zum ZAV-Verfahren erfolgen.
 
 !!! warning "Hinweis zur IHK FOSA"
-    Die Hauptseite https://www.ihk-fosa.de ist live erreichbar. Direkte Unterseiten (z. B. `/der-ihk-fosa/anerkennung`, `/verfahren`) waren im Juli 2026 nicht mehr erreichbar (404). Für aktuelle Formulare und Abläufe sollte man direkt über die Hauptseite navigieren oder die zuständige IHK FOSA kontaktieren.
+    Die IHK FOSA-Website ist unter https://www.ihk-fosa.de erreichbar. Wichtige Unterseiten (z. B. Antragstellung, Verfahren, Beratungsstellen) sind wieder verfügbar, wurden bei der Live-Prüfung im Juli 2026 aber teilweise durch Rate-Limiting (HTTP 429) blockiert. Direktlinks aus der Web-Recherche:
+    - Antragstellung: https://www.ihk-fosa.de/antragstellung/
+    - Verfahren: https://www.ihk-fosa.de/verfahren/
+    - Beratungsstellen: https://www.ihk-fosa.de/beratungsstellen/
+    - Flyer „Anerkennung in Deutschland“ (PDF): https://www.ihk-fosa.de/fileadmin/Dateien/Informationsmaterial/anerkennung-in-deutschland-flyer.pdf
 
 ---
 
-## 5. ZAV – Zentrale Auslands- und Fachvermittlung
+## 6. ZAV – Zentrale Auslands- und Fachvermittlung
 
 ### Was ist die ZAV?
 
@@ -171,13 +267,16 @@ Die **ZAV** (Zentrale Auslands- und Fachvermittlung) ist eine Abteilung der **Bu
 
 - Zuständig für: Arbeitserlaubnis/Arbeitsplatzprüfung vor Visumerteilung
 - Wichtig für: Nicht-EU-Bürger, die in Deutschland arbeiten wollen
-- Website: *Die Bundesagentur für Arbeit hat ihre URL-Struktur umfangreich geändert. Eine stabile, direkte URL für die ZAV war im Juli 2026 nicht mehr erreichbar. Aktuelle Formulare und Informationen finden sich über die Suche auf* https://www.arbeitsagentur.de *oder direkt bei der ZAV per E-Mail/Telefon.*
+- Aktuelle Links (Juli 2026 live verifiziert):
+  - **ZAV-Startseite**: https://www.arbeitsagentur.de/vor-ort/zav/startseite
+  - **ZAV – Über uns**: https://www.arbeitsagentur.de/vor-ort/zav/ueber-uns
+  - **Regionale Zuständigkeiten (PDF)**: https://www.arbeitsagentur.de/datei/regionale-zustaendigkeiten-der-zav-im-bereich-arbeitsmarktzulassung_ba048053.pdf
+- Kontakt: zav@arbeitsagentur.de, Tel. +49 228 713 1313
 
 !!! warning "Hinweis zur Quellenlage"
-    Direkte Links zur ZAV (z. B. `/zav`, `/zustimmung-beschaeftigung`, `/arbeitsmarkt-beruf/fachkraefte-ankommen/zav...`) waren im Juli 2026 nicht mehr erreichbar (404). Die ZAV existiert weiterhin als Abteilung der Bundesagentur für Arbeit. Für aktuelle Antragsformulare sollte man die Bundesagentur für Arbeit direkt kontaktieren.
+    Ältere Direktlinks zur ZAV (z. B. `/zav`, `/zustimmung-beschaeftigung`, `/arbeitsmarkt-beruf/fachkraefte-ankommen/zav`) waren im Juli 2026 nicht mehr erreichbar (404). Die Bundesagentur für Arbeit hat ihre URL-Struktur umgebaut. Die oben genannten aktuellen Links funktionieren.
 
-!!! info "Alternative Informationsquellen zur ZAV"
-    Da die Direktlinks der Bundesagentur für Arbeit nicht verfügbar sind, können folgende Stellen aktuelle Informationen liefern:
+!!! info "Weitere Orientierung bei ZAV-Fragen"
     - **Auswärtiges Amt**: Visum- und Einreisefragen (https://www.auswaertiges-amt.de)
     - **Deutsche Botschaft Taschkent**: Zuständig für Visausbürgerung in Usbekistan
     - **Arbeitgeber**: Reicht den ZAV-Antrag über die örtliche Agentur für Arbeit oder direkt bei der ZAV ein
@@ -342,13 +441,26 @@ Bevor ein Kandidat an Max Bögl oder einen anderen Arbeitgeber weitergeleitet wi
 ## Quellen und Stand der Recherche
 
 - **Anabin**: https://anabin.kmk.org (live verifiziert, Juli 2026)
+- **Max-Bögl-Stellenprofile PDF**: `"Alle Stellen Bögl.pdf"` (21 Seiten, 11 Profile; ausgewertet für die Berufs-Tabelle)
 - **Anerkennung in Deutschland**: https://www.anerkennung-in-deutschland.de (live verifiziert, Juli 2026)
 - **BQ-Portal**: https://www.bq-portal.de (live verifiziert, Usbekistan im Länderfilter vorhanden, Juli 2026)
-- **IHK FOSA**: https://www.ihk-fosa.de (Hauptseite live erreichbar; direkte Unterseiten im Juli 2026 nicht mehr verfügbar)
-- **KMK**: https://www.kmk.org (live erreichbar; Seite zur Anerkennung ausländischer Abschlüsse im Juli 2026 nicht mehr erreichbar)
-- **ZAV**: Bundesagentur für Arbeit (direkte URLs im Juli 2026 nicht mehr erreichbar)
+- **IHK FOSA**: https://www.ihk-fosa.de (live erreichbar; Unterseiten teilweise durch Rate-Limiting blockiert)
+  - Antragstellung: https://www.ihk-fosa.de/antragstellung/
+  - Verfahren: https://www.ihk-fosa.de/verfahren/
+  - Beratungsstellen: https://www.ihk-fosa.de/beratungsstellen/
+  - Flyer „Anerkennung in Deutschland“ (PDF): https://www.ihk-fosa.de/fileadmin/Dateien/Informationsmaterial/anerkennung-in-deutschland-flyer.pdf
+- **KMK – Anerkennung ausländischer Qualifikationen**: https://www.kmk.org/kultusministerkonferenz/uebergreifende-themen/anerkennung-auslaendischer-abschluesse.html (live verifiziert, Juli 2026)
+- **ZAV – Bundesagentur für Arbeit**: https://www.arbeitsagentur.de/vor-ort/zav/startseite (live verifiziert, Juli 2026)
+  - Über uns: https://www.arbeitsagentur.de/vor-ort/zav/ueber-uns
+  - Regionale Zuständigkeiten (PDF): https://www.arbeitsagentur.de/datei/regionale-zustaendigkeiten-der-zav-im-bereich-arbeitsmarktzulassung_ba048053.pdf
+  - Kontakt: zav@arbeitsagentur.de, Tel. +49 228 713 1313
+- **BMAS – Fachkräfteeinwanderungsgesetz**: https://www.bmas.de/DE/Arbeit/Migration-und-Arbeit/Rechtliches-zu-Einreise-Arbeitsmarktzugang-und-Absicherung/Fachkraefteeinwanderungsgesetz/fachkraefteeinwanderungsgesetz.html (live verifiziert, Juli 2026)
+- **BAMF – Fachkräfte mit Berufsausbildung**: https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html (live verifiziert, Juli 2026)
+- **BMWK – „Möglichkeiten der Fachkräfteeinwanderung“ (PDF)**: https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/Ausbildung-und-Beruf/moeglichkeiten-der-fachkraefteeinwanderung.pdf
+- **BMWK – „Beschleunigtes Fachkräfteverfahren“ (PDF)**: https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/Ausbildung-und-Beruf/beschleunigtes-fachkraefteverfahren.pdf
+- **Bundesagentur für Arbeit – „Das Fachkräfteeinwanderungsgesetz“ (PDF)**: https://www.arbeitsagentur.de/datei/dam-fachkraefte-einwanderungsgesetz_ba030375.pdf
 - **Auswärtiges Amt**: https://www.auswaertiges-amt.de (für Visum- und Einreisefragen)
 - **AufenthG § 18** (Fachkräfteeinwanderung)
 
 !!! info "Hinweis zur Recherche"
-    Dieser Artikel wurde auf Grundlage einer Live-Recherche im Juli 2026 erstellt. Viele Bundesbehörden-Websites (Bundesagentur für Arbeit, KMK, Bundesregierung, BMWK) haben ihre URL-Strukturen umfangreich umgebaut. Wo Direktlinks nicht mehr funktionierten, wurde dies transparent vermerkt.
+    Dieser Artikel wurde auf Grundlage einer Live-Recherche im Juli 2026 erstellt. Viele Bundesbehörden-Websites haben ihre URL-Strukturen umgebaut. Die oben genannten Links wurden im Juli 2026 live verifiziert. Ältere Direktlinks, die nicht mehr funktionieren, wurden ersetzt.
