@@ -225,16 +225,27 @@ Die Max Bögl Unternehmensgruppe rekrutiert Fachkräfte für **11 verschiedene B
 - Ausbildungsnachweis (Diplom, Zeugnis) mit Apostille
 - Arbeitszeugnisse der letzten Arbeitgeber
 - Praktische Arbeitserfahrung nachweisen (mind. 3–5 Jahre)
-- Beglaubigte Übersetzung (Deutsch)
+- Beglaubigte Übersetzung (Deutsch) durch öffentlich bestellte oder beeidigte Dolmetscher
 - Nachweis der individuellen beruflichen Handlungsfähigkeit (§ 41b Abs. 3 HwO)
 
 ### Für IHK-FOSA-Berufe (§ 50 BBiG)
 
-- Ausbildungszeugnis / Abschlusszeugnis mit Apostille
-- Arbeitsbescheinigungen / Arbeitsbuch
-- Praktische Tätigkeitsnachweise (ggf. Fertigungspläne, Werkstattnachweise)
-- Beglaubigte Übersetzung (Deutsch)
-- Curriculum der Ausbildung (Stundennachweis, Fächer, Prüfungen)
+Laut IHK FOSA (live verifiziert, Juli 2026) müssen folgende Unterlagen eingereicht werden:
+
+| Dokument | Anforderung |
+|----------|-------------|
+| **Antragsformular** | Vollständig ausgefüllt und unterschrieben (bei digitaler Antragstellung über Anerkennung in Deutschland nicht erforderlich) |
+| **Abschlusszeugnis** | Farbkopie in Originalsprache + deutsche Übersetzung von öffentlich bestellten oder beeidigten Dolmetschern |
+| **Fächerliste** | Muss im Abschlusszeugnis enthalten sein |
+| **Nachweise Berufserfahrung** | Arbeitszeugnisse, Arbeitsbücher, Sozialversicherungsnachweise — Farbkopie Original + Übersetzung |
+| **Sonstige Befähigungsnachweise** | Kurse, Umschulungen, weitere Ausbildungen — Farbkopie Original + Übersetzung |
+| **Identitätsnachweis** | Personalausweis, Reisepass, Namensänderung — Farbkopie |
+| **Lebenslauf** | Aktueller tabellarischer Lebenslauf |
+| **Nachweis Erwerbsabsicht** | z. B. Arbeitsvertrag oder Stellenangebot |
+| **Inhalte der Ausbildung** | Rahmenlehrplan in Kopie (Übersetzung nicht erforderlich bei 9 Sprachen der IHK FOSA-Website) |
+
+!!! tip "Übersetzung nicht immer nötig"
+    Dokumente in **englischer Sprache** müssen nicht übersetzt werden. Übersetzungen aus dem Usbekischen/Russischen müssen von **öffentlich bestellten oder beeidigten Dolmetschern** stammen. Die digitale Antragstellung erfolgt über **Anerkennung in Deutschland**: https://www.anerkennung-in-deutschland.de/de/interest/finder/profession
 
 ### Für Kranfahrer
 
@@ -305,8 +316,14 @@ Die Max Bögl Unternehmensgruppe rekrutiert Fachkräfte für **11 verschiedene B
 - **Max Bögl Stellenprofil-PDF** „Alle Stellen Bögl" (2026)
 - **Anabin-Datenbank**: https://anabin.kmk.org (live verifiziert, Juli 2026)
 - **BQ-Portal**: https://www.bq-portal.de (live verifiziert, Juli 2026)
-- **IHK FOSA**: https://www.ihk-fosa.de
+- **IHK FOSA**: https://www.ihk-fosa.de (live verifiziert, Juli 2026)
+  - Standardverfahren: https://www.ihk-fosa.de/antragstellung/standard-verfahren/
+  - Antragsformular (PDF): https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/IHK_FOSA_Antrag_S.pdf
+  - Vollmacht Einzelpersonen: https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/Vollmacht_allgemein.pdf
+  - Vollmacht Arbeitgeber: https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/Vollmacht_Arbeitgeber.pdf
+  - Digitale Antragstellung: https://www.anerkennung-in-deutschland.de/de/interest/finder/profession
 - **Handwerkskammern** der jeweiligen Bundesländer
+- **Übersetzerdatenbank**: https://www.justiz-dolmetscher.de/Recherche/ (für beeidigte Dolmetscher)
 
 !!! info "Hinweis zur Recherche"
-    Dieser Artikel wurde auf Grundlage einer Live-Recherche im Juli 2026 erstellt. Die gesetzlichen Grundlagen (AufenthG, BBiG, HwO) wurden direkt von https://www.gesetze-im-internet.de verifiziert. Die Max-Bögl-Referenzcodes stammen aus der originalen PDF „Alle Stellen Bögl". Die Anabin- und BQ-Portal-Informationen wurden live recherchiert.
+    Dieser Artikel wurde auf Grundlage einer Live-Recherche im Juli 2026 erstellt. Die gesetzlichen Grundlagen (AufenthG, BBiG, HwO) wurden direkt von https://www.gesetze-im-internet.de verifiziert. Die Max-Bögl-Referenzcodes stammen aus der originalen PDF „Alle Stellen Bögl". Die Anabin- und BQ-Portal-Informationen wurden live recherchiert. Die IHK-FOSA-Informationen (Unterlagen, Verfahren, Formulare) wurden live von der IHK-FOSA-Website verifiziert.
