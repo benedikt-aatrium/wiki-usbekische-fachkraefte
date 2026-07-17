@@ -2,21 +2,38 @@
 
 ## Ziel dieses Artikels
 
-Dieser Artikel erklärt Schritt für Schritt, wie ein Anerkennungsverfahren für usbekische Fachkräfte bei der **IHK FOSA** (Industrie- und Handelskammer) und bei einer **Handwerkskammer (HWK)** abläuft. Die beiden Verfahren unterscheiden sich deutlich in Zuständigkeit, Antragsweg, Prüfung und Dauer.
+Dieser Artikel erklärt Schritt für Schritt, wie ein Anerkennungsverfahren für usbekische Fachkräfte bei der **IHK FOSA** (Industrie- und Handelskammer) und bei einer **Handwerkskammer (HWK)** abläuft. Die beiden Verfahren unterscheiden sich deutlich in Zuständigkeit, Antragsweg, Prüfung und Dauer. Die Rechtsgrundlagen sind das **Berufsbildungsgesetz (BBiG)** und die **Handwerksordnung (HwO)**.
+
+---
+
+## Rechtsgrundlagen
+
+| Gesetz | Paragraph | Inhalt | Zuständige Stelle |
+|--------|-----------|--------|-------------------|
+| **BBiG** | § 50 | Gleichstellung von Prüfungszeugnissen | IHK FOSA |
+| **HwO** | § 41b | Feststellung der individuellen beruflichen Handlungsfähigkeit | HWK |
+| **HwO** | § 123a | Übergangsvorschriften (§ 41b gilt seit 1.1.2025) | — |
+| **AufenthG** | § 18 | Grundsatz der Fachkräfteeinwanderung | — |
+| **AufenthG** | § 18a | Fachkräfte mit Berufsausbildung | — |
+| **AufenthG** | § 18b | Fachkräfte mit akademischer Ausbildung | — |
+
+!!! warning "Wichtig: § 41b HwO seit 2025"
+    Seit dem 1. Januar 2025 gilt § 41b HwO für die Feststellung der individuellen beruflichen Handlungsfähigkeit in Handwerksberufen. Das bedeutet: Auch ohne klassische deutsche Gesellenprüfung kann die HWK die Gleichwertigkeit einer usbekischen Ausbildung feststellen, wenn die individuelle berufliche Handlungsfähigkeit überwiegend oder vollständig vergleichbar ist.
 
 ---
 
 ## Grundsätzlicher Unterschied
 
-| Kriterium | IHK FOSA | HWK |
-|-----------|----------|-----|
-| **Zuständig für** | Industrielle, kaufmännische, technische Berufe | Handwerksberufe (Maurer, Zimmerer, Metallbauer, Friseur, etc.) |
-| **Anzahl geprüfter Berufe** | Ca. 380 anerkannte Ausbildungsberufe | Ca. 130 Handwerksberufe |
-| **Zuständigkeit** | Zentral für ganz Deutschland | Regional nach Einsatzort des Arbeitnehmers |
-| **Prüfung** | Formale Gleichwertigkeit des Abschlusses | Gleichwertigkeit + handwerkliche Prüfung möglich |
-| **Endergebnis** | Bescheid: Gleichwertig / Teilweise gleichwertig / Nicht gleichwertig | Bescheid: Anerkennung / Anpassungsmaßnahmen / Prüfung |
-| **Kosten** | Ca. 100–300 € | Ca. 100–500 €, je nach Kammer |
-| **Dauer** | 4–12 Wochen | 4–8 Wochen, bei Prüfung länger |
+|| Kriterium | IHK FOSA | HWK |
+||-----------|----------|-----|
+|| **Rechtsgrundlage** | BBiG § 50 | HwO § 41b |
+|| **Zuständig für** | Industrielle, kaufmännische, technische Berufe | Handwerksberufe (Maurer, Zimmerer, Metallbauer, etc.) |
+|| **Anzahl geprüfter Berufe** | Ca. 380 anerkannte Ausbildungsberufe | Ca. 130 Handwerksberufe |
+|| **Zuständigkeit** | Zentral für ganz Deutschland | Regional nach Einsatzort des Arbeitnehmers |
+|| **Prüfung** | Formale Gleichwertigkeit des Abschlusses | Individuelle berufliche Handlungsfähigkeit (§ 41b HwO) |
+|| **Endergebnis** | Bescheid: Gleichwertig / Teilweise gleichwertig / Nicht gleichwertig | Bescheid: Voll anerkannt / Bedingt anerkannt / Nicht anerkannt |
+|| **Kosten** | Ca. 100–300 € | Ca. 100–500 €, je nach Kammer |
+|| **Dauer** | 4–12 Wochen | 4–8 Wochen, bei Prüfung länger |
 
 ---
 
@@ -32,26 +49,41 @@ Die IHK FOSA (Foreign Skills Approval) ist die zentrale Anlaufstelle für die An
 
 ### Schritt 2: Zuständigen Beruf zuordnen
 
-- Auf der IHK-FOSA-Website die Berufsliste durchsuchen: https://www.ihk-fosa.de/berufsliste
+- Auf der IHK-FOSA-Website die Berufsliste durchsuchen.
 - Den passenden deutschen Ausbildungsberuf finden.
 - Ggf. Vorab-Anfrage bei der IHK FOSA stellen, wenn die Zuordnung unklar ist.
 
 ### Schritt 3: Antrag stellen
 
-- Antragsformular auf der IHK-FOSA-Website ausfüllen.
-- Online-Upload oder E-Mail der Dokumente.
-- Antragsgebühr entrichten (meist 100–300 €).
+Die IHK FOSA bietet drei Antragswege (live verifiziert, Juli 2026):
+
+| Verfahren | Wer kann beantragen? | Besonderheit |
+|-----------|----------------------|--------------|
+| **Standardverfahren** | Im Inland und Ausland lebende Fachkräfte | Klassisches Verfahren, Dauer 4–12 Wochen |
+| **Beschleunigtes Verfahren** | **Nur Arbeitgeber** bei Ausländerbehörde am Firmensitz | Schneller, aber nur über Arbeitgeber |
+| **Folgeantrag** | Nach Erstbescheid und Anpassungsqualifizierung | Für Nachbesserung |
+
+!!! tip "Digitale Antragstellung"
+    Die digitale Antragstellung erfolgt über **Anerkennung in Deutschland**: https://www.anerkennung-in-deutschland.de/de/interest/finder/profession. Das Antragsformular ist nicht erforderlich, wenn die digitale Strecke genutzt wird.
 
 ### Schritt 4: Erforderliche Dokumente einreichen
 
-| Dokument | Hinweis |
-|----------|---------|
-| Ausbildungszeugnis / Abschlusszeugnis | Mit Apostille und beglaubigter Übersetzung |
-| Arbeitsbuch / Arbeitsbescheinigungen | Nachweis der praktischen Tätigkeit |
-| Curriculum der Ausbildung | Stundennachweis, Fächer, Prüfungen |
-| Passkopie | Zur Identifikation |
-| Antragsformular | Ausgefüllt und unterschrieben |
-| ggf. Berufsqualifikationsnachweise | Zusatzqualifikationen, Weiterbildungen |
+Laut IHK FOSA (live verifiziert, Juli 2026) müssen folgende Unterlagen eingereicht werden:
+
+| Dokument | Anforderung |
+|----------|-------------|
+| **Antragsformular** | Vollständig ausgefüllt und unterschrieben (bei digitaler Antragstellung nicht erforderlich) |
+| **Abschlusszeugnis** | Farbkopie in Originalsprache + deutsche Übersetzung von öffentlich bestellten oder beeidigten Dolmetschern |
+| **Fächerliste** | Muss im Abschlusszeugnis enthalten sein |
+| **Nachweise Berufserfahrung** | Arbeitszeugnisse, Arbeitsbücher, Sozialversicherungsnachweise — Farbkopie Original + Übersetzung |
+| **Sonstige Befähigungsnachweise** | Kurse, Umschulungen, weitere Ausbildungen — Farbkopie Original + Übersetzung |
+| **Identitätsnachweis** | Personalausweis, Reisepass, Namensänderung — Farbkopie |
+| **Lebenslauf** | Aktueller tabellarischer Lebenslauf |
+| **Nachweis Erwerbsabsicht** | z. B. Arbeitsvertrag oder Stellenangebot |
+| **Inhalte der Ausbildung** | Rahmenlehrplan in Kopie |
+
+!!! tip "Übersetzung nicht immer nötig"
+    Dokumente in **englischer Sprache** müssen nicht übersetzt werden. Übersetzungen aus dem Usbekischen/Russischen müssen von **öffentlich bestellten oder beeidigten Dolmetschern** stammen. Übersetzer finden: https://www.justiz-dolmetscher.de/Recherche/
 
 ### Schritt 5: Prüfung durch die IHK FOSA
 
@@ -71,8 +103,8 @@ Mögliche Ergebnisse:
 
 ### Schritt 7: Nächste Schritte
 
-- Gleichwertig → ZAV-Zustimmung / Visum nach § 18 AufenthG beantragen.
-- Teilweise gleichwertig → Anpassungsmaßnahme nachweisen oder Kenntnisprüfung ablegen.
+- Gleichwertig → ZAV-Zustimmung / Visum nach § 18a AufenthG beantragen.
+- Teilweise gleichwertig → Anpassungsmaßnahme nachweisen oder Kenntnisprüfung ablegen → Folgeantrag stellen.
 - Nicht gleichwertig → Eignungsprüfung oder Weiterbildung.
 
 ---
@@ -112,15 +144,15 @@ Handwerkskammern sind in Deutschland regional organisiert. Die **zuständige HWK
 | Dokument | Hinweis |
 |----------|---------|
 | Ausbildungsnachweis / Zeugnis | Apostille + beglaubigte Übersetzung |
-| Arbeitsbuch / Mehnat faoliyati | Nachweis praktischer Erfahrung |
-| Arbeitszeugnisse | Wichtig für die Gleichwertigkeitsprüfung |
+| Arbeitsbuch / Mehnat daftari | Nachweis praktischer Erfahrung |
+| Arbeitszeugnisse | Wichtig für die Feststellung der individuellen beruflichen Handlungsfähigkeit |
 | Lebenslauf / Beschreibung der Tätigkeit | Details zur ausgeübten Tätigkeit |
 | Passkopie | Zur Identifikation |
 | Antragsformular | Ausgefüllt und unterschrieben |
 
-### Schritt 6: Prüfung durch die HWK
+### Schritt 6: Feststellung der individuellen beruflichen Handlungsfähigkeit (§ 41b HwO)
 
-- Die HWK prüft formale und inhaltliche Gleichwertigkeit.
+- Die HWK prüft, ob die individuelle berufliche Handlungsfähigkeit überwiegend oder vollständig mit der für die Ausübung des Referenzberufs erforderlichen Handlungsfähigkeit vergleichbar ist.
 - Bei geringen Unterschieden: Angebot zum Ausgleich.
 - Bei größeren Unterschieden: Prüfung vor der HWK möglich (praktische und theoretische Prüfung).
 
@@ -129,7 +161,7 @@ Handwerkskammern sind in Deutschland regional organisiert. Die **zuständige HWK
 | Ergebnis | Bedeutung |
 |----------|-----------|
 | **Voll anerkannt** | Gleichwertigkeit besteht. Arbeiten ohne weitere Bedingungen. |
-| **Bedingte Anerkennung** | Anpassungsmaßnahme oder Prüfung erforderlich. |
+| **Bedingt anerkannt** | Anpassungsmaßnahme oder Prüfung erforderlich. |
 | **Nicht anerkannt** | Keine Gleichwertigkeit. Ausbildungsnachholung oder erneute Ausbildung nötig. |
 
 ### Schritt 8: Prüfung bei der HWK (falls erforderlich)
@@ -142,42 +174,43 @@ Handwerkskammern sind in Deutschland regional organisiert. Die **zuständige HWK
 
 ## Direkter Vergleich der Abläufe
 
-| Schritt | IHK FOSA | HWK |
-|---------|----------|-----|
-| **Zuständigkeit** | Zentral für ganz Deutschland | Regional nach Einsatzort |
-| **Berufsfindung** | IHK-FOSA-Berufsliste | HWK-Beratung vor Ort |
-| **Antrag** | Online-Portal oder E-Mail | Formular der zuständigen HWK |
-| **Dokumente** | Zeugnis, Arbeitsnachweise, Curriculum | Zeugnis, Arbeitsbuch, Arbeitszeugnisse |
-| **Prüfung** | Schriftliche/formale Prüfung | Schriftlich + ggf. praktische Prüfung |
-| **Bescheid** | Gleichwertig / Teilweise / Nicht gleichwertig | Anerkannt / Bedingt / Nicht anerkannt |
-| **Nachbesserung** | Anpassungsmaßnahme / Eignungsprüfung | Nachprüfung / Anpassungsqualifikation |
-| **Zeit** | 4–12 Wochen | 4–8 Wochen, mit Prüfung länger |
+|| Schritt | IHK FOSA | HWK |
+||---------|----------|-----|
+|| **Zuständigkeit** | Zentral für ganz Deutschland | Regional nach Einsatzort |
+|| **Rechtsgrundlage** | BBiG § 50 | HwO § 41b |
+|| **Berufsfindung** | IHK-FOSA-Berufsliste | HWK-Beratung vor Ort |
+|| **Antrag** | Online-Portal oder E-Mail | Formular der zuständigen HWK |
+|| **Dokumente** | Zeugnis, Arbeitsnachweise, Rahmenlehrplan | Zeugnis, Arbeitsbuch, Arbeitszeugnisse |
+|| **Prüfung** | Schriftliche/formale Prüfung | Feststellung individuelle berufliche Handlungsfähigkeit |
+|| **Bescheid** | Gleichwertig / Teilweise / Nicht gleichwertig | Voll anerkannt / Bedingt / Nicht anerkannt |
+|| **Nachbesserung** | Anpassungsmaßnahme / Eignungsprüfung / Folgeantrag | Nachprüfung / Anpassungsqualifikation |
+|| **Zeit** | 4–12 Wochen | 4–8 Wochen, mit Prüfung länger |
 
 ---
 
 ## Praktische Bedeutung für AATRIUM
 
-| Frage | IHK FOSA | HWK |
-|-------|----------|-----|
-| Wo reiche ich den Antrag ein? | Online bei IHK FOSA | Bei der HWK des Einsatzortes |
-| Braucht der Kandidat eine Prüfung? | Selten | Häufiger, besonders bei Handwerkern |
-| Wie lange dauert es? | 4–12 Wochen | 4–8 Wochen, mit Prüfung länger |
-| Was kostet es? | 100–300 € | 100–500 € |
-| Wichtigstes Dokument | Ausbildungszeugnis + Arbeitsnachweise | Arbeitsbuch + Ausbildungsnachweis |
-| Für welche Max-Bögl-Berufe? | Elektroniker, CNC, Industriemechaniker, Lagerlogistik | Baufacharbeiter, Maurer, Kranmonteur, Schlosser, Rohrleger |
+|| Frage | IHK FOSA | HWK |
+||-------|----------|-----|
+|| Wo reiche ich den Antrag ein? | Online bei IHK FOSA oder digital über Anerkennung in Deutschland | Bei der HWK des Einsatzortes |
+|| Braucht der Kandidat eine Prüfung? | Selten | Häufiger, besonders bei Handwerkern |
+|| Wie lange dauert es? | 4–12 Wochen | 4–8 Wochen, mit Prüfung länger |
+|| Was kostet es? | 100–300 € | 100–500 € |
+|| Wichtigstes Dokument | Ausbildungszeugnis + Arbeitsnachweise + Rahmenlehrplan | Arbeitsbuch + Ausbildungsnachweis |
+|| Für welche Max-Bögl-Berufe? | Elektroniker, CNC, Industriemechaniker, Lagerlogistik | Baufacharbeiter, Maurer, Kranmonteur, Schlosser, Rohrleger |
 
 ---
 
 ## Häufige Fehler vermeiden
 
-| Fehler | Folge | Lösung |
-|--------|-------|--------|
-| Antrag bei falscher Stelle einreichen | Ablehnung, Zeitverlust | Vorab klären: IHK FOSA = Industrie / HWK = Handwerk |
-| Dokumente ohne Apostille | Antrag wird nicht bearbeitet | Alle Dokumente mit Apostille und Übersetzung |
-| Deutschen Beruf falsch zuordnen | Falsche Prüfung, falsches Ergebnis | Vorab-Beratung nutzen |
-| Standort „bundesweit“ ignorieren | HWK falsch wählen | Ersten Einsatzort als zuständigen Ort festlegen |
-| Zu wenig Arbeitsnachweise | Anerkennung wird erschwert | Arbeitsbuch und Zeugnisse vollständig einreichen |
-| Prüfung nicht vorbereiten | Nichtbestehen | Deutschkenntnisse und Fachwissen auffrischen |
+|| Fehler | Folge | Lösung |
+||--------|-------|--------|
+|| Antrag bei falscher Stelle einreichen | Ablehnung, Zeitverlust | Vorab klären: IHK FOSA = Industrie / HWK = Handwerk |
+|| Dokumente ohne Apostille | Antrag wird nicht bearbeitet | Alle Dokumente mit Apostille und Übersetzung |
+|| Deutschen Beruf falsch zuordnen | Falsche Prüfung, falsches Ergebnis | Vorab-Beratung nutzen |
+|| Standort „bundesweit“ ignorieren | HWK falsch wählen | Ersten Einsatzort als zuständigen Ort festlegen |
+|| Zu wenig Arbeitsnachweise | Anerkennung wird erschwert | Arbeitsbuch und Zeugnisse vollständig einreichen |
+|| Prüfung nicht vorbereiten | Nichtbestehen | Deutschkenntnisse und Fachwissen auffrischen |
 
 ---
 
@@ -204,13 +237,23 @@ Handwerkskammern sind in Deutschland regional organisiert. Die **zuständige HWK
 
 - [ ] Berufsliste geprüft
 - [ ] Vorab-Anfrage bei unklarer Zuordnung gestellt
+- [ ] Digitale Antragstellung über Anerkennung in Deutschland geprüft
 
 ---
 
 ## Quellen
 
-- IHK FOSA: https://www.ihk-fosa.de
-- Anerkennung in Deutschland: https://www.anerkennung-in-deutschland.de
-- Zuständige Handwerkskammern: https://www.zdh.de
-- AufenthG § 18 (Fachkräfteeinwanderung)
-- BQFG (Berufsqualifikationsfeststellungsgesetz)
+- **IHK FOSA**: https://www.ihk-fosa.de (live verifiziert, Juli 2026)
+  - Standardverfahren: https://www.ihk-fosa.de/antragstellung/standard-verfahren/
+  - Antragsformular (PDF): https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/IHK_FOSA_Antrag_S.pdf
+  - Vollmacht Einzelpersonen: https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/Vollmacht_allgemein.pdf
+  - Vollmacht Arbeitgeber: https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/Vollmacht_Arbeitgeber.pdf
+- **Anerkennung in Deutschland**: https://www.anerkennung-in-deutschland.de
+- **Digitale Antragstellung**: https://www.anerkennung-in-deutschland.de/de/interest/finder/profession
+- **Übersetzerdatenbank**: https://www.justiz-dolmetscher.de/Recherche/
+- **Zuständige Handwerkskammern**: https://www.zdh.de
+- **Gesetze**:
+  - AufenthG § 18, § 18a, § 18b: https://www.gesetze-im-internet.de/aufenthg_2004/
+  - BBiG § 50: https://www.gesetze-im-internet.de/bbig_2005/__50.html
+  - HwO § 41b: https://www.gesetze-im-internet.de/hwo/__41b.html
+  - HwO § 123a: https://www.gesetze-im-internet.de/hwo/__123a.html
