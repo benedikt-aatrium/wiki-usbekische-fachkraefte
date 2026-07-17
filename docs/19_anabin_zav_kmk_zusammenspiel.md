@@ -239,23 +239,35 @@ Das BQ-Portal listet für Usbekistan konkrete Berufsprofile, die für die Max-B�
 
 ## 5. IHK FOSA / HWK – Anerkennung der Berufsausbildung
 
-Diese Stellen wurden bereits in Artikel 18 detailliert erklärt. Hier nur die Einordnung im Gesamtablauf:
+Diese Stellen wurden bereits in Artikel 18 detailliert erklärt. Hier die Einordnung im Gesamtablauf mit den **Rechtsgrundlagen**:
 
-| Berufsfeld | Zuständige Stelle |
-|------------|-------------------|
-| Handwerk (Maurer, Zimmerer, Metallbauer, etc.) | Handwerkskammer (HWK) |
-| Industrie/Technik (Elektroniker, Industriemechaniker, CNC) | IHK FOSA |
-| Kaufmännische Berufe | IHK FOSA |
+|| Berufsfeld | Zuständige Stelle | Rechtsgrundlage |
+||------------|-------------------|-----------------|
+|| Handwerk (Maurer, Zimmerer, Metallbauer, etc.) | Handwerkskammer (HWK) | § 41b HwO |
+|| Industrie/Technik (Elektroniker, Industriemechaniker, CNC) | IHK FOSA | § 50 BBiG |
+|| Kaufmännische Berufe | IHK FOSA | § 50 BBiG |
+
+!!! warning "Wichtig: § 41b HwO seit 2025"
+    Seit dem 1. Januar 2025 gilt § 41b HwO für die Feststellung der individuellen beruflichen Handlungsfähigkeit in Handwerksberufen. Das bedeutet: Auch ohne klassische deutsche Gesellenprüfung kann die HWK die Gleichwertigkeit einer usbekischen Ausbildung feststellen, wenn die individuelle berufliche Handlungsfähigkeit überwiegend oder vollständig vergleichbar ist.
+
+!!! tip "IHK FOSA-Antragswege"
+    Die IHK FOSA bietet drei Antragswege (live verifiziert, Juli 2026):
+    - **Standardverfahren**: Im Inland und Ausland lebende Fachkräfte (4–12 Wochen)
+    - **Beschleunigtes Verfahren**: Nur Arbeitgeber bei Ausländerbehörde am Firmensitz
+    - **Folgeantrag**: Nach Erstbescheid und Anpassungsqualifizierung
+
+!!! tip "Digitale Antragstellung"
+    Die digitale Antragstellung erfolgt über **Anerkennung in Deutschland**: https://www.anerkennung-in-deutschland.de/de/interest/finder/profession
 
 !!! tip "Verknüpfung"
     Die Berufsanerkennung ist für AATRIUM meist der **wichtigste Schritt**, weil die Kandidaten Facharbeiter sind. Sie muss **vor** oder **parallel** zum ZAV-Verfahren erfolgen.
 
 !!! warning "Hinweis zur IHK FOSA"
-    Die IHK FOSA-Website ist unter https://www.ihk-fosa.de erreichbar. Wichtige Unterseiten (z. B. Antragstellung, Verfahren, Beratungsstellen) sind wieder verfügbar, wurden bei der Live-Prüfung im Juli 2026 aber teilweise durch Rate-Limiting (HTTP 429) blockiert. Direktlinks aus der Web-Recherche:
-    - Antragstellung: https://www.ihk-fosa.de/antragstellung/
-    - Verfahren: https://www.ihk-fosa.de/verfahren/
-    - Beratungsstellen: https://www.ihk-fosa.de/beratungsstellen/
-    - Flyer „Anerkennung in Deutschland“ (PDF): https://www.ihk-fosa.de/fileadmin/Dateien/Informationsmaterial/anerkennung-in-deutschland-flyer.pdf
+    Die IHK FOSA-Website ist unter https://www.ihk-fosa.de erreichbar. Die Unterlagen wurden live verifiziert (Juli 2026):
+    - Antragsformular (PDF): https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/IHK_FOSA_Antrag_S.pdf
+    - Vollmacht Einzelpersonen: https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/Vollmacht_allgemein.pdf
+    - Vollmacht Arbeitgeber: https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/Vollmacht_Arbeitgeber.pdf
+    - Standardverfahren: https://www.ihk-fosa.de/antragstellung/standard-verfahren/
 
 ---
 
@@ -444,11 +456,12 @@ Bevor ein Kandidat an Max Bögl oder einen anderen Arbeitgeber weitergeleitet wi
 - **Max-Bögl-Stellenprofile PDF**: `"Alle Stellen Bögl.pdf"` (21 Seiten, 11 Profile; ausgewertet für die Berufs-Tabelle)
 - **Anerkennung in Deutschland**: https://www.anerkennung-in-deutschland.de (live verifiziert, Juli 2026)
 - **BQ-Portal**: https://www.bq-portal.de (live verifiziert, Usbekistan im Länderfilter vorhanden, Juli 2026)
-- **IHK FOSA**: https://www.ihk-fosa.de (live erreichbar; Unterseiten teilweise durch Rate-Limiting blockiert)
-  - Antragstellung: https://www.ihk-fosa.de/antragstellung/
-  - Verfahren: https://www.ihk-fosa.de/verfahren/
-  - Beratungsstellen: https://www.ihk-fosa.de/beratungsstellen/
-  - Flyer „Anerkennung in Deutschland“ (PDF): https://www.ihk-fosa.de/fileadmin/Dateien/Informationsmaterial/anerkennung-in-deutschland-flyer.pdf
+- **IHK FOSA**: https://www.ihk-fosa.de (live verifiziert, Juli 2026)
+  - Standardverfahren: https://www.ihk-fosa.de/antragstellung/standard-verfahren/
+  - Antragsformular (PDF): https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/IHK_FOSA_Antrag_S.pdf
+  - Vollmacht Einzelpersonen: https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/Vollmacht_allgemein.pdf
+  - Vollmacht Arbeitgeber: https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/Vollmacht_Arbeitgeber.pdf
+  - Digitale Antragstellung: https://www.anerkennung-in-deutschland.de/de/interest/finder/profession
 - **KMK – Anerkennung ausländischer Qualifikationen**: https://www.kmk.org/kultusministerkonferenz/uebergreifende-themen/anerkennung-auslaendischer-abschluesse.html (live verifiziert, Juli 2026)
 - **ZAV – Bundesagentur für Arbeit**: https://www.arbeitsagentur.de/vor-ort/zav/startseite (live verifiziert, Juli 2026)
   - Über uns: https://www.arbeitsagentur.de/vor-ort/zav/ueber-uns
@@ -456,11 +469,16 @@ Bevor ein Kandidat an Max Bögl oder einen anderen Arbeitgeber weitergeleitet wi
   - Kontakt: zav@arbeitsagentur.de, Tel. +49 228 713 1313
 - **BMAS – Fachkräfteeinwanderungsgesetz**: https://www.bmas.de/DE/Arbeit/Migration-und-Arbeit/Rechtliches-zu-Einreise-Arbeitsmarktzugang-und-Absicherung/Fachkraefteeinwanderungsgesetz/fachkraefteeinwanderungsgesetz.html (live verifiziert, Juli 2026)
 - **BAMF – Fachkräfte mit Berufsausbildung**: https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html (live verifiziert, Juli 2026)
-- **BMWK – „Möglichkeiten der Fachkräfteeinwanderung“ (PDF)**: https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/Ausbildung-und-Beruf/moeglichkeiten-der-fachkraefteeinwanderung.pdf
-- **BMWK – „Beschleunigtes Fachkräfteverfahren“ (PDF)**: https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/Ausbildung-und-Beruf/beschleunigtes-fachkraefteverfahren.pdf
-- **Bundesagentur für Arbeit – „Das Fachkräfteeinwanderungsgesetz“ (PDF)**: https://www.arbeitsagentur.de/datei/dam-fachkraefte-einwanderungsgesetz_ba030375.pdf
+- **BMWK – „Möglichkeiten der Fachkräfteeinwanderung" (PDF)**: https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/Ausbildung-und-Beruf/moeglichkeiten-der-fachkraefteeinwanderung.pdf
+- **BMWK – „Beschleunigtes Fachkräfteverfahren" (PDF)**: https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Publikationen/Ausbildung-und-Beruf/beschleunigtes-fachkraefteverfahren.pdf
+- **Bundesagentur für Arbeit – „Das Fachkräfteeinwanderungsgesetz" (PDF)**: https://www.arbeitsagentur.de/datei/dam-fachkraefte-einwanderungsgesetz_ba030375.pdf
 - **Auswärtiges Amt**: https://www.auswaertiges-amt.de (für Visum- und Einreisefragen)
-- **AufenthG § 18** (Fachkräfteeinwanderung)
+- **Übersetzerdatenbank**: https://www.justiz-dolmetscher.de/Recherche/ (für beeidigte Dolmetscher)
+- **Gesetze**:
+  - AufenthG § 18, § 18a, § 18b: https://www.gesetze-im-internet.de/aufenthg_2004/
+  - BBiG § 50: https://www.gesetze-im-internet.de/bbig_2005/__50.html
+  - HwO § 41b: https://www.gesetze-im-internet.de/hwo/__41b.html
+  - HwO § 123a: https://www.gesetze-im-internet.de/hwo/__123a.html
 
 !!! info "Hinweis zur Recherche"
-    Dieser Artikel wurde auf Grundlage einer Live-Recherche im Juli 2026 erstellt. Viele Bundesbehörden-Websites haben ihre URL-Strukturen umgebaut. Die oben genannten Links wurden im Juli 2026 live verifiziert. Ältere Direktlinks, die nicht mehr funktionieren, wurden ersetzt.
+    Dieser Artikel wurde auf Grundlage einer Live-Recherche im Juli 2026 erstellt. Viele Bundesbehörden-Websites haben ihre URL-Strukturen umgebaut. Die oben genannten Links wurden im Juli 2026 live verifiziert. Ältere Direktlinks, die nicht mehr funktionieren, wurden ersetzt. Die gesetzlichen Grundlagen (AufenthG, BBiG, HwO) wurden direkt von https://www.gesetze-im-internet.de verifiziert.
