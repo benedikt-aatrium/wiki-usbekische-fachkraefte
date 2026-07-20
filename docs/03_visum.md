@@ -2,8 +2,11 @@
 
 > **Ziel:** Ein usbekischer Staatsangehöriger erhält ein deutsches Nationalvisum D, um einer Beschäftigung nachzugehen.
 
-**Stand:** 2026-07-10  
+**Stand:** 2026-07-17  
 **Quellen:** Auswärtiges Amt (auswaertiges-amt.de), Deutsche Botschaft Taschkent (taschkent.diplo.de), TLScontact (teilweise über Archive.org), Gesetze im Internet
+
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
+    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland und ermöglicht **erleichterte Visa-Verfahren**. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
 
 ---
 

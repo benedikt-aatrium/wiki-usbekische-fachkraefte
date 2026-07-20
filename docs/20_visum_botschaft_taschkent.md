@@ -4,6 +4,9 @@
 
 Dieser Artikel erklärt, wie ein usbekischer Staatsangehöriger ein **Arbeitsvisum für Deutschland** bei der **Deutschen Botschaft in Taschkent** beantragt. Das Visum ist der letzte Schritt vor der Einreise nach Deutschland.
 
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
+    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland und ermöglicht **erleichterte Visa-Verfahren**. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
+
 ---
 
 ## Voraussetzungen
