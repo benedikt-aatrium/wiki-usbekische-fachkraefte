@@ -12,11 +12,43 @@ Die ZAV prüft vor allem:
 
 ---
 
+## Rechtsgrundlagen
+
+| Gesetz | Paragraph | Inhalt |
+|--------|-----------|--------|
+| **AufenthG** | § 18 | Grundsatz der Fachkräfteeinwanderung |
+| **AufenthG** | § 18a | Fachkräfte mit Berufsausbildung |
+| **AufenthG** | § 18b | Fachkräfte mit akademischer Ausbildung |
+| **AufenthG** | § 39 | Beschäftigung und Selbstständigkeit |
+| **BeschV** | — | Beschäftigungsverordnung (ZAV-Prüfung) |
+
+---
+
 ## Wer beantragt die Zustimmung?
 
 **Der deutsche Arbeitgeber** beantragt die Zustimmung bei der ZAV.
 
 Die ausländische Fachkraft muss dafür nicht persönlich bei der ZAV erscheinen, muss aber die erforderlichen Unterlagen zur Verfügung stellen (Arbeitsvertrag, Zeugnisse, Ausbildungsnachweise).
+
+---
+
+## Aktuelle ZAV-Links (Juli 2026 live verifiziert)
+
+| Ressource | URL | Status |
+|-----------|-----|--------|
+| **ZAV-Startseite** | https://www.arbeitsagentur.de/vor-ort/zav/startseite | ✅ Live |
+| **ZAV – Über uns** | https://www.arbeitsagentur.de/vor-ort/zav/ueber-uns | ✅ Live |
+| **Regionale Zuständigkeiten (PDF)** | https://www.arbeitsagentur.de/datei/regionale-zustaendigkeiten-der-zav-im-bereich-arbeitsmarktzulassung_ba048053.pdf | ✅ Live |
+| **Kontakt** | zav@arbeitsagentur.de, Tel. +49 228 713 1313 | ✅ Verifiziert |
+
+!!! warning "Hinweis zur Quellenlage (404-Problematik)"
+    Die Bundesagentur für Arbeit hat ihre URL-Struktur umgebaut. Ältere Direktlinks zur ZAV sind **nicht mehr erreichbar (404)**:
+    - `https://www.arbeitsagentur.de/fachkraefte-ankommen/zav` ❌
+    - `https://www.arbeitsagentur.de/arbeitsmarkt-beruf/fachkraefte-ankommen/zav` ❌
+    - `https://www.arbeitsagentur.de/DE/Ueber-uns/Kontakt/ZAV/zav.html` ❌
+    - `https://www.arbeitsagentur.de/vor-ort/zav/amz/zulassung-zum-arbeitsmarkt` ❌
+
+    **Die oben genannten aktuellen Links funktionieren.** Die BA arbeitet an der Aktualisierung ihrer Online-Angebote. Für konkrete Antragsunterlagen und Merkblätter empfehlen wir die Kontaktaufnahme per E-Mail oder Telefon.
 
 ---
 
@@ -27,7 +59,7 @@ Die ausländische Fachkraft muss dafür nicht persönlich bei der ZAV erscheinen
 - Nachweis der **Arbeitsplatzvermittlung** (Stellenausschreibung) – entfällt oft bei echten Fachkräften mit anerkannten Abschlüssen
 - **Ausbildungsnachweise** oder Anerkennungsbescheid (sofern vorhanden)
 
-> Die aktuellen Formulare sind auf der Website der Bundesagentur für Arbeit verfügbar.
+> Die aktuellen Formulare sind auf der Website der Bundesagentur für Arbeit verfügbar. Bei Problemen mit dem Download: zav@arbeitsagentur.de oder Tel. +49 228 713 1313.
 
 ---
 
@@ -86,12 +118,21 @@ Die ausländische Fachkraft muss dafür nicht persönlich bei der ZAV erscheinen
 - Achten Sie auf ein **tarif- und marktgerechtes Gehalt**.
 - Halten Sie **Nachweise der Berufserfahrung** bereit (Arbeitsbücher, Arbeitsbescheinigungen).
 - Bevorzugen Sie **Vollzeitarbeitsverträge**.
+- Bei Fragen zur aktuellen Antragsstellung: **zav@arbeitsagentur.de** oder **+49 228 713 1313** kontaktieren.
 
 ---
 
 ## Quellen
 
-- Bundesagentur für Arbeit – ZAV: Zustimmung zur Beschäftigung
-- Aufenthaltsgesetz (AufenthG) § 39
-- Mindestlohngesetz (MiLoG)
-- Verwaltungsverfahrensgesetz (VwVfG) §§ 68 ff.
+- **ZAV – Bundesagentur für Arbeit**: https://www.arbeitsagentur.de/vor-ort/zav/startseite (live verifiziert, Juli 2026)
+  - Über uns: https://www.arbeitsagentur.de/vor-ort/zav/ueber-uns
+  - Regionale Zuständigkeiten (PDF): https://www.arbeitsagentur.de/datei/regionale-zustaendigkeiten-der-zav-im-bereich-arbeitsmarktzulassung_ba048053.pdf
+  - Kontakt: zav@arbeitsagentur.de, Tel. +49 228 713 1313
+- **Aufenthaltsgesetz (AufenthG)**: § 18, § 18a, § 18b, § 39 — https://www.gesetze-im-internet.de/aufenthg_2004/
+- **Mindestlohngesetz (MiLoG)**
+- **Verwaltungsverfahrensgesetz (VwVfG)** §§ 68 ff.
+- **BMAS – Fachkräfteeinwanderungsgesetz**: https://www.bmas.de/DE/Arbeit/Migration-und-Arbeit/Rechtliches-zu-Einreise-Arbeitsmarktzugang-und-Absicherung/Fachkraefteeinwanderungsgesetz/fachkraefteeinwanderungsgesetz.html
+- **BAMF – Fachkräfte mit Berufsausbildung**: https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html
+
+!!! info "Hinweis zur Recherche"
+    Dieser Artikel wurde auf Grundlage einer Live-Recherche im Juli 2026 aktualisiert. Die ZAV-Links wurden live verifiziert. Ältere Links, die nicht mehr funktionieren (404), wurden dokumentiert und ersetzt.
