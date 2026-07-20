@@ -194,6 +194,54 @@ Das **Attestat** (usbekisch: *Attestat*) ist der **Schulabschluss** in Usbekista
 
 ---
 
+## Beispiele: Wie man echte usbekische Diplome liest
+
+!!! note "Kennzeichnung"
+    Die folgenden Beispiele stammen aus **realen, von AATRIUM ausgewerteten Kandidaten-Dokumenten** (Max-Bögl-Rekrutierung). Sie sind **anonymisiert**: Nur **Institution, Fachrichtung und Einordnung** werden gezeigt — **keine** Personennamen, Geburtsdaten oder Aktenzeichen. Sie sollen helfen, den Aufbau und die typischen Beschriftungen echter Diplome zu erkennen.
+
+### Beispiel 1: Berufskolleg-Diplom (kasb-hunar kolleji)
+
+| Merkmal | Inhalt auf dem Dokument |
+|---------|--------------------------|
+| **Institution** | „Samarqand avtomobilsozlik kasb-hunar kolleji" (= Samarkand Automaking College) |
+| **Dokumenttyp** | „KASB-HUNAR KOLLEJI DIPLOMI" + „DIPLOMIGA ILOVA" (Diplom-Anhang) |
+| **Fachrichtung** | Kraftfahrzeugtechnik (Land Transport), Schwerpunkt Wartung/Reparatur/Diagnose |
+| **Einordnung** | Berufskolleg-Diplom ≈ **Kfz-Mechatroniker / Elektromechaniker** (berufliche Ausbildung) |
+
+### Beispiel 2: Technikum-/Berufskolleg mit chemisch-technischer Richtung
+
+| Merkmal | Inhalt auf dem Dokument |
+|---------|--------------------------|
+| **Institution** | „Angren Chemical Industrial Vocational College" (Angren Chemie-Industrie Berufskolleg) |
+| **Fachrichtung** | „Petroleum and gas treatments" (Öl- und Gasaufbereitung) |
+| **Einordnung** | Berufskolleg (vocational college), industriell-technische Ausbildung |
+
+### Beispiel 3: Universitäts-Bachelor (technisch)
+
+| Merkmal | Inhalt auf dem Dokument |
+|---------|--------------------------|
+| **Institution** | „Termiz Muhandislik-Texnologiya Instituti" (= Termez Institute of Engineering and Technology) |
+| **Dokumenttyp** | „BACHELOR'S DIPLOMA" |
+| **Fachrichtung** | „Muhandis-quruvchi / Engineer-builder" (Bauingenieur) |
+| **Einordnung** | **Hochschulabschluss** (Institut) → Bewertung durch **ZAB** nötig, keine Pauschal-Anerkennung (siehe Artikel 19/30) |
+
+### Beispiel 4: Berufskolleg mit Bergbau-Richtung
+
+| Merkmal | Inhalt auf dem Dokument |
+|---------|--------------------------|
+| **Fachrichtung** | „Mining electric equipment" (Bergbau-Elektroausrüstung) |
+| **Einordnung** | Berufskolleg, elektrotechnische Richtung |
+
+### Typische Übersetzungsfallen beim Lesen
+
+!!! warning "Vorsicht bei der Interpretation"
+    - **Englische „Übersetzungen" auf dem Diplom** sind häufig **ungenau oder handschriftlich ergänzt** — immer das **usbekische/russische Original** maßgeblich lesen.
+    - **„Bachelor" auf dem Dokument ≠ deutscher Bachelor.** Ein „Bachelor in Betonbau" von einem **Technikum** ist **kein** Hochschulabschluss, sondern berufspraktisch (vgl. Artikel 30). Erst bei einer **Universität/einem Institut/einer Akademie** handelt es sich um einen Hochschulabschluss.
+    - **Die Institution entscheidet über die Einordnung**, nicht die Abschlussbezeichnung. `kollej`/`kasb-hunar kolleji` = beruflich; `universitet`/`institut`/`akademiya` = Hochschule.
+    - **Die Ilova (Diplom-Anhang) mit Fächern/Stunden** ist für die Gleichwertigkeitsprüfung aussagekräftiger als das Diplom selbst.
+
+---
+
 ## Einreichformalitäten bei der deutschen Stelle (verifiziert, § 12 BQFG)
 
 Für die Einreichung bei der zuständigen deutschen Stelle (HWK oder IHK FOSA) gilt nach **§ 12 BQFG**:

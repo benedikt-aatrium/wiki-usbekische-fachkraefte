@@ -308,6 +308,46 @@ Laut IHK FOSA (live verifiziert, Juli 2026) müssen folgende Unterlagen eingerei
 
 ---
 
+## Haustarif und Lohngruppen (Beispiele)
+
+!!! note "Quelle / Kennzeichnung"
+    Die folgenden Angaben stammen aus dem **internen Max-Bögl-Dokument „Lohntabellen"** (© Max Bögl, Stand: 20.06.2024 bzw. Haustarif mit Werten bis 30.11.2025 / ab 01.12.2025). Sie dienen der **Orientierung**, was ein Kandidat ungefähr verdienen kann, und der **Einschätzung der Lohngruppe** anhand von Qualifikation und Erfahrung. **Verbindlich ist allein der jeweils aktuelle Tarifvertrag / Haustarif von Max Bögl.**
+
+### Bauhauptgewerbe — Lohngruppen-Logik (Einstufung nach Qualifikation)
+
+Die Lohngruppe richtet sich nach der **Qualifikation und Tätigkeit**, nicht nach der Herkunft. Für die Einschätzung usbekischer Fachkräfte relevant:
+
+| Lohngruppe | Tätigkeit | Typische Regelqualifikation |
+|------------|-----------|------------------------------|
+| **6** | Werkpolier, Baumaschinen-Fachmeister — Führung und Anleitung einer Gruppe | Werkpolierprüfung |
+| **5** | Vorarbeiter, Baumaschinenvorarbeiter — Führung einer kleinen Gruppe / besonders schwierige Arbeiten | Vorarbeiterprüfung |
+| **4** | Spezialfacharbeiter, Baumaschinenführer — selbständige Facharbeiten | Baugewerbliche Stufenausbildung (2. Stufe), Baumaschinenführer-Prüfung, Baugeräteführer-Ausbildung |
+| **3** | Facharbeiter, Baugeräteführer, Berufskraftfahrer — Facharbeiten des Berufsbildes | Stufenausbildung (2. Stufe, 1. Jahr) **oder** anerkannte Ausbildung außerhalb der Stufenausbildung + Berufserfahrung |
+| **2a** | Fachwerker — fachlich begrenzte Arbeiten nach Anweisung | Baugewerbliche Stufenausbildung (1. Stufe) |
+
+!!! tip "Praxisbezug für AATRIUM"
+    Eine usbekische Fachkraft mit **anerkannter Berufsausbildung** (z. B. HWK-/IHK-FOSA-Gleichwertigkeitsfeststellung, siehe Artikel 10) und **Berufserfahrung** wird typischerweise in **Lohngruppe 3** eingestuft (Facharbeiter-Niveau). Mit zunehmender Erfahrung und Zusatzqualifikationen (z. B. Baumaschinenführer-Schein) ist ein Aufstieg in LG 4–5 möglich. **Ohne** Anerkennung erfolgt die Einstufung in der Regel niedriger (LG 2a) — ein weiteres Argument, die Anerkennung früh anzugehen.
+
+### Kraftfahrer — konkrete Stundenlöhne (Haustarif-Beispiel)
+
+Beispiel aus dem Haustarif (Fachbereiche u. a. TuG Neumarkt, Verkehrstechnik, Wind AG), Werte bis 30.11.2025 / ab 01.12.2025:
+
+| Lohngruppe | Profil (Kurzfassung) | bis 30.11.2025 | ab 01.12.2025 |
+|------------|----------------------|----------------|----------------|
+| **1** | Kraftfahrer in Einarbeitung/Probezeit (erste 6 Monate) | 17,44 € | 18,09 € |
+| **1a** | Mit Ausbildung, erste 2 Jahre, Solo-Fahrzeuge | 17,83 € | 18,49 € |
+| **2** | Ohne Ausbildung, ab 7. Monat, Solo-Fahrzeuge | 17,83 € | 18,99 € |
+| **3** | Zusätzlich Sattel-/Gliederzüge, mind. 24 Monate Erfahrung | 19,21 € | 19,92 € |
+| **4** | Zusätzlich Schwerverkehr (Tieflader etc.), mind. 48 Monate | 20,36 € | 21,11 € |
+| **5** | Schwerverkehr mit Überbreite/-länge | 21,00 € | 21,78 € |
+
+**Lohnzuschläge Kraftfahrer** (pro geleisteter Arbeitsstunde, Beispiele): Gerätetransport +0,90 €, Schwerlastkombination +0,80 €, Fertigteiltransport +0,65 €, Auto-/Raupenkran +0,60 €, Betonpumpe +0,60 €, Containertransport +0,45 €.
+
+!!! warning "Zahlen nicht als Zusage verwenden"
+    Diese Werte sind **Beispiele aus einem internen Dokument** und **keine Gehaltszusage**. In der Kandidaten-Kommunikation nie konkrete €/h zusichern — immer auf den aktuellen Tarifvertrag und die individuelle Einstufung durch Max Bögl verweisen.
+
+---
+
 ## Quellen und Rechtsgrundlagen
 
 - **Aufenthaltsgesetz (AufenthG)**: § 18, § 18a, § 18b (Fachkräfteeinwanderung)
