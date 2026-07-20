@@ -9,7 +9,7 @@ Die Max Bögl Unternehmensgruppe rekrutiert Fachkräfte für **11 verschiedene B
 3. **Welcher Standort** bestimmt die konkrete Kammer?
 
 !!! info "Kernregel"
-    Die zuständige Kammer richtet sich nach dem **Einsatzort des Arbeitnehmers**, nicht nach dem Unternehmenssitz.
+    Die zuständige Kammer richtet sich nach dem **Einsatzort des Arbeitnehmers**, nicht nach dem Unternehmenssitz. Rechtsgrundlage: § 17 Abs. 1 BQFG (Berufsqualifikationsfeststellungsgesetz) i.V.m. den jeweiligen Landesverordnungen.
 
 ---
 
