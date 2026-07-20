@@ -4,6 +4,9 @@
 
 Dieser Artikel erklärt, welche **Krankenversicherung** ein usbekischer Facharbeiter für die **Einreise nach Deutschland** und für den **Arbeitsbeginn** benötigt.
 
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
+    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland. Die **Krankenversicherung** ist eine der wichtigsten Voraussetzungen für das Visum. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
+
 ---
 
 ## Übersicht: Zwei Phasen

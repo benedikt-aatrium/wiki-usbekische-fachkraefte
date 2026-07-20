@@ -10,6 +10,9 @@ Die ZAV prüft vor allem:
 - Qualifikation der Fachkraft
 - Ob die Stelle den Vorschriften entspricht
 
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
+    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland und ermöglicht **beschleunigte ZAV-Verfahren**. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
+
 ---
 
 ## Rechtsgrundlagen

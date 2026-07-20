@@ -4,6 +4,9 @@
 
 Dieser Artikel erklärt, wie ein usbekischer Facharbeiter seine **Familie (Ehepartner und Kinder)** nach Deutschland nachholen kann.
 
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
+    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland. Der **Familiennachzug** ist ein wichtiger Bestandteil der Integration. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
+
 ---
 
 ## Voraussetzungen für den Familiennachzug
