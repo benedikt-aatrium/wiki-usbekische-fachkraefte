@@ -9,6 +9,9 @@ Die Anerkennung ausländischer Berufsabschlüsse in Deutschland wird von **unter
 
 Die richtige Stelle zu wählen, ist entscheidend. Bei falschem Antrag wird das Verfahren abgelehnt oder weitergeleitet.
 
+!!! tip "Siehe auch"
+    **Artikel 18 (IHK FOSA vs. HWK – Ablauf)** beschreibt die Verfahren Schritt für Schritt mit Rechtsgrundlagen (BBiG § 50, HwO § 41b) und Dokumentenlisten — dieser Artikel (10) gibt den kompakten Überblick zur Zuständigkeit.
+
 ---
 
 ## IHK FOSA – Zuständigkeiten
@@ -38,7 +41,7 @@ Beispiele für IHK-FOSA-Berufe:
 
 ### Kosten
 
-- IHK FOSA-Verfahren ist **gebührenpflichtig** (mehrere hundert Euro, je nach Beruf und Aufwand).
+- IHK FOSA-Verfahren ist **gebührenpflichtig**: ca. **100–300 €**, je nach Beruf und Aufwand (Details siehe Artikel 18; konkrete Gebühren werden im Bescheid festgelegt).
 - Übersetzungskosten kommen hinzu.
 
 ### Dokumente
@@ -82,7 +85,7 @@ Für AATRIUM besonders relevante HWK-Berufe:
 
 ### Kosten
 
-- Handwerkskammer-Gebühren variieren stark je nach Kammer und Beruf (ca. 200–600 € plus eventuelle Prüfungsgebühren).
+- Handwerkskammer-Gebühren variieren je nach Kammer und Beruf (ca. **100–500 €** plus eventuelle Prüfungsgebühren; Details siehe Artikel 18).
 - Übersetzungen und Beglaubigungen zusätzlich.
 
 ### Dokumente
@@ -103,7 +106,7 @@ Für AATRIUM besonders relevante HWK-Berufe:
 | Beispiele Maurer/Fliesenleger | **Nein** | **Ja** |
 | Beispiele Trockenbauer/Elektroniker | **Ja** | Nein |
 | Verfahren | Zentralisiert über IHK FOSA | Dezentral bei Handwerkskammer vor Ort |
-| Kosten | ca. 200–600 € | ca. 200–600 € (je nach Kammer) |
+| Kosten | ca. 100–300 € | ca. 100–500 € (je nach Kammer) |
 | Endergebnis | Gleichwertigkeitsbescheid | Gleichwertigkeitsbescheid + evtl. Handwerksrolle |
 
 ---

@@ -36,23 +36,38 @@ markdown_extensions:
 
 nav:
   - Start: index.md
-  - 01 Gesamtablauf: 01_gesamtablauf.md
-  - 02 Arbeitsvertrag & Zulassung: 02_arbeitsvertrag_zulassung.md
-  - 03 Visum: 03_visum.md
-  - 04 Berufliche Anerkennung: 04_berufliche_anerkennung.md
-  - 05 Usbekische Dokumente: 05_usbekische_dokumente.md
-  - 06 Checklisten: 06_checklisten.md
-  - 07 ZAV/BA-Zustimmung: 07_zav_ba_zustimmung.md
-  - 08 Onboarding Deutschland: 08_onboarding_deutschland.md
-  - 09 Sprache & Integrationskurs: 09_sprache_integrationskurs.md
-  - 10 IHK FOSA vs. HWK: 10_ihk_fosa_vs_hwk.md
-  - 11 Kostenübersicht: 11_kostenuebersicht.md
-  - 12 Usbekische Arbeitsbücher: 12_usbekische_arbeitsbuecher.md
-  - 13 Arbeitgeber-Checkliste: 13_arbeitgeber_checkliste.md
-  - 14 Familiennachzug: 14_familiennachzug.md
-  - 15 Häufige Fehler: 15_haeufige_fehler.md
-  - 16 Rechtssicherheit Arbeitgeber: 16_rechtssicherheit_arbeitgeber.md
-  - 17 Max Bögl Stellenprofile: 17_max_boegl_stellenprofile.md
-  - 18 IHK FOSA vs. HWK Ablauf: 18_ihk_fosa_vs_hwk_ablauf.md
-  - 19 Anabin, ZAV, KMK Zusammenspiel: 19_anabin_zav_kmk_zusammenspiel.md
+  - Grundlagen und Ablauf:
+    - 01 Gesamtablauf: 01_gesamtablauf.md
+    - 02 Arbeitsvertrag & Zulassung: 02_arbeitsvertrag_zulassung.md
+    - 03 Visum: 03_visum.md
+    - 04 Berufliche Anerkennung: 04_berufliche_anerkennung.md
+    - 05 Usbekische Dokumente: 05_usbekische_dokumente.md
+    - 06 Checklisten: 06_checklisten.md
+  - Anerkennung im Detail:
+    - 07 ZAV/BA-Zustimmung: 07_zav_ba_zustimmung.md
+    - 10 IHK FOSA vs. HWK – Überblick: 10_ihk_fosa_vs_hwk.md
+    - 18 IHK FOSA vs. HWK – Ablauf: 18_ihk_fosa_vs_hwk_ablauf.md
+    - 19 Anabin, ZAV, KMK Zusammenspiel: 19_anabin_zav_kmk_zusammenspiel.md
+    - 21 Apostille-Verfahren: 21_apostille_usbekische_dokumente.md
+    - 28 Usbekische Dokumente im Detail: 28_usbekische_dokumente_detail.md
+  - Einreise und Ankunft:
+    - 20 Visum Botschaft Taschkent: 20_visum_botschaft_taschkent.md
+    - 22 Krankenversicherung: 22_krankenversicherung_einreise.md
+    - 23 Unterkunft & Anmeldung: 23_unterkunft_anmeldung.md
+    - 24 Bankkonto & Steuer-ID: 24_bankkonto_steuer_id.md
+  - Integration und Arbeitsleben:
+    - 08 Onboarding Deutschland: 08_onboarding_deutschland.md
+    - 09 Sprache & Integrationskurs: 09_sprache_integrationskurs.md
+    - 25 Integrations- & Berufssprachkurs: 25_integrationskurs_berufssprachkurs.md
+    - 26 Familiennachzug im Detail: 26_familiennachzug_detail.md
+    - 27 Arbeitsrecht: 27_arbeitsrecht_auslaendische_fachkraefte.md
+  - Praxis und Stellen:
+    - 11 Kostenübersicht: 11_kostenuebersicht.md
+    - 12 Usbekische Arbeitsbücher: 12_usbekische_arbeitsbuecher.md
+    - 13 Arbeitgeber-Checkliste: 13_arbeitgeber_checkliste.md
+    - 14 Familiennachzug: 14_familiennachzug.md
+    - 15 Häufige Fehler: 15_haeufige_fehler.md
+    - 16 Rechtssicherheit Arbeitgeber: 16_rechtssicherheit_arbeitgeber.md
+    - 17 Max Bögl Stellenprofile: 17_max_boegl_stellenprofile.md
+    - 29 Häufige Probleme & Lösungen: 29_haeufige_probleme_loesungen.md
   - Quellen: 99_quellen.md

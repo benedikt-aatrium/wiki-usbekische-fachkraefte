@@ -4,8 +4,11 @@
 
 Für die Erteilung eines deutschen Arbeitsvisums und für die berufliche Anerkennung werden meist **Deutschkenntnisse** nachgewiesen. Für viele Fachkräfte aus Usbekistan ist der Weg über A1, A2 bis B1 entscheidend.
 
-!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
-    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland. **Deutschkenntnisse** sind eine der wichtigsten Voraussetzungen für die Integration. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
+!!! tip "Siehe auch"
+    **Artikel 25 (Integrationskurs und Berufssprachkurs im Detail)** beschreibt die konkreten Kurse (Dauer, Kosten, Anmeldung, Prüfungen) — dieser Artikel (09) erklärt die Sprachanforderungen für Visum und Anerkennung.
+
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2024)"
+    Am **15. September 2024** unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev in Samarkand ein **Migrationsabkommen (Mobilitätspartnerschaft)** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland. **Deutschkenntnisse** sind eine der wichtigsten Voraussetzungen für die Integration. Quelle: bundesregierung.de – Pressestatement des Kanzlers in Samarkand, 15.09.2024: https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/kanzler-statement-usbekistan-2308514 (live verifiziert, Juli 2026).
 
 ---
 

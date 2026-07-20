@@ -4,6 +4,9 @@
 
 Dieser Artikel sammelt **häufige Probleme** aus der Praxis von AATRIUM und bietet **konkrete Lösungen**. Er dient als **Troubleshooting-Guide** für den Einreise- und Anerkennungsprozess.
 
+!!! tip "Siehe auch"
+    **Artikel 15 (Häufige Fehler und Fallen)** listet die klassischen Fehlerquellen im Prozess (falsche Anerkennungsstelle, Fristen, unvollständige Dokumente) — dieser Artikel (29) geht tiefer in konkrete Problemlösungen und Widerspruchsverfahren.
+
 ---
 
 ## Probleme bei der Anerkennung

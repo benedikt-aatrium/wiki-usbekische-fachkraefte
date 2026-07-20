@@ -4,8 +4,11 @@
 
 Nach der Einreise mit einem gültigen Visum hat die Fachkraft in den ersten Wochen mehrere **Pflichttermine** und Anmeldungen. Diese sollten idealerweise vom Arbeitgeber oder einem Paten begleitet werden.
 
-!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
-    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland. Das **Onboarding** ist der erste Schritt der Integration in Deutschland. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2024)"
+    Am **15. September 2024** unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev in Samarkand ein **Migrationsabkommen (Mobilitätspartnerschaft)** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland. Das **Onboarding** ist der erste Schritt der Integration in Deutschland. Quelle: bundesregierung.de – Pressestatement des Kanzlers in Samarkand, 15.09.2024: https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/kanzler-statement-usbekistan-2308514 (live verifiziert, Juli 2026).
+
+!!! tip "Siehe auch"
+    **Artikel 23 (Unterkunft & Anmeldung)** und **Artikel 24 (Bankkonto & Steuer-ID)** behandeln die einzelnen Schritte ausführlicher — dieser Artikel (08) gibt den Gesamtüberblick über die ersten Wochen.
 
 ---
 

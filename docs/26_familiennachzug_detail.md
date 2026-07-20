@@ -4,8 +4,11 @@
 
 Dieser Artikel erklärt, wie ein usbekischer Facharbeiter seine **Familie (Ehepartner und Kinder)** nach Deutschland nachholen kann.
 
-!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
-    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland. Der **Familiennachzug** ist ein wichtiger Bestandteil der Integration. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
+!!! tip "Siehe auch"
+    **Artikel 14 (Familiennachzug)** erklärt die rechtlichen Grundlagen (§§ 30 ff. AufenthG, Bearbeitungszeiten, Arbeitsmarktzugang für Ehegatten) — dieser Artikel (26) enthält die detaillierten Zahlen und Dokumentenlisten.
+
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2024)"
+    Am **15. September 2024** unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev in Samarkand ein **Migrationsabkommen (Mobilitätspartnerschaft)** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland. Der **Familiennachzug** ist ein wichtiger Bestandteil der Integration. Quelle: bundesregierung.de – Pressestatement des Kanzlers in Samarkand, 15.09.2024: https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/kanzler-statement-usbekistan-2308514 (live verifiziert, Juli 2026).
 
 ---
 

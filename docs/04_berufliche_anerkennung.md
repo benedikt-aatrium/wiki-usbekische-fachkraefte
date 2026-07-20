@@ -187,7 +187,7 @@ Die **Zentralstelle für ausländisches Bildungswesen (ZAB)** bewertet im „ana
 - **Konkrete Gebühren** der HWK Niederbayern-Oberpfalz und HWK Mittelfranken
 - **Detaillierte Dokumentenlisten** der HWK-Seiten (aktuell 500-Fehler)
 - **Ob eine Anerkennung für die ZAV-Zustimmung bei Maurer/Betonbauer/Straßenbauer zwingend nötig ist** oder ob Fachkräftemangel + Ausbildungsnachweis ausreichen
-- **ZAB-Verfahren für Nazarov/Kholmatov:** Sind deren Abschlüsse eher dual oder akademisch?
+- **ZAB-Verfahren für konkrete Kandidaten:** Sind deren Abschlüsse eher dual oder akademisch? (Fallbezogen prüfen)
 
 ---
 

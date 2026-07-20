@@ -10,8 +10,8 @@ Die ZAV prüft vor allem:
 - Qualifikation der Fachkraft
 - Ob die Stelle den Vorschriften entspricht
 
-!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
-    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland und ermöglicht **beschleunigte ZAV-Verfahren**. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2024)"
+    Am **15. September 2024** unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev in Samarkand ein **Migrationsabkommen (Mobilitätspartnerschaft)** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland und ermöglicht **beschleunigte ZAV-Verfahren**. Quelle: bundesregierung.de – Pressestatement des Kanzlers in Samarkand, 15.09.2024: https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/kanzler-statement-usbekistan-2308514 (live verifiziert, Juli 2026).
 
 ---
 
@@ -78,7 +78,7 @@ Die ausländische Fachkraft muss dafür nicht persönlich bei der ZAV erscheinen
 
 ### Mindestgehalt
 - Das vereinbarte Gehalt muss mindestens dem **gesetzlichen Mindestlohn** entsprechen.
-- Stand 2026: Mindestlohn **12,82 € brutto pro Stunde** (wurde 2024 angehoben).
+- Stand 2026: Mindestlohn **13,90 € brutto pro Stunde** (ab 01.01.2026; für 2027 sind 14,60 € beschlossen). Quelle: BMAS (live verifiziert, Juli 2026).
 - Für qualifizierte Fachkräfte mit anerkanntem Abschluss sollte das Gehalt deutlich über dem Mindestlohn liegen.
 
 ### Tarifgebundenheit

@@ -12,12 +12,12 @@ Dieser Artikel erklärt die **wichtigsten arbeitsrechtlichen Regelungen** für a
 
 | Jahr | Mindestlohn (brutto) |
 |------|----------------------|
-| **2026** | **12,82 € pro Stunde** |
-| 2025 | 12,41 € pro Stunde |
+| **2026** | **13,90 € pro Stunde** (ab 01.01.2026) |
+| 2025 | 12,82 € pro Stunde |
 | 2024 | 12,00 € pro Stunde |
 
 !!! warning "Wichtig"
-    Der **Mindestlohn** gilt für **alle Arbeitnehmer** in Deutschland, unabhängig von der Staatsangehörigkeit. Der Arbeitgeber darf **nicht weniger** zahlen.
+    Der **Mindestlohn** gilt für **alle Arbeitnehmer** in Deutschland, unabhängig von der Staatsangehörigkeit. Der Arbeitgeber darf **nicht weniger** zahlen. Für 2027 ist eine weitere Erhöhung auf **14,60 €** beschlossen (Beschluss der Mindestlohnkommission 2025). Quelle: BMAS (live verifiziert, Juli 2026).
 
 ### Berechnung des Monatsgehalts
 
@@ -25,7 +25,7 @@ Bei einer **40-Stunden-Woche** und **4,33 Wochen pro Monat**:
 
 | Berechnung | Betrag |
 |------------|--------|
-| 12,82 € × 40 Stunden × 4,33 Wochen | ca. 2.220 € brutto/Monat |
+| 13,90 € × 40 Stunden × 4,33 Wochen | ca. 2.408 € brutto/Monat |
 
 !!! note "Hinweis"
     Das **Nettogehalt** ist nach Abzug von Steuern und Sozialversicherungsbeiträgen ca. **1.500–1.700 €** (je nach Steuerklasse).

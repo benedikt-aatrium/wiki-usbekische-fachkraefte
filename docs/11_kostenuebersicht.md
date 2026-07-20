@@ -24,8 +24,8 @@ Der Weg einer usbekischen Fachkraft nach Deutschland verursacht verschiedene Kos
 | Position | Geschätzte Kosten | Hinweis |
 |----------|-------------------|---------|
 | Visumgebühr | 75–100 € | Nationalvisum D |
-| Anerkennung IHK FOSA | 200–600 € | Je nach Beruf |
-| Anerkennung HWK | 200–600 € | Je nach Kammer |
+| Anerkennung IHK FOSA | ca. 100–300 € | Je nach Beruf; Details Artikel 18 |
+| Anerkennung HWK | ca. 100–500 € | Je nach Kammer; Details Artikel 18 |
 | Führerschein-Umschreibung | 500–1.500 € | Inkl. Fahrstunden, Prüfung |
 | Krankenversicherung | 0 € | Über Arbeitgeber ab erstem Arbeitstag |
 | Bankkonto | 0–10 €/Monat | Je nach Bank |
@@ -39,12 +39,12 @@ Der Weg einer usbekischen Fachkraft nach Deutschland verursacht verschiedene Kos
 | Position | Geschätzte Kosten | Hinweis |
 |----------|-------------------|---------|
 | Miete | 300–800 €/Monat | Je nach Region |
-| Krankenkasse | ca. 7,3 % vom Brutto + Zusatzbeitrag | Arbeitgeberanteil inklusive |
-| Rentenversicherung | ca. 9,3 % vom Brutto | Arbeitgeberanteil inklusive |
-| Arbeitslosenversicherung | ca. 1,2 % vom Brutto | Arbeitgeberanteil inklusive |
-| Pflegeversicherung | ca. 1,7 % vom Brutto | Arbeitgeberanteil inklusive |
+| Krankenkasse | 14,6 % vom Brutto gesamt (je 7,3 % Arbeitnehmer + Arbeitgeber) + Zusatzbeitrag | Arbeitnehmer zahlt nur die Hälfte |
+| Rentenversicherung | 18,6 % vom Brutto gesamt (je 9,3 % AN + AG) | Arbeitnehmer zahlt nur die Hälfte |
+| Arbeitslosenversicherung | 2,4 % vom Brutto gesamt (je 1,2 % AN + AG) | Arbeitnehmer zahlt nur die Hälfte |
+| Pflegeversicherung | 3,4 % vom Brutto gesamt (je 1,7 % AN + AG) | Kinderlose zahlen Zuschlag |
 | Steuern | variabel | Lohnsteuer abhängig von Bruttoeinkommen |
-| Integrationskurs | 2,20 €/Stunde | ca. 1.540 € Gesamtkosten, Rückerstattung möglich |
+| Integrationskurs | 1,95 €/Stunde | ca. 1.170 € Gesamtkosten (600 Stunden); kostenlos für Arbeitsuchende; Details siehe Artikel 25 |
 
 ---
 

@@ -138,33 +138,21 @@
 
 ---
 
-## 6.6 Kandidaten-spezifische Checkliste (Beispiel Nazarov)
+## 6.6 Kandidaten-spezifische Checkliste (generische Vorlage)
 
-> **Hinweis:** Diese Checkliste basiert auf den gelesenen Dokumenten von Khusniddin Nazarov. Sie muss nach Rücksprache mit Kandidat und Arbeitgeber finalisiert werden.
+> **Hinweis:** Kandidatenspezifische Daten (Passnummern, Geburtsdaten, individuelle Dokumentenstände) gehören **nicht ins Wiki**, sondern in das interne Kandidaten-Tracking. Diese generische Vorlage zeigt die Prüfpunkte pro Kandidat.
 
-- [ ] Passgültigkeit bis 2035 OK (UZB FB11 44673)
-- [ ] Geburtsdatum 25.02.1999, Geburtsort Termez verifizieren
-- [ ] Goethe-Zertifikat B1 (Saratow, 30.06.2025) akzeptabel für Visum/Anerkennung?
-- [ ] College-Diplom (2014–2017) vollständig + Ilova beschaffen
-- [ ] Fachrichtung des College-Diploms klären (aktuell unklar)
-- [ ] Berufserfahrung prüfen: Bäckerei, Kunststoff, Verpackung, Schneiderei, Verkauf – **keine Bau-Erfahrung**
-- [ ] Referenzberuf „Straßenbauer/Betonarbeiter“ kritisch prüfen: Ausbildung und Erfahrung passen nicht
-- [ ] Alternative Berufe prüfen: Kunststoff, Verpackung, Produktion, Handel
-- [ ] Zuständige Anerkennungsstelle nach alternativem Beruf klären
-- [ ] Ausbildungsnachweise übersetzen lassen (für IHK FOSA oder HWK je nach Beruf)
-- [ ] Arbeitsbescheinigungen aus Türkei/Usbekistan beschaffen
-- [ ] Gesundheits-/Impfunterlagen klären
+- [ ] Passgültigkeit prüfen (mindestens 3 Monate über Aufenthalt hinaus)
+- [ ] Geburtsdatum und Geburtsort mit Pass abgleichen
+- [ ] Sprachzertifikat prüfen (anerkannt? Niveau ausreichend? gültig?)
+- [ ] Ausbildungsnachweise vollständig (Diplom + Ilova/Transkript)
+- [ ] Fachrichtung der Ausbildung eindeutig klären
+- [ ] Berufserfahrung mit Arbeitsbuch/Arbeitsbescheinigungen verifizieren
+- [ ] **Referenzberuf kritisch prüfen:** Passen Ausbildung UND Erfahrung zum geplanten Beruf?
+- [ ] Bei Nicht-Passung: Alternative Berufe prüfen (näher an tatsächlicher Erfahrung)
+- [ ] Zuständige Anerkennungsstelle nach (alternativem) Beruf klären
+- [ ] Übersetzungen organisieren (IHK FOSA oder HWK je nach Beruf)
 - [ ] ZAV-Zustimmung frühzeitig prüfen
-
----
-
-**Kholmatov:**
-
-- [ ] Dokumente von Kholmatov (AA-25000040) finden und lesen
-- [ ] Lebenslauf, Ausbildung, Berufserfahrung verifizieren
-- [ ] Pass und Sprachnachweise prüfen
-- [ ] Referenzberuf festlegen
-- [ ] Checkliste analog zu Nazarov erstellen
 
 ---
 
@@ -172,5 +160,3 @@
 
 - Aktuelle Visumgebühren und Bearbeitungszeiten für Usbekistan
 - Genaues Dokumentenformular der Botschaft Taschkent / TLScontact
-- Ob Nazarov überhaupt für einen Mangelberuf/Beruf mit Ausbildungsnachweis qualifiziert ist
-- Richtige Schreibweise/ID von Kholmatov und Lage seiner Dokumente

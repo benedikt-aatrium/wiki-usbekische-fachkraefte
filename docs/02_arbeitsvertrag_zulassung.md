@@ -128,7 +128,7 @@ Die BA führt eine Liste von Berufen, in denen ein Fachkräftemangel besteht. F�
 
 - **Konkrete ZAV-Kontaktdaten:** Regionale ZAV für Bayern und Standort Max Bögl klären.
 - **Dauer des ZAV-Verfahrens:** Je nach Vollständigkeit und Beruf; typisch mehrere Wochen.
-- **Müssen Nazarov/Kholmatov vorab eine Anerkennung haben, damit die ZAV zustimmt?** → Je nach Beruf und Stellenbeschreibung unterschiedlich; telefonisch klären.
+- **Muss ein Kandidat vorab eine Anerkennung haben, damit die ZAV zustimmt?** → Je nach Beruf und Stellenbeschreibung unterschiedlich; telefonisch klären.
 - **Kann AATRIUM als Bevollmächtigter auftreten?** → Ja, mit Vollmacht; Formulare prüfen.
 
 ---

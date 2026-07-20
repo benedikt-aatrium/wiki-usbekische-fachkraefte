@@ -2,8 +2,11 @@
 
 > **Ziel:** Die richtigen Dokumente aus Usbekistan beschaffen, apostillieren (falls nötig) und übersetzen lassen.
 
-**Stand:** 2026-07-10  
+**Stand:** 2026-07-20  
 **Quellen:** HCCH Apostille-Konvention, Anerkennung-in-Deutschland.de, IHK FOSA, BDÜ, BMAS
+
+!!! tip "Siehe auch"
+    **Artikel 28 (Usbekische Dokumente im Detail)** erklärt die Dokumenttypen (Arbeitsbuch, Diplom, Ilova) ausführlich mit Lesetipps — dieser Artikel (05) behandelt das Beschaffen, Apostillieren und Übersetzen. **Artikel 21** erklärt das Apostille-Verfahren im Detail. **Artikel 12** zeigt, wie man usbekische Arbeitsbücher liest.
 
 ---
 

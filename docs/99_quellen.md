@@ -2,7 +2,7 @@
 
 > **Ziel:** Alle im Wiki verwendeten Quellen mit URL und Abrufdatum dokumentieren. Nicht gefundene Quellen sind als „offen“ markiert.
 
-**Stand:** 2026-07-17 (aktualisiert mit IHK-FOSA-, ZAV- und Gesetzeslinks aus Juli 2026)
+**Stand:** 2026-07-20 (aktualisiert: IHK-FOSA wieder erreichbar, Anerkennungs-Finder neue URL, Mindestlohn 13,90 € ab 01.01.2026 verifiziert)
 
 ---
 
@@ -27,6 +27,7 @@
 | BMAS (Fachkräfteeinwanderung) | https://www.bmas.de/DE/Themen/Arbeitsmarkt/Arbeitsmarktpolitik/Fachkraefteeinwanderung/fachkraefteeinwanderung.html | 2026-07-10 | ✅ Erreichbar | 02 |
 | BMAS (Arbeitsrecht) | https://www.bmas.de/DE/Themen/Arbeitsrecht/arbeitsrecht_node.html | 2026-07-10 | ✅ Erreichbar | 02 |
 | BMAS (Fachkräfteeinwanderungsgesetz) | https://www.bmas.de/DE/Arbeit/Migration-und-Arbeit/Rechtliches-zu-Einreise-Arbeitsmarktzugang-und-Absicherung/Fachkraefteeinwanderungsgesetz/fachkraefteeinwanderungsgesetz.html | 2026-07-17 | ✅ Erreichbar | 07, 17, 19 |
+| BMAS (Mindestlohn — 13,90 € ab 01.01.2026, 14,60 € ab 2027) | https://www.bmas.de/DE/Arbeit/Arbeitsrecht/Mindestlohn/mindestlohn.html | 2026-07-20 | ✅ Erreichbar | 07, 27 |
 | BAMF (Fachkräfte mit Berufsausbildung) | https://www.bamf.de/DE/Themen/MigrationAufenthalt/ZuwandererDrittstaaten/Arbeit/Fachkraft/fachkraft-node.html | 2026-07-17 | ✅ Erreichbar | 07, 17, 19 |
 | Make it in Germany (Visum und Aufenthalt) | https://www.make-it-in-germany.com/de/visum-aufenthalt/ | 2026-07-10 | ✅ Erreichbar | 02, 03 |
 | BMWK (Handwerk) | https://www.bmwk.de/Redaktion/DE/Textsammlungen/Mittelstand/handwerk.html | 2026-07-10 | ✅ Erreichbar | 04 |
@@ -69,13 +70,15 @@
 
 ## Nicht erreichbare / nicht verifizierte Quellen
 
+> **Hinweis (Stand 2026-07-20):** Die IHK-FOSA-Seiten (Verfahren, Beratungsstellen) waren am 17.07.2026 wieder erreichbar und wurden live verifiziert — siehe Erfolgsliste oben. Der Anerkennungs-Finder funktioniert unter der neuen URL `https://www.anerkennung-in-deutschland.de/de/interest/finder/profession` (verifiziert 2026-07-17).
+
 | Quelle | URL | Grund | Offener Punkt |
 |--------|-----|-------|---------------|
-| Anerkennung-Finder | https://www.anerkennung-in-deutschland.de/tools/anerkennungsfinder.html | 404 | Aktueller Link zum Anerkennungs-Finder prüfen |
+| Anerkennung-Finder (alt) | https://www.anerkennung-in-deutschland.de/tools/anerkennungsfinder.html | 404 | ✅ Gelöst: Neue URL in Erfolgsliste |
 | IHK FOSA FAQ | https://www.ihk-fosa.de/fragen-antworten/ | 404 | Aktuelle FAQ-Seite suchen |
-| IHK FOSA Gebühren | https://www.ihk-fosa.de/gebuehren/ | 404 | Aktueller Gebührentarif suchen |
-| IHK FOSA Verfahren | https://www.ihk-fosa.de/verfahren/ | 429 | Rate-Limiting / Bot-Schutz |
-| IHK FOSA Beratungsstellen | https://www.ihk-fosa.de/beratungsstellen/ | 429 | Rate-Limiting / Bot-Schutz |
+| IHK FOSA Gebühren | https://www.ihk-fosa.de/gebuehren/ | 404 | Gebühren nur im Bescheid; User klärt per E-Mail |
+| IHK FOSA Verfahren | https://www.ihk-fosa.de/verfahren/ | ✅ Erreichbar seit 17.07.2026 | In Erfolgsliste aufgenommen |
+| IHK FOSA Beratungsstellen | https://www.ihk-fosa.de/beratungsstellen/ | ✅ Erreichbar seit 17.07.2026 | In Erfolgsliste aufgenommen |
 | HWK NO Anerkennung | https://www.hwkno.de/praxis/berufe/anerkennung-auslaendischer-berufsabschluesse/ | 500 | Direkte Kontaktaufnahme oder alternativer Link |
 | HWK MF Anerkennung | https://www.hwk-mittelfranken.de/service/berufsbildung/aus-und-weiterbildung/auslaendische-berufsabschluesse/ | 500 | Direkte Kontaktaufnahme oder alternativer Link |
 | Auswärtiges Amt Visa-FAQ | https://www.auswaertiges-amt.de/de/service/visa/faq | 404 | Allgemeine Visa-Seite genutzt |
@@ -87,7 +90,7 @@
 | BMF Apostille | https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Topics/International/Apostille.html | 404 | HCCH als Primärquelle genutzt |
 | TLScontact Usbekistan | https://de.tlscontact.com/uz/ | 403 | Archive.org und Botschaftsmitteilung genutzt |
 | Anlage A Handwerksordnung (PDF) | https://www.bmwk.de/Redaktion/DE/Downloads/H/Handwerksordnung/anlage-a-handwerksordnung.pdf | 404 | Alternativer Link auf BMWK-Handwerkseite gefunden |
-| BDÜ Dolmetscherdatenbank | justiz.de | 404 | Alternativ über regionale Übersetzerverzeichnisse/Landgerichte suchen |
+| BDÜ Dolmetscherdatenbank | justiz.de | 404 | ✅ Gelöst: justiz-dolmetscher.de in Erfolgsliste |
 | ZAB (alternative Pfade) | https://zab.kmk.org/de/anerkennung | 404 | ZAB-Startseite und Zeugnisbewertung genutzt |
 
 ---

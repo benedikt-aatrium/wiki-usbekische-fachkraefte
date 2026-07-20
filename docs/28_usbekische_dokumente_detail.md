@@ -4,6 +4,9 @@
 
 Dieser Artikel erklärt die **wichtigsten usbekischen Dokumente** für die Anerkennung in Deutschland im Detail: **Arbeitsbuch (Mehnat daftari)**, **Diplom**, **Ilova (Anlage zum Diplom)**, **Svidetelstvo** und **Attestat**.
 
+!!! tip "Siehe auch"
+    **Artikel 05 (Usbekische Dokumente, Apostille und Übersetzungen)** behandelt das Beschaffen, Apostillieren und Übersetzen — dieser Artikel (28) erklärt die Dokumenttypen im Detail. **Artikel 12** zeigt praktisch, wie man Arbeitsbücher liest. **Artikel 21** erklärt das Apostille-Verfahren.
+
 ---
 
 ## Arbeitsbuch (Mehnat daftari)

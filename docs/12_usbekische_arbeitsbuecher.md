@@ -4,6 +4,9 @@
 
 In Usbekistan werden berufliche Tätigkeiten in einem **Arbeitsbuch (Mehnat daftarchasi / Меҳнат дафтарчаси)** und in **Arbeitsbescheinigungen (Mehnat faoliyati / Меҳнат фаолияти)** dokumentiert. Diese Dokumente sind die **primäre Quelle** für die Berufserfahrung einer Fachkraft – nicht der Lebenslauf.
 
+!!! tip "Siehe auch"
+    **Artikel 28 (Usbekische Dokumente im Detail)** erklärt die Dokumenttypen (Diplom, Ilova, Svidetelstvo, Attestat) ausführlich — dieser Artikel (12) konzentriert sich auf das Lesen der Arbeitsbücher. **Artikel 05** behandelt Übersetzungen und Apostille.
+
 ---
 
 ## Wichtige Dokumente

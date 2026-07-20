@@ -4,6 +4,9 @@
 
 Fachkräfte aus Usbekistan, die in Deutschland eine Aufenthaltserlaubnis zur Beschäftigung (§ 18 AufenthG) erhalten, können in der Regel ihren Ehegatten und minderjährigen Kindern nachholen. Der Familiennachzug ist ein wichtiger Faktor für die langfristige Integration.
 
+!!! tip "Siehe auch"
+    **Artikel 26 (Familiennachzug im Detail)** enthält die detaillierten Zahlen (Wohnfläche, Mindesteinkommen, Dokumentenliste) — dieser Artikel (14) gibt den rechtlichen Überblick (§§ 30 ff. AufenthG).
+
 ---
 
 ## Wer darf nachziehen?

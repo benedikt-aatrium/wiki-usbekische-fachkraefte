@@ -4,6 +4,9 @@
 
 Dieser Artikel erklärt Schritt für Schritt, wie ein Anerkennungsverfahren für usbekische Fachkräfte bei der **IHK FOSA** (Industrie- und Handelskammer) und bei einer **Handwerkskammer (HWK)** abläuft. Die beiden Verfahren unterscheiden sich deutlich in Zuständigkeit, Antragsweg, Prüfung und Dauer. Die Rechtsgrundlagen sind das **Berufsbildungsgesetz (BBiG)** und die **Handwerksordnung (HwO)**.
 
+!!! tip "Siehe auch"
+    **Artikel 10 (IHK FOSA vs. HWK – Überblick)** gibt den kompakten Überblick zur Zuständigkeit mit Berufsbeispielen — dieser Artikel (18) beschreibt die Verfahren im Detail.
+
 ---
 
 ## Rechtsgrundlagen

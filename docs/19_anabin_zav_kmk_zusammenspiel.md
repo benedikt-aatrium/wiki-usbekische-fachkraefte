@@ -4,6 +4,9 @@
 
 In vielen Informationsseiten werden **Anabin, ZAV, KMK, IHK FOSA und HWK** separat behandelt. Für die Praxis ist aber entscheidend, wie diese Systeme zusammenspielen. Dieser Artikel zeigt, welche Stelle für welchen Nachweis zuständig ist und in welcher Reihenfolge die Verfahren ablaufen.
 
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2024)"
+    Am **15. September 2024** unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev in Samarkand ein **Migrationsabkommen (Mobilitätspartnerschaft)** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland und ist die strategische Grundlage für die Arbeit von AATRIUM. Quelle: bundesregierung.de – Pressestatement des Kanzlers in Samarkand, 15.09.2024: https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/kanzler-statement-usbekistan-2308514 (live verifiziert, Juli 2026).
+
 ---
 
 ## Die vier Säulen auf einen Blick

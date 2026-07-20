@@ -4,6 +4,9 @@
 
 Viele Fehler im Prozess der Einstellung usbekischer Fachkräfte lassen sich vermeiden. Diese Übersicht zeigt die häufigsten Fallen – von der falschen Anerkennungsstelle bis zur unvollständigen Dokumentation.
 
+!!! tip "Siehe auch"
+    **Artikel 29 (Häufige Probleme und Lösungen in der Praxis)** ergänzt diese Liste um praktische Troubleshooting-Fälle (fehlende Ilova, nicht anerkannte Diplome, Visum-Ablehnung, Widerspruch) — dieser Artikel (15) listet die klassischen Fehlerquellen für Recruiter und Arbeitgeber.
+
 ---
 
 ## 1. Falsche Anerkennungsstelle wählen
