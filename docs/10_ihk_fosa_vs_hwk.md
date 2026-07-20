@@ -10,7 +10,44 @@ Die Anerkennung ausländischer Berufsabschlüsse in Deutschland wird von **unter
 Die richtige Stelle zu wählen, ist entscheidend. Bei falschem Antrag wird das Verfahren abgelehnt oder weitergeleitet.
 
 !!! tip "Siehe auch"
-    **Artikel 18 (IHK FOSA vs. HWK – Ablauf)** beschreibt die Verfahren Schritt für Schritt mit Rechtsgrundlagen (BBiG § 50, HwO § 41b) und Dokumentenlisten — dieser Artikel (10) gibt den kompakten Überblick zur Zuständigkeit.
+    **Artikel 18 (IHK FOSA vs. HWK – Ablauf)** beschreibt die Verfahren Schritt für Schritt mit Rechtsgrundlagen und Dokumentenlisten — dieser Artikel (10) gibt den kompakten Überblick zur Zuständigkeit.
+
+---
+
+## Der entscheidende Punkt: Der Referenzberuf bestimmt die Zuständigkeit
+
+Nach dem **Berufsqualifikationsfeststellungsgesetz (BQFG)** ist für die Anerkennung die Stelle zuständig, die für den **deutschen Referenzberuf** verantwortlich wäre. Die Wahl des Referenzberufs legt also fest, ob die **HWK** oder die **IHK FOSA** zuständig ist — nicht der usbekische Abschluss an sich.
+
+**Konkret für Bauberufe (verifiziert anhand Anlage A HwO):**
+
+| Referenzberuf | Anlage A HwO | Zuständig |
+|---------------|--------------|-----------|
+| **Maurer und Betonbauer** | Nr. 1 (zulassungspflichtig) | **HWK** am Einsatzort |
+| **Straßenbauer** | Nr. 5 (zulassungspflichtig) | **HWK** am Einsatzort |
+| **Beton- und Stahlbetonbauer** (neuere Ausbildungsbezeichnung, Bauwirtschaft) | nicht in Anlage A | **IHK FOSA** |
+
+!!! warning "Praxisbedeutung"
+    Ein und dieselbe Fachkraft kann je nach gewähltem Referenzberuf bei der **HWK** *oder* der **IHK FOSA** landen. Das muss vor Antragstellung mit dem Arbeitgeber (hier: Max Bögl) anhand der **tatsächlichen Stellenbezeichnung** geklärt werden. Die genaue Bezeichnung in der Stellenanzeige ist dafür maßgeblich.
+
+**Zuständige HWK = Kammer am (künftigen) Arbeitsort**, nicht am Wohnort des Antragstellers. Für die Max-Bögl-Standorte heißt das beispielsweise:
+- **Sengental / Regensburg / Oberpfalz** → HWK Niederbayern-Oberpfalz
+- **Nürnberg / Mittelfranken** → HWK für Mittelfranken
+
+---
+
+## Verifizierte Rechtsgrundlagen
+
+Geprüft auf gesetze-im-internet.de (Stand: Juli 2026):
+
+| Norm | Inhalt (Kurzfassung) |
+|------|----------------------|
+| **§ 40a HwO** | Ausländischer Ausbildungsnachweis steht der **Gesellenprüfung** gleich, wenn Gleichwertigkeit festgestellt wurde. Es gelten die BQFG-Vorschriften für **nicht reglementierte** Berufe. |
+| **§ 50c HwO** | Gleichwertigkeitsfeststellung mit der **Meisterprüfung**; regelt Arbeitsproben, Fachgespräche, Anpassungslehrgang, Eignungsprüfung bei wesentlichen Unterschieden. |
+| **§ 51g HwO** | Bei Gleichwertigkeit mit der Meisterprüfung ist diese festzustellen; § 50c gilt entsprechend. |
+| **§ 12 BQFG** | Vorzulegende Unterlagen: **Kopien reichen** („in Form von Kopien oder elektronisch"). Übersetzungen „von einem **öffentlich bestellten oder beeidigten** Dolmetscher oder Übersetzer". Erwerbsabsicht ist darzulegen (Abs. 6). |
+
+!!! note "Präzisierung zur Übersetzer-Regel (ehrlich gekennzeichnet)"
+    Der **Gesetzestext (§ 12 Abs. 2 BQFG)** verlangt nur einen „öffentlich bestellten oder beeidigten" Übersetzer — er sagt **nicht** ausdrücklich „in Deutschland vereidigt". Die **Handwerkskammern interpretieren** dies in der Praxis häufig dahin, dass ein **in Deutschland** öffentlich bestellter/vereidigter Übersetzer gefordert wird und im Ausland (z. B. Usbekistan) vereidigte Übersetzungen nicht akzeptiert werden. **Empfehlung:** Übersetzungen sicherheitshalber von einem in Deutschland beeidigten Übersetzer anfertigen lassen; vorab bei der konkreten Kammer rückversichern.
 
 ---
 
@@ -131,7 +168,14 @@ Für AATRIUM besonders relevante HWK-Berufe:
 
 ## Quellen
 
+Verifiziert (Stand: Juli 2026):
+
+- **Anlage A HwO** – zulassungspflichtige Handwerke (Nr. 1 Maurer und Betonbauer, Nr. 5 Straßenbauer): https://www.gesetze-im-internet.de/hwo/anlage_a.html
+- **§ 40a HwO** (Gesellenprüfungs-Gleichwertigkeit): https://www.gesetze-im-internet.de/hwo/__40a.html
+- **§ 50c HwO** (Meisterprüfungs-Gleichwertigkeit): https://www.gesetze-im-internet.de/hwo/__50c.html
+- **§ 51g HwO**: https://www.gesetze-im-internet.de/hwo/__51g.html
+- **§ 12 BQFG** (vorzulegende Unterlagen, Übersetzungen): https://www.gesetze-im-internet.de/bqfg/__12.html
+- **HWK Niederbayern-Oberpfalz** – Anerkennung ausländischer Berufsabschlüsse (Kontakt: anerkennung@hwkno.de, Tel. 0851 5301-135): https://www.hwkno.de/artikel/anerkennung-auslaendischer-berufsabschluesse-76,3630,4273.html
+- **Anerkennungs-Finder** der Bundesregierung: https://www.anerkennung-in-deutschland.de
 - IHK FOSA – Verfahrensübersicht und Berufeliste
-- Handwerksordnung (HwO) Anlage A – zulassungspflichtige Handwerke
-- Anerkennung in Deutschland – Anerkennungs-Finder
 - Zentralverband des Deutschen Handwerks (ZDH)

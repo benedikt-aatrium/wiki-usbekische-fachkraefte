@@ -194,11 +194,31 @@ Das **Attestat** (usbekisch: *Attestat*) ist der **Schulabschluss** in Usbekista
 
 ---
 
+## Einreichformalitäten bei der deutschen Stelle (verifiziert, § 12 BQFG)
+
+Für die Einreichung bei der zuständigen deutschen Stelle (HWK oder IHK FOSA) gilt nach **§ 12 BQFG**:
+
+- **Kopien reichen** — die Unterlagen sind „in Form von Kopien vorzulegen oder elektronisch zu übermitteln" (§ 12 Abs. 2). **Originalurkunden müssen nicht** eingeschickt werden. (Die HWK Mittelfranken weist ausdrücklich darauf hin: „Bitte schicken Sie uns keine Originalzeugnisse zu!")
+- **Übersetzungen** der relevanten Urkunden „von einem **öffentlich bestellten oder beeidigten** Dolmetscher oder Übersetzer" (§ 12 Abs. 2).
+- **Erwerbsabsicht** ist darzulegen (§ 12 Abs. 6), z. B. durch Antrag auf ein Visum zur Erwerbstätigkeit oder Arbeitgeberkontakt.
+
+!!! note "Welche Dokumente übersetzen lassen? (Präzisierung)"
+    Nicht nur das **Diplom** (Haupturkunde), sondern — das wird häufig vergessen — mindestens genauso wichtig:
+    - **Diplom Ilovosi** (Anlage / Fächer- und Stundenübersicht)
+    - **Transkript** (falls separat vorhanden)
+    - **Jahreszeugnisse** (falls separat vorhanden)
+
+!!! warning "Übersetzer-Regel — ehrlich differenziert"
+    § 12 Abs. 2 BQFG fordert nur einen „öffentlich bestellten oder beeidigten" Übersetzer und sagt **nicht ausdrücklich** „in Deutschland vereidigt". In der **Praxis** verlangen die Kammern jedoch häufig einen **in Deutschland** beeidigten Übersetzer und akzeptieren im Ausland (Usbekistan) angefertigte Übersetzungen nicht. **Empfehlung:** Übersetzungen sicherheitshalber von einem in Deutschland beeidigten Übersetzer anfertigen lassen und vorab bei der konkreten Kammer rückversichern.
+
+---
+
 ## Quellen
 
+- **§ 12 BQFG** (vorzulegende Unterlagen, Übersetzungen, Erwerbsabsicht): https://www.gesetze-im-internet.de/bqfg/__12.html
 - **Ministerium für Auswärtige Angelegenheiten Usbekistan:** https://mfa.uz
 - **Botschaft der Republik Usbekistan in Deutschland:** https://uzbekistan.de
 - **Anerkennung in Deutschland:** https://www.anerkennung-in-deutschland.de
 
 !!! info "Hinweis"
-    Dieser Artikel wurde auf Grundlage der Informationen des usbekischen Ministeriums für Auswärtige Angelegenheiten und der Botschaft der Republik Usbekistan in Deutschland erstellt. Die Anforderungen können sich ändern. Vor der Beantragung sollten die aktuellen Informationen geprüft werden.
+    Dieser Artikel wurde auf Grundlage der Informationen des usbekischen Ministeriums für Auswärtige Angelegenheiten, der Botschaft der Republik Usbekistan in Deutschland und des BQFG erstellt. Die Anforderungen können sich ändern. Vor der Beantragung sollten die aktuellen Informationen geprüft werden.
