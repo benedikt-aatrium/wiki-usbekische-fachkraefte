@@ -4,6 +4,9 @@
 
 Dieser Artikel erklärt, welche **Sprachkurse** ein usbekischer Facharbeiter in Deutschland besuchen kann und muss: den **Integrationskurs** (für allgemeine Deutschkenntnisse) und den **Berufssprachkurs** (für berufliche Deutschkenntnisse).
 
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
+    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland. **Sprachkurse** sind ein zentraler Bestandteil der Integration. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
+
 ---
 
 ## Übersicht: Zwei Arten von Sprachkursen

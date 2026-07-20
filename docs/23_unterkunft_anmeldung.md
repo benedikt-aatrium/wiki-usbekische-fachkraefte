@@ -4,6 +4,9 @@
 
 Dieser Artikel erklärt, was ein usbekischer Facharbeiter nach der **Einreise nach Deutschland** tun muss: **Unterkunft finden**, **Anmeldung beim Einwohnermeldeamt**, und die **ersten Schritte** im neuen Land.
 
+!!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2023)"
+    Im November 2023 unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev ein **Migrationsabkommen** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland. Die **Anmeldung** ist der erste behördliche Schritt nach der Einreise. Details: https://www.bundesregierung.de (Stichwort: Usbekistan, November 2023).
+
 ---
 
 ## Übersicht: Die ersten 2 Wochen
