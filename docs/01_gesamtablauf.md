@@ -21,6 +21,27 @@
                                 [Meldung + Aufenthaltstitel]
 ```
 
+### Realistische Gesamt-Zeitachse
+
+!!! warning "Ehrliche Planungsgrößen"
+    Die folgenden Dauern sind **Erfahrungs-/Schätzwerte** aus der AATRIUM-Praxis und verifizierter Behördenangaben (Wartezeiten, Verfahrensdauern) — **keine Garantien**. Einzelfälle können schneller gehen, aber auch deutlich länger dauern (fehlende Dokumente, Rückfragen, Prüfungstermine).
+
+| Phase | Realistische Dauer | Bemerkung |
+|-------|--------------------|-----------|
+| **0. Spracherwerb bis B1** (falls noch nicht vorhanden) | **6–12 Monate** | Größter Engpass des gesamten Prozesses — läuft aber parallel zu 1–3 (Artikel 31) |
+| **1. Matching & Dokumentenprüfung** | 2–6 Wochen | Arbeitsbuch, Diplom, Ilova beschaffen und prüfen (Artikel 05, 28) |
+| **2. Arbeitsvertrag** | 1–4 Wochen | Inkl. Klärung Referenzberuf & Kammer (Artikel 10) |
+| **3. ZAV/BA-Zustimmung** | 2–6 Wochen | Kann parallel zur Anerkennung laufen (Artikel 07) |
+| **4. Berufliche Anerkennung** | 2–4 Monate | HWK/IHK FOSA; parallel zur Sprachphase starten (Artikel 04, 18) |
+| **5. Visumverfahren** (Termin + Bearbeitung) | 1–3 Monate | Terminwartezeit Taschkent/TLScontact 2–4 Wochen + Bearbeitung (Artikel 03, 20) |
+| **6. Einreise & Anmeldung** | 2–4 Wochen | Meldung, eAT, Bank, Versicherung (Artikel 08, 22–24) |
+
+!!! tip "Faustregel für die Planung"
+    - **Kandidat mit B1 und kompletten Dokumenten:** realistisch **4–8 Monate** bis zum ersten Arbeitstag
+    - **Kandidat ohne Deutschkenntnisse (Start bei null):** realistisch **12–18 Monate**
+    
+    Für die Kommunikation mit Arbeitgebern (z. B. Max Bögl) und Kandidaten immer die **konservative** Schätzung nennen — unterschätzte Zeitpläne sind eine der häufigsten Frustrationsquellen (vgl. Artikel 15/29).
+
 ### Phase 1: Vor dem Vertrag
 
 - **Kandidat prüfen:** Pass, Ausbildung, Berufserfahrung, Sprache, Gesundheit
