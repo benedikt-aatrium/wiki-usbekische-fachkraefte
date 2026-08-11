@@ -144,7 +144,7 @@ HWKs verlangen in der Regel **keine Originalurkunden**. Farbkopien reichen.
 
 ### Apostille
 
-Für die **Anerkennung** selbst wird eine Apostille in der Regel **nicht explizit** verlangt.
+Für die **Anerkennung** selbst wird eine Apostille in der Regel **nicht explizit** verlangt. Für Deutschland ist eine usbekische Apostille ohnehin **wirkungslos** (deutscher Einspruch gegen Usbekistans Beitritt zum Haager Übereinkommen, 01.02.2012 — Details und was stattdessen gilt: **Artikel 21**).
 
 **Quelle:** HWK Niederbayern-Oberpfalz, HWK Mittelfranken (Homepages)
 

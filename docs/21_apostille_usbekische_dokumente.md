@@ -1,36 +1,50 @@
-# Apostille-Verfahren für usbekische Dokumente
+# Apostille & Legalisation für usbekische Dokumente — die rechtliche Klarstellung
 
-## Ziel dieses Artikels
+!!! danger "Zentrale Klarstellung (August 2026, HCCH-verifiziert): Apostille gilt NICHT für Deutschland!"
+    Usbekistan ist dem Haager Übereinkommen zwar 2011 beigetreten (in Kraft seit 15.04.2012) — **aber Deutschland hat am 01.02.2012 förmlich Einspruch gegen den Beitritt erhoben** (ebenso Österreich und Griechenland; Belgien hat seinen Einspruch erst am 11.06.2025 zurückgenommen). Folge: **Das Haager Übereinkommen gilt nicht zwischen Deutschland und Usbekistan.** Eine usbekische Apostille hat für deutsche Behörden **keine rechtliche Wirkung** — sie ist weder erforderlich noch ersetzt sie irgendetwas.
+    **Quelle:** HCCH-Statustabelle (Status of the Apostille Convention), Einwand Deutschlands vom 01.02.2012: https://www.hcch.net/en/instruments/conventions/status-table/?cid=41 (live verifiziert, August 2026).
 
-Dieser Artikel erklärt, wie usbekische Dokumente für die Verwendung in Deutschland **apostilliert** werden. Die Apostille ist eine internationale Beglaubigung, die die Echtheit eines Dokuments bestätigt.
+## Was stattdessen gilt: Originale + beglaubigte deutsche Übersetzung (+ ggf. Legalisation)
+
+Die verbindlichen Regeln stellt die **Botschaft Taschkent** auf (live verifiziert, August 2026):
+
+> „Fremdsprachige Unterlagen sind mit **beglaubigter Übersetzung in die deutsche Sprache** vorzulegen. Zeugnisse und Diplome müssen **im Original** eingereicht werden."
+
+| Regel | Detail |
+|-------|--------|
+| **Übersetzung** | Beglaubigt ins **Deutsche** — die Botschaft verlangt das grundsätzlich **auch für englischsprachige** Unterlagen („Grundsätzlich sind fremdsprachige Unterlagen (ggf. auch englischsprachige) mit Übersetzung in die deutsche Sprache vorzulegen") |
+| **Originale** | Zeugnisse und Diplome im Original — Kopien reichen bei der Botschaft nicht |
+| **Apostille** | **Wirkungslos für Deutschland** (Einspruch 2012) — nicht beschaffen! |
+| **Legalisation** | Ist der formale Echtheitsnachweis, der an die Stelle der Apostille tritt — wird **von der Botschaft Taschkent selbst** durchgeführt. Ob die Botschaft eine Legalisation verlangt oder auf die Echtheitsprüfung verzichtet, liegt **im Ermessen der Visastelle** — sie kann im Einzelfall Unterlagen nachfordern |
+
+!!! tip "Praxis-Konsequenz für AATRIUM"
+    **Keine Apostillen mehr beschaffen** — weder für die Anerkennung (HWK/IHK FOSA verlangen ohnehin keine, siehe Artikel 04) noch für das Visum. Der korrekte Weg für die Botschaft: **Originale + beglaubigte deutsche Übersetzung**. Nur wenn die Visastelle die Echtheit anzweifelt, kann sie eine **Legalisation** verlangen — das ist ihr Ermessen und erklärt die widersprüchlichen Berichte in der Praxis.
 
 ---
 
-## Was ist eine Apostille?
+## Hintergrund: Was ist eine Apostille?
 
 Die **Apostille** ist eine Beglaubigungsform nach dem **Haager Übereinkommen von 1961**. Sie bestätigt die Echtheit der Unterschrift, des Siegels und der Funktion des Ausstellers eines Dokuments.
 
-!!! warning "Wichtig"
-    Usbekistan ist dem Haager Übereinkommen beigetreten. Usbekische Dokumente können daher **apostilliert** werden. Dies ist für die Anerkennung bei IHK FOSA, HWK und für das Visum erforderlich.
+!!! note "Wofür eine usbekische Apostille trotzdem sinnvoll sein kann"
+    Für Staaten, die **keinen** Einspruch gegen Usbekistans Beitritt erhoben haben (oder ihn zurückgenommen haben — z. B. **Belgien seit 11.06.2025**), ist die usbekische Apostille weiterhin das richtige Instrument. Für **Deutschland** ist sie es dagegen nicht.
 
 ---
 
-## Welche Dokumente brauchen eine Apostille?
+## Welche Dokumente brauchen was? (Korrigierte Übersicht für Deutschland)
 
-Für die Anerkennung in Deutschland benötigen folgende usbekische Dokumente in der Regel eine Apostille:
+| Dokument | Für die Botschaft (Visum) | Bemerkung |
+|----------|---------------------------|-----------|
+| **Diplom / Abschlusszeugnis** | Original + beglaubigte deutsche Übersetzung | KEINE Apostille nötig |
+| **Arbeitsbuch / Mehnat daftari** | Kopie + beglaubigte deutsche Übersetzung | Für die Anerkennung zentral (Artikel 12, 28) |
+| **Arbeitsbescheinigungen** | Beglaubigte deutsche Übersetzung | Für Gleichwertigkeit / Berufserfahrungsregelung (Artikel 35) |
+| **Geburtsurkunde** | Original + beglaubigte deutsche Übersetzung | V. a. Familiennachzug |
+| **Heiratsurkunde** | Original + beglaubigte deutsche Übersetzung | V. a. Familiennachzug |
+| **Führerschein** | Für Umschreibung: siehe Artikel 33 | Keine Apostille |
+| **Polizeiliches Führungszeugnis** | Original + beglaubigte deutsche Übersetzung | Falls nachgefordert |
 
-| Dokument | Apostille nötig? | Bemerkung |
-|----------|------------------|-----------|
-| **Diplom / Abschlusszeugnis** | ✅ Ja | Für IHK FOSA / HWK |
-| **Arbeitsbuch / Mehnat daftari** | ⚠️ Empfohlen | Nicht immer verlangt, aber empfohlen |
-| **Arbeitsbescheinigungen** | ⚠️ Empfohlen | Für die Gleichwertigkeitsprüfung |
-| **Geburtsurkunde** | ✅ Ja | Für Familiennachzug |
-| **Heiratsurkunde** | ✅ Ja | Für Familiennachzug |
-| **Führerschein** | ⚠️ Empfohlen | Für Umschreibung |
-| **Polizeiliches Führungszeugnis** | ✅ Ja | Für Visum |
-
-!!! note "Hinweis"
-    Die **IHK FOSA** und die **HWK** verlangen in der Regel **keine Apostille** für die Anerkennung selbst. Für das **Visum** bei der Botschaft Taschkent kann eine Apostille jedoch erforderlich sein. Es wird empfohlen, alle Dokumente mit Apostille zu versehen.
+!!! note "Echtheitszweifel im Einzelfall"
+    Kann die Visastelle die Echtheit eines Dokuments nicht selbst prüfen, verlangt sie **keine Apostille**, sondern ggf. eine **Legalisation durch die Botschaft selbst** oder leitet eine Urkundenprüfung ein. Neuere **zweisprachige Hochschuldiplome (Usbekisch/Englisch) mit QR-Code** erleichtern die Echtheitsprüfung deutlich — siehe Artikel 28 (Abschnitt „QR-Code").
 
 ---
 

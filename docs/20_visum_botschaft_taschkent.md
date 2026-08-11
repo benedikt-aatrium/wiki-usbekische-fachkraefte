@@ -28,6 +28,20 @@ Bevor das Visum beantragt werden kann, müssen folgende Voraussetzungen erfüllt
 !!! warning "Wichtig"
     Ohne **ZAV-Zustimmung** und **Anerkennung** wird das Visum nicht erteilt. Diese müssen vor dem Termin bei der Botschaft vorliegen.
 
+### Offiziell verifizierte Regeln der Botschaft Taschkent (August 2026, live geprüft)
+
+Direkt von der Seite „Visum zur Arbeitsaufnahme als Fachkraft" (taschkent.diplo.de):
+
+- **Übersetzungen:** „Fremdsprachige Unterlagen sind mit **beglaubigter Übersetzung in die deutsche Sprache** vorzulegen" — das gilt ausdrücklich **auch für englischsprachige** Unterlagen.
+- **Originale:** „Zeugnisse und Diplome müssen **im Original** eingereicht werden."
+- **BA-Nachweis:** Ausgefüllte „Erklärung zum Beschäftigungsverhältnis" **oder Vorabzustimmung der BA — im ORIGINAL** (zur Vorabzustimmung siehe **Artikel 07**).
+- **Keine Apostille:** Sie wird nicht verlangt — und wäre für Deutschland auch wirkungslos (Einspruch Deutschlands gegen Usbekistans Haager-Beitritt, 01.02.2012; siehe **Artikel 21**). Bei Echtheitszweifeln entscheidet die Visastelle im **Einzelfall** (Ermessen) über ggf. Legalisation.
+- **Termin-Fast-Track:** Eigene Terminkategorie **„Nationales Visum mit Vorabzustimmung nach § 36 BeschV oder § 81a AufenthG"** — sehr kurzfristige Termine.
+- **Bearbeitungsdauer:** Visa für Erwerbstätigkeit in der Regel **4–6 Wochen** ab vollständigen Unterlagen.
+- **Gebühr:** 75 € (bar in Usbekischen Sum).
+- **Antragsannahme:** seit 01.07.2025 ausschließlich über **TLScontact**.
+- **Unterlagenformat:** DIN A4, in vorgegebener Reihenfolge, **nicht geheftet**; Flugbuchung erst NACH Visumerteilung.
+
 ---
 
 ## Terminvereinbarung

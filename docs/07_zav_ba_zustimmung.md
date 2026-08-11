@@ -23,7 +23,38 @@ Die ZAV prüft vor allem:
 | **AufenthG** | § 18a | Fachkräfte mit Berufsausbildung |
 | **AufenthG** | § 18b | Fachkräfte mit akademischer Ausbildung |
 | **AufenthG** | § 39 | Beschäftigung und Selbstständigkeit |
+| **AufenthG** | § 81a | Beschleunigtes Fachkräfteverfahren (Ausländerbehörde) |
+| **BeschV** | § 36 | Erteilung der Zustimmung — inkl. **Vorabzustimmung** (Abs. 3) |
 | **BeschV** | — | Beschäftigungsverordnung (ZAV-Prüfung) |
+
+---
+
+## Die Vorabzustimmung (§ 36 Abs. 3 BeschV) — das Beschleunigungsinstrument
+
+Die BA/ZAV kann die Zustimmung **bereits vor der eigentlichen Zustimmungsanfrage** erteilen bzw. vorprüfen. Gesetzestext § 36 Abs. 3 BeschV (live verifiziert, August 2026):
+
+> „Die Bundesagentur für Arbeit **soll bereits vor der Übermittlung der Zustimmungsanfrage** der Ausübung der Beschäftigung gegenüber der zuständigen Stelle zustimmen oder prüfen, ob die arbeitsmarktbezogenen Voraussetzungen für eine spätere Zustimmung vorliegen, wenn der Arbeitgeber die hierzu erforderlichen Auskünfte erteilt hat und das Verfahren dadurch beschleunigt wird."
+
+### Was das in der Praxis bedeutet
+
+| Aspekt | Detail |
+|--------|--------|
+| **Wer beantragt?** | Der deutsche Arbeitgeber bei der ZAV — mit Arbeitsvertrag, Stellenbeschreibung und der „Erklärung zum Beschäftigungsverhältnis" |
+| **Ergebnis** | Schriftliche **Vorabzustimmung** der BA — die Arbeitsmarktprüfung ist damit bereits erledigt |
+| **Nutzen für das Visum** | Die Botschaft Taschkent verlangt bei der Visumantragstellung entweder die „Erklärung zum Beschäftigungsverhältnis" **oder die Vorabzustimmung der BA — im ORIGINAL** (live verifiziert auf der Botschaftsseite, August 2026). Mit Vorabzustimmung entfällt die BA-Prüfung im Visumverfahren → deutlich schneller |
+| **Termin-Fast-Track** | Die Botschaft Taschkent hat eine eigene Terminkategorie **„Nationales Visum mit Vorabzustimmung nach § 36 BeschV oder § 81a AufenthG"** — mit Vorabzustimmung gibt es **sehr kurzfristige Termine** |
+| **Fiktionswirkung** | Gilt keine Vorabzustimmung vor, tritt die Zustimmung kraft Gesetzes ein, wenn die BA nicht **innerhalb von 2 Wochen** nach Zustimmungsanfrage reagiert (§ 36 Abs. 2 BeschV; im § 81a-Verfahren: 1 Woche) |
+
+!!! tip "AATRIUM-Empfehlung"
+    Die Vorabzustimmung sollte **Standard** für alle Bögl-Kandidaten werden: Max Bögl (als Arbeitgeber) beantragt sie bei der ZAV, sobald der Arbeitsvertrag steht — parallel zur laufenden Anerkennung. Wenn der Kandidat dann die Botschafts-Terminkategorie „mit Vorabzustimmung" nutzt, verkürzt sich das Visumverfahren spürbar.
+
+### Alternative: Beschleunigtes Fachkräfteverfahren (§ 81a AufenthG)
+
+Der Arbeitgeber kann zusätzlich das **beschleunigte Fachkräfteverfahren** bei der zuständigen Ausländerbehörde einleiten (Vollmacht des Kandidaten nötig):
+
+- **Gebühr: 411 €** (Stand: Botschaft Taschkent, August 2026)
+- Die Ausländerbehörde koordiniert alle Prüfungen (BA-Zustimmung, Anerkennung) und erteilt am Ende die **Vorabzustimmung**
+- Diese muss der Arbeitgeber dem Kandidaten **im Original** zusenden — damit bekommt der Kandidat bei der Botschaft einen sehr kurzfristigen Termin
 
 ---
 

@@ -14,7 +14,7 @@ Der Weg einer usbekischen Fachkraft nach Deutschland verursacht verschiedene Kos
 | Sprachprüfung (Goethe/ÖSD/TELC) | 100–250 € | Pro Prüfung |
 | Übersetzungen Zeugnisse | 50–200 € | Pro Dokument |
 | Beglaubigte Übersetzungen | 80–250 € | Pro Dokument |
-| Apostille / Legalisation | 20–100 € | Pro Dokument |
+| ~~Apostille~~ / Legalisation | 20–100 € | Pro Dokument — **Achtung: usbekische Apostille für DE wirkungslos (Art. 21); ggf. Legalisation durch Botschaft** |
 | Arbeitsvermittlung / Agentur | 0–5.000 € | Stark variabel |
 
 ---

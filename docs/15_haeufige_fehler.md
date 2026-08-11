@@ -38,14 +38,15 @@ Viele Fehler im Prozess der Einstellung usbekischer Fachkräfte lassen sich verm
 
 ---
 
-## 3. Übersetzungen ohne Apostille oder Legalisation
+## 3. Übersetzungen ohne Beglaubigung — oder überflüssige Apostille
 
-**Fehler:** Dokumente werden nur übersetzt, aber nicht beglaubigt oder apostilliert.
+**Fehler:** Dokumente werden nur übersetzt, aber nicht beglaubigt — oder es wird teuer eine **Apostille** beschafft, die für Deutschland wirkungslos ist.
 
 **Lösung:**
-- Usbekische Dokumente benötigen oft eine **Apostille** (Haager Apostille) oder Legalisation.
-- Übersetzungen müssen von einem **anerkannten Übersetzer** stammen oder beglaubigt sein.
-- Lassen Sie Übersetzungen und Apostille vor dem Antrag prüfen.
+- **KEINE Apostille beschaffen:** Deutschland hat gegen Usbekistans Beitritt zum Haager Übereinkommen **Einspruch erhoben** (01.02.2012) — usbekische Apostillen sind für deutsche Behörden wirkungslos (Details: **Artikel 21**).
+- Die Botschaft Taschkent verlangt: **Originale + beglaubigte Übersetzung in die deutsche Sprache** (auch für englischsprachige Unterlagen).
+- Übersetzungen müssen von einem **beeidigten/öffentlich bestellten Übersetzer** stammen (bei HWK: in Deutschland beeidigt).
+- Nur bei Echtheitszweifeln kann die Botschaft eine **Legalisation** verlangen — das entscheidet sie im Einzelfall.
 
 ---
 

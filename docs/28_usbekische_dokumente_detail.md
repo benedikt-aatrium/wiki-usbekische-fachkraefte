@@ -92,6 +92,19 @@ Das **Diplom** ist der **Abschluss** einer Berufsausbildung oder eines Studiums 
 | **Bitirgan yili** | Abschlussjahr | Abschlussjahr |
 | **O'rtacha baho** | Durchschnittsnote | Durchschnittsnote |
 
+### QR-Code auf Hochschuldiplomen (ab ca. 2020) — staatliche Verifikation
+
+Neuere usbekische **Hochschuldiplome (Bachelor/Master)** sind **zweisprachig (Usbekisch/Englisch)** und tragen einen **QR-Code**. Dahinter steckt das staatliche Verifikationsregister der Republik Usbekistan (**diplom.edu.uz** — Portal des Hochschulministeriums; der Zugriff ist auf usbekische IP-Adressen beschränkt, August 2026 live geprüft).
+
+| Was der QR-Code belegt | Was er NICHT ersetzt |
+|------------------------|----------------------|
+| Das Diplom ist im **staatlichen Register** eingetragen und wurde von einer staatlich anerkannten Hochschule ausgestellt | Die **beglaubigte deutsche Übersetzung** (Botschaft Taschkent verlangt sie weiterhin — Artikel 21) |
+| Echtheit und **staatliche Anerkennung im Herkunftsland** — genau das Kriterium der **Berufserfahrungsregelung** (§ 6 BeschV, Artikel 35) | Die deutsche **Gleichwertigkeitsfeststellung** (ZAB/HWK/IHK FOSA) |
+| Praktische Prüfbarkeit durch die Botschaft vor Ort (das Portal ist nur aus Usbekistan erreichbar) | Eine Apostille (für Deutschland ohnehin wirkungslos — Artikel 21) |
+
+!!! tip "Praxis-Hinweis (interne Beobachtung, August 2026)"
+    In AATRIUM-Dokumentensätzen tragen die neuen Unidiplome (z. B. Tashkent State Technical University, Baujahre ab ~2020) den QR-Code auf der englischen Diplomseite. Für die Botschaft Taschkent und die ZAB ist das ein starker Echtheits- und Staatsanerkennungs-Hinweis — die Übersetzungspflicht bleibt formal bestehen, die Prüfung dürfte aber glatter laufen.
+
 ---
 
 ## Ilova (Anlage zum Diplom)
