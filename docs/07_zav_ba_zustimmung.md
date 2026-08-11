@@ -89,6 +89,7 @@ Die ausländische Fachkraft muss dafür nicht persönlich bei der ZAV erscheinen
 ## Welche Formulare werden benötigt?
 
 - **Antrag auf Zustimmung zur Beschäftigung** (ZAV-Vordruck)
+- **„Erklärung zum Beschäftigungsverhältnis"** — offizielles Formular (PDF, live verifiziert August 2026): https://taschkent.diplo.de/resource/blob/2504174/4f3ab2dc3ccbde18f937b9a9a66406ef/erklaerung-zum-beschaeftigungsverhaeltnis-data.pdf
 - **Arbeitsvertrag / Arbeitsplatzbeschreibung**
 - Nachweis der **Arbeitsplatzvermittlung** (Stellenausschreibung) – entfällt oft bei echten Fachkräften mit anerkannten Abschlüssen
 - **Ausbildungsnachweise** oder Anerkennungsbescheid (sofern vorhanden)
