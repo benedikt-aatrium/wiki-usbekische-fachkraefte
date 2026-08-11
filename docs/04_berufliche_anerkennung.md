@@ -200,3 +200,6 @@ Die **Zentralstelle für ausländisches Bildungswesen (ZAB)** bewertet im „ana
 - Die Diplom-Anlage (Ilova) ist oft wichtiger als das Diplom selbst.
 - IHK FOSA bietet drei Antragswege: Standard, beschleunigt (nur Arbeitgeber), Folgeantrag.
 - Digitale Antragstellung über Anerkennung in Deutschland möglich.
+
+!!! tip "Siehe auch — wenn die Anerkennung scheitert oder sich zieht"
+    Für Kandidaten mit **mindestens 2 Jahren Berufserfahrung in den letzten 5 Jahren** gibt es einen alternativen Visumweg **ohne deutsche Gleichwertigkeitsfeststellung**: die **Berufserfahrungsregelung** (§ 19c Abs. 2 AufenthG i. V. m. § 6 BeschV) — siehe **Artikel 35**.

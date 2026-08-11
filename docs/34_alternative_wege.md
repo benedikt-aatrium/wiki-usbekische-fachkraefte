@@ -73,6 +73,7 @@ Die Aufenthaltserlaubnis zur **betrieblichen Berufsausbildung** — der Weg für
 | **Fachkraft mit Hochschulabschluss / Blaue Karte** | § 18b/§ 18g AufenthG | Kandidaten mit anerkanntem Studium (+ Gehaltsschwelle für BK) |
 | **Ausbildung in Deutschland** | § 16a AufenthG | Junge Kandidaten ohne Berufsausbildung; duale Ausbildung z. B. bei Max Bögl |
 | **Chancenkarte** | § 20a AufenthG | Kein Jobangebot vorhanden; Suche auf eigene Kosten vor Ort — **nicht das AATRIUM-Modell** |
+| **Berufserfahrungsregelung** | § 19c Abs. 2 AufenthG + § 6 BeschV | Keine deutsche Anerkennung nötig: 2 Jahre Erfahrung in den letzten 5 Jahren + Gehaltsschwelle — Details in **Artikel 35** |
 
 ---
 
