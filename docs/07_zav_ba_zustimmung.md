@@ -48,12 +48,54 @@ Die BA/ZAV kann die Zustimmung **bereits vor der eigentlichen Zustimmungsanfrage
 !!! tip "AATRIUM-Empfehlung"
     Die Vorabzustimmung sollte **Standard** für alle Bögl-Kandidaten werden: Max Bögl (als Arbeitgeber) beantragt sie bei der ZAV, sobald der Arbeitsvertrag steht — parallel zur laufenden Anerkennung. Wenn der Kandidat dann die Botschafts-Terminkategorie „mit Vorabzustimmung" nutzt, verkürzt sich das Visumverfahren spürbar.
 
-### Antragsweg (live verifiziert, August 2026)
+### Voraussetzung: die Reihenfolge ist zwingend
 
-| Weg | Details |
-|-----|---------|
-| **Online-Portal der BA** | https://web.arbeitsagentur.de/vorabzusto/vorabzusto-ui/pd/antrag — der schnellste Weg, Upload aller Unterlagen direkt im Portal |
-| **Post / E-Mail** | Antrag + Unterlagen an die regional zuständige ZAV-Stelle — Adressen im PDF „Regionale Zuständigkeiten der ZAV“ (BA048053) |
+!!! danger "Erst Vorabzustimmung, dann Visum — nie umgekehrt"
+    Die BA nennt als Bedingung, dass die Person **„noch kein Visum bei der deutschen Auslandsvertretung beantragt“** hat bzw. **„noch keinen Aufenthaltstitel zur Erwerbstätigkeit bei der Ausländerbehörde beantragt“** hat (BA-Seite, live verifiziert 25.08.2026).
+
+    → Sobald der Kandidat in Taschkent einen Visumantrag gestellt hat, ist der Weg über die Vorabzustimmung **verbaut**. Für AATRIUM heißt das: die Vorabzustimmung muss **vor** jeder Terminbuchung/Antragstellung des Kandidaten laufen.
+
+### Gültigkeit
+
+**9 Monate ab dem Tag der Ausstellung.** Innerhalb dieses Zeitraums muss das Visum oder ein anderer Aufenthaltstitel **erteilt** (nicht nur beantragt) sein (BA-Seite, live verifiziert 25.08.2026). Das ist das Planungsfenster für Anerkennung, Botschaftstermin und Einreise.
+
+---
+
+### Antragsweg 1: Online (empfohlen) — das 4-Schritte-Verfahren
+
+Portal: **https://web.arbeitsagentur.de/vorabzusto/vorabzusto-ui/pd/antrag**
+Dafür sind **Zugangsdaten für das BA-Unternehmensportal** nötig; ohne Konto zuerst dort registrieren.
+
+| Schritt | Was passiert |
+|---------|--------------|
+| **1 – Unterlagen zusammenstellen** | Der Antrag selbst wird im Portal ausgefüllt. Zusätzliche Dokumente nur in Sonderfällen (siehe Tabelle unten). Alle Dokumente vollständig ausgefüllt und – wo erforderlich – **persönlich unterschrieben**. |
+| **2 – Antrag online stellen** | Dateien hochladen; mit der Übermittlung ist der Antrag gestellt. |
+| **3 – Unterlagen nachreichen** | Über die **Antragsübersicht** im Profil → Detailansicht → „Informationen nachreichen“: https://web.arbeitsagentur.de/aue/antragsuebersicht/pd/ |
+| **4 – Prüfungsergebnis weiterleiten** | Bei positiver Prüfung Info über das Portal. Die **„Erklärung zum Beschäftigungsverhältnis“ wird im angemeldeten Bereich heruntergeladen** und zusammen mit der Vorabzustimmung an den Kandidaten weitergeleitet — er legt beides bei der Auslandsvertretung bzw. Ausländerbehörde vor. **Die BA informiert die Botschaft/ABH zeitgleich automatisch.** |
+
+!!! warning "Wichtige Korrektur zum Formularverständnis"
+    Im **Online-Verfahren** ist die „Erklärung zum Beschäftigungsverhältnis“ **nicht** das Antragsformular, sondern das **Ergebnisdokument**, das man nach positiver Prüfung im Portal herunterlädt. Der PDF-Vordruck BA047549 wird nur im **schriftlichen Verfahren** (Post/E-Mail) als Antrag ausgefüllt.
+
+#### Zusatzunterlagen — nur in diesen Fällen
+
+| Fall | Zusätzlich hochzuladen |
+|------|------------------------|
+| **Anerkennungspartnerschaft** (§ 16d Abs. 3 AufenthG) | Bestätigung der **ZAB**, dass die ausländische Qualifikation im Erwerbsstaat staatlich anerkannt ist · **(Teil-)Anerkennungsbescheid** (optional) · **Zusatzblatt A** · **Verpflichtungserklärung des Arbeitnehmers** · **Verpflichtungserklärung des Arbeitgebers** |
+| **Kurzzeitige kontingentierte Beschäftigung** | gültiger Tarifvertrag |
+| **Beantragung durch Dritte** (AATRIUM) | **Vollmacht des beauftragenden Unternehmens** — siehe nächster Abschnitt |
+| **Westbalkanregelung** | ausdrücklich **keine** weiteren Unterlagen |
+
+!!! note "Auch hier fehlen amtliche Vordrucke"
+    Die beiden **Verpflichtungserklärungen** zur Anerkennungspartnerschaft werden verlangt, stehen aber — genau wie die Vollmacht — **nicht** im Downloadbereich der BA-Seite (geprüft 25.08.2026). Auch sie muss AATRIUM selbst formulieren.
+
+**Technische Vorgaben:** Dateiformate **JPG, JPEG, PNG, BMP, PDF**; **max. 9 MB pro Datei**.
+
+!!! tip "Skalierungs-Trick für Max Bögl — vom BA-Portal selbst empfohlen"
+    Ein bereits gestellter Online-Antrag lässt sich **als Vorlage** für den nächsten verwenden: Die **arbeitgeberbezogenen Daten werden übernommen**, nur die arbeitnehmerbezogenen Daten sind zu ergänzen. Bei mehreren Kandidaten pro Arbeitgeber spart das jedes Mal die komplette Firmenerfassung.
+
+### Antragsweg 2: Schriftlich (Post oder E-Mail)
+
+Antrag (PDF-Vordruck **BA047549**) und Unterlagen per Post oder E-Mail an die regional zuständige ZAV-Stelle. Adressen im PDF **„Regionale Zuständigkeiten der ZAV im Bereich Arbeitsmarktzulassung“** (BA048053).
 
 ---
 
@@ -165,7 +207,7 @@ Alle Vordrucke stammen von der BA-Seite „Merkblätter und Formulare für Unter
 
 | Dokument | BA-Nr. | Link | Wann nötig |
 |----------|--------|------|------------|
-| **Erklärung zum Beschäftigungsverhältnis** (EzB – 02/2024) — das eigentliche Antragsformular | BA047549 | https://www.arbeitsagentur.de/datei/erklaerung-zum-beschaeftigungsverhaeltnis_ba047549.pdf | **immer** |
+| **Erklärung zum Beschäftigungsverhältnis** (EzB – 02/2024) | BA047549 | https://www.arbeitsagentur.de/datei/erklaerung-zum-beschaeftigungsverhaeltnis_ba047549.pdf | **schriftlicher Weg:** Antragsformular · **Online-Weg:** Ergebnisdokument, wird im Portal heruntergeladen |
 | Zusatzblatt A – Aufenthalt zur Durchführung des Anerkennungsverfahrens | BA047889 | https://www.arbeitsagentur.de/datei/zusatzblatt-a-zum-formular-erklaerung-zum-beschaeftigungsverhaeltnis_ba047889.pdf | bei § 16d AufenthG |
 | Zusatzblatt B – Arbeitnehmerentsendung | — | BA-Downloadseite Unternehmen | bei Entsendung |
 | Zusatzblatt C – Berufskraftfahrer | — | BA-Downloadseite Unternehmen | bei Kraftfahrern |
@@ -173,6 +215,7 @@ Alle Vordrucke stammen von der BA-Seite „Merkblätter und Formulare für Unter
 | **Merkblatt 7 – Beschäftigung ausländischer Arbeitnehmer** | BA033555 | https://www.arbeitsagentur.de/datei/merkblatt-7-auslaendischean_ba033555.pdf | Nachschlagewerk |
 | Regionale Zuständigkeiten der ZAV | BA048053 | https://www.arbeitsagentur.de/datei/regionale-zustaendigkeiten-der-zav-im-bereich-arbeitsmarktzulassung_ba048053.pdf | für Post/E-Mail |
 | **Vollmacht** (wenn AATRIUM beantragt) | — | **kein amtlicher Vordruck** → siehe Textbaustein oben | bei Antrag durch Dritte |
+| **Verpflichtungserklärung Arbeitgeber + Arbeitnehmer** | — | **kein amtlicher Vordruck** (nicht im BA-Downloadbereich) | bei Anerkennungspartnerschaft |
 
 Dazu einzureichen:
 
