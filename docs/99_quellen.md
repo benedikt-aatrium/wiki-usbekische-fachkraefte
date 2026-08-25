@@ -2,7 +2,9 @@
 
 > **Ziel:** Alle im Wiki verwendeten Quellen mit URL und Abrufdatum dokumentieren. Nicht gefundene Quellen sind als „offen“ markiert.
 
-**Stand:** 2026-07-20 (aktualisiert: IHK-FOSA wieder erreichbar, Anerkennungs-Finder neue URL, Mindestlohn 13,90 € ab 01.01.2026 verifiziert)
+**Stand:** 2026-08-25 (ergänzt: BA-Vorabzustimmung, ZAV-Formulare, Vollmachtsmuster § 81a)
+
+_Vorher:_ 2026-07-20 (aktualisiert: IHK-FOSA wieder erreichbar, Anerkennungs-Finder neue URL, Mindestlohn 13,90 € ab 01.01.2026 verifiziert)
 
 ---
 
@@ -20,6 +22,15 @@
 | IHK FOSA (Antragsformular PDF) | https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/IHK_FOSA_Antrag_S.pdf | 2026-07-17 | ✅ Erreichbar | 04, 18, 19 |
 | IHK FOSA (Vollmacht Einzelpersonen) | https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/Vollmacht_allgemein.pdf | 2026-07-17 | ✅ Erreichbar | 04, 18, 19 |
 | IHK FOSA (Vollmacht Arbeitgeber) | https://www.ihk-fosa.de/fileadmin/Dateien/Antragsformular/Vollmacht_Arbeitgeber.pdf | 2026-07-17 | ✅ Erreichbar | 04, 18, 19 |
+| BA – Vorabzustimmung für ausländische Beschäftigte | https://www.arbeitsagentur.de/unternehmen/fachkraefte-ausland/vorabzustimmung-fuer-auslaendische-beschaeftigte | 2026-08-25 | ✅ Erreichbar | 07 |
+| BA – Online-Antrag Vorabzustimmung | https://web.arbeitsagentur.de/vorabzusto/vorabzusto-ui/pd/antrag | 2026-08-25 | ✅ Erreichbar | 07 |
+| BA – Merkblätter und Formulare für Unternehmen | https://www.arbeitsagentur.de/unternehmen/downloads-unternehmen | 2026-08-25 | ✅ Erreichbar | 07 |
+| BA – Erklärung zum Beschäftigungsverhältnis (BA047549, EzB 02/2024) | https://www.arbeitsagentur.de/datei/erklaerung-zum-beschaeftigungsverhaeltnis_ba047549.pdf | 2026-08-25 | ✅ Erreichbar | 07 |
+| BA – Zusatzblatt A (BA047889) | https://www.arbeitsagentur.de/datei/zusatzblatt-a-zum-formular-erklaerung-zum-beschaeftigungsverhaeltnis_ba047889.pdf | 2026-08-25 | ✅ Erreichbar | 07 |
+| BA – Merkblatt 7 Beschäftigung ausländischer Arbeitnehmer (BA033555) | https://www.arbeitsagentur.de/datei/merkblatt-7-auslaendischean_ba033555.pdf | 2026-08-25 | ✅ Erreichbar | 07 |
+| BMI – Muster Vollmacht § 81a Abs. 1 AufenthG (Anlage 3) | https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/migration/feg-anwendungshinweise-anlagen/anlage3.pdf | 2026-08-25 | ⚠️ Direktabruf gestört (400) — inhaltsgleiche Behördenfassungen s. u. | 07 |
+| Bezirksregierung Köln – Vollmacht § 81a Abs. 1 AufenthG (deutsch) | https://www.bezreg-koeln.nrw.de/system/files/media/document/file/ordnung_und_sicherheit_zfe_form_vollmacht.pdf | 2026-08-25 | ✅ Erreichbar | 07 |
+| Regierung von Mittelfranken – Vollmacht § 81a Abs. 1 AufenthG (deutsch/englisch) | https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/rmf_16-010-zz_-_beschleunigtes_fachkr%C3%A4fteverfahren_-_vollmacht_nach_%C2%A7_81a_abs._1_aufenthg_-_deutsch-englisch.pdf | 2026-08-25 | ✅ Erreichbar | 07 |
 | ZAB / anabin (Zeugnisbewertung) | https://zab.kmk.org/de/zeugnisbewertung | 2026-07-10 | ✅ Erreichbar | 04 |
 | ZAB (Startseite) | https://zab.kmk.org/ | 2026-07-10 | ✅ Erreichbar | 04 |
 | Auswärtiges Amt (Visa und Aufenthalt) | https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt | 2026-07-10 | ✅ Erreichbar | 03 |

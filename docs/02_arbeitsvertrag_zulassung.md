@@ -129,7 +129,7 @@ Die BA führt eine Liste von Berufen, in denen ein Fachkräftemangel besteht. F�
 - **Konkrete ZAV-Kontaktdaten:** Regionale ZAV für Bayern und Standort Max Bögl klären.
 - **Dauer des ZAV-Verfahrens:** Je nach Vollständigkeit und Beruf; typisch mehrere Wochen.
 - **Muss ein Kandidat vorab eine Anerkennung haben, damit die ZAV zustimmt?** → Je nach Beruf und Stellenbeschreibung unterschiedlich; telefonisch klären.
-- **Kann AATRIUM als Bevollmächtigter auftreten?** → Ja, mit Vollmacht; Formulare prüfen.
+- ~~**Kann AATRIUM als Bevollmächtigter auftreten?**~~ → **GEKLÄRT (08/2026):** Ja. Die BA lässt Dritte (z. B. Beratungsunternehmen) ausdrücklich zu; erforderlich ist eine **formfreie Vollmacht des Unternehmens** — einen amtlichen BA-Vordruck dafür gibt es **nicht**. Textbaustein und Details in [Artikel 07 → Antragstellung durch Dritte](07_zav_ba_zustimmung.md#antragstellung-durch-dritte-z-b-aatrium-vollmacht). Für § 81a AufenthG existiert dagegen ein amtliches BMI-Muster (Fachkraft → Arbeitgeber).
 
 ---
 

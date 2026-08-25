@@ -48,6 +48,64 @@ Die BA/ZAV kann die Zustimmung **bereits vor der eigentlichen Zustimmungsanfrage
 !!! tip "AATRIUM-Empfehlung"
     Die Vorabzustimmung sollte **Standard** für alle Bögl-Kandidaten werden: Max Bögl (als Arbeitgeber) beantragt sie bei der ZAV, sobald der Arbeitsvertrag steht — parallel zur laufenden Anerkennung. Wenn der Kandidat dann die Botschafts-Terminkategorie „mit Vorabzustimmung" nutzt, verkürzt sich das Visumverfahren spürbar.
 
+### Antragsweg (live verifiziert, August 2026)
+
+| Weg | Details |
+|-----|---------|
+| **Online-Portal der BA** | https://web.arbeitsagentur.de/vorabzusto/vorabzusto-ui/pd/antrag — der schnellste Weg, Upload aller Unterlagen direkt im Portal |
+| **Post / E-Mail** | Antrag + Unterlagen an die regional zuständige ZAV-Stelle — Adressen im PDF „Regionale Zuständigkeiten der ZAV“ (BA048053) |
+
+---
+
+### Antragstellung durch Dritte (z. B. AATRIUM) — Vollmacht
+
+Die BA lässt Dritte ausdrücklich zu. Wortlaut der BA-Seite (live verifiziert, August 2026):
+
+> „Sie können Dritte damit beauftragen, die Vorabzustimmung für Sie zu beantragen, zum Beispiel Rechtsanwaltskanzleien oder Unternehmensberatungen. In diesem Fall müssen Sie das Unternehmen bevollmächtigen.“
+
+Bei der **Online-Antragstellung** ist zusätzlich zum Antrag **„eine Vollmacht des Unternehmens, das Sie beauftragt“** einzureichen.
+
+!!! danger "Es gibt KEINEN BA-Vordruck für diese Vollmacht"
+    Recherche August 2026: Die Bundesagentur für Arbeit stellt **kein eigenes Vollmachtsformular** für die Vorabzustimmung bereit — weder auf der Vorabzustimmungs-Seite noch im Download-Center für Unternehmen.
+
+    Die vorhandenen BA-Vollmachtsvordrucke betreffen **andere Verfahren** und sind hier **nicht** einschlägig:
+
+    - „Muster – Vollmacht (Einzelvertretung)“ (BA056022) → Online-Konto von **Privatpersonen** (SGB II/III). Die BA schreibt dort ausdrücklich: „Beauftragte Unternehmen … können Sie zurzeit online **nicht** vertreten.“
+    - „Vollmacht Beschäftigtenqualifizierung SGB III“ (BA051211) → Weiterbildungsförderung
+
+    → **Die Vollmacht ist formfrei.** Der Arbeitgeber stellt sie selbst auf Firmenbriefpapier aus. Sie muss lediglich Vollmachtgeber, Bevollmächtigten, Umfang und rechtsverbindliche Unterschrift enthalten.
+
+Dass ein Bevollmächtigter handeln darf, ist im Formular bereits angelegt: Im Vordruck „Erklärung zum Beschäftigungsverhältnis“ (Stand **EzB – 02/2024**) lautet die Unterschriftenzeile in **Abschnitt L**: „Unterschrift Arbeitgeber/**Bevollmächtigte/r**“ (live geprüft, August 2026). In **Abschnitt A Nr. 1** wird der Zweck „**zur Erteilung einer Vorabzustimmung der Bundesagentur für Arbeit**“ angekreuzt.
+
+#### Mindestinhalt einer Vollmacht für die ZAV (AATRIUM-Textbaustein)
+
+> **Vollmacht**
+>
+> Hiermit bevollmächtigt die
+> **\<Firma, Rechtsform, Anschrift, Betriebsstätte\>**, vertreten durch \<Name, Funktion\>,
+>
+> die
+> **\<AATRIUM …, Anschrift\>**, vertreten durch \<Name\>,
+>
+> das Unternehmen gegenüber der Bundesagentur für Arbeit – Zentrale Auslands- und Fachvermittlung (ZAV) – in allen Angelegenheiten der **Vorabzustimmung nach § 36 Abs. 3 BeschV** sowie der **Zustimmung zur Beschäftigung nach §§ 39 ff. AufenthG** zu vertreten.
+>
+> Die Vollmacht umfasst insbesondere:
+>
+> - Stellung des Antrags auf Vorabzustimmung (online oder schriftlich)
+> - Unterzeichnung und Einreichung der „Erklärung zum Beschäftigungsverhältnis“ nebst Zusatzblättern
+> - Nachreichen von Unterlagen und Übermittlung personenbezogener Daten
+> - Entgegennahme des gesamten Schriftverkehrs einschließlich der Vorabzustimmung
+> - Rücknahme des Antrags
+>
+> Die Vollmacht gilt bis zum Widerruf.
+>
+> \<Ort, Datum\>   \<rechtsverbindliche Unterschrift + Firmenstempel\>
+
+!!! tip "Praxis-Hinweis"
+    Weil kein amtlicher Vordruck existiert, ist die Vollmacht ein **AATRIUM-eigenes Dokument**. Sie sollte pro Arbeitgeber **einmal generell** ausgestellt werden (nicht pro Kandidat) — das spart bei jedem weiteren Fall eine Unterschriftenrunde. Die ZAV akzeptiert eine **Kopie/Scan** im Online-Portal.
+
+---
+
 ### Alternative: Beschleunigtes Fachkräfteverfahren (§ 81a AufenthG)
 
 Der Arbeitgeber kann zusätzlich das **beschleunigte Fachkräfteverfahren** bei der zuständigen Ausländerbehörde einleiten (Vollmacht des Kandidaten nötig):
@@ -55,6 +113,21 @@ Der Arbeitgeber kann zusätzlich das **beschleunigte Fachkräfteverfahren** bei 
 - **Gebühr: 411 €** (Stand: Botschaft Taschkent, August 2026)
 - Die Ausländerbehörde koordiniert alle Prüfungen (BA-Zustimmung, Anerkennung) und erteilt am Ende die **Vorabzustimmung**
 - Diese muss der Arbeitgeber dem Kandidaten **im Original** zusenden — damit bekommt der Kandidat bei der Botschaft einen sehr kurzfristigen Termin
+
+!!! success "Hier gibt es sehr wohl einen amtlichen Vordruck"
+    Anders als bei der BA-Vorabzustimmung existiert für § 81a AufenthG ein **offizielles Muster des BMI**: „Muster für die Vollmacht nach § 81a Abs. 1 AufenthG“ (Anlage 3 zu den Anwendungshinweisen zum Fachkräfteeinwanderungsgesetz). Es wird von den Ausländerbehörden bundesweit verwendet.
+
+    | Fassung | Link | Stand |
+    |---------|------|-------|
+    | Deutsch (Bezirksregierung Köln / ZfE) | https://www.bezreg-koeln.nrw.de/system/files/media/document/file/ordnung_und_sicherheit_zfe_form_vollmacht.pdf | live verifiziert 08/2026 |
+    | **Deutsch/Englisch** (Regierung von Mittelfranken) — für Kandidaten empfohlen | https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/rmf_16-010-zz_-_beschleunigtes_fachkr%C3%A4fteverfahren_-_vollmacht_nach_%C2%A7_81a_abs._1_aufenthg_-_deutsch-englisch.pdf | live verifiziert 08/2026 |
+    | Quelle des Musters (BMI, Anlage 3) | https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/migration/feg-anwendungshinweise-anlagen/anlage3.pdf | Direktabruf zeitweise gestört — die beiden Behördenfassungen oben sind inhaltsgleich |
+
+    **Richtung der Vollmacht beachten:** Hier bevollmächtigt die **Fachkraft den Arbeitgeber** (nicht umgekehrt). Inhalt laut Muster: Vertretung in allen für das beschleunigte Fachkräfteverfahren erforderlichen Angelegenheiten gegenüber Ausländerbehörde und Anerkennungsstellen, Ein- und Nachreichen von Unterlagen und personenbezogenen Daten, **Zahlung der Gebühren**, Entgegennahme des Schriftverkehrs sowie Antrag auf **Familiennachzug nach § 81a Abs. 4 AufenthG**. Die Vollmacht **endet mit Abschluss des Verfahrens**.
+
+    Bei handwerklichen Berufen enthält das Muster zusätzlich eine Datenschutzerklärung zur Weitergabe der Qualifikationsdaten an die Handwerkskammer.
+
+    ⚠️ Tritt **AATRIUM** (und nicht der Arbeitgeber) im §-81a-Verfahren auf, braucht es eine **Untervollmacht** bzw. eine zweite, direkte Vollmacht der Fachkraft an AATRIUM — das BMI-Muster deckt nur die Kette Fachkraft → Arbeitgeber ab.
 
 ---
 
@@ -88,13 +161,29 @@ Die ausländische Fachkraft muss dafür nicht persönlich bei der ZAV erscheinen
 
 ## Welche Formulare werden benötigt?
 
-- **Antrag auf Zustimmung zur Beschäftigung** (ZAV-Vordruck)
-- **„Erklärung zum Beschäftigungsverhältnis"** — offizielles Formular (PDF, live verifiziert August 2026): https://taschkent.diplo.de/resource/blob/2504174/4f3ab2dc3ccbde18f937b9a9a66406ef/erklaerung-zum-beschaeftigungsverhaeltnis-data.pdf
-- **Arbeitsvertrag / Arbeitsplatzbeschreibung**
-- Nachweis der **Arbeitsplatzvermittlung** (Stellenausschreibung) – entfällt oft bei echten Fachkräften mit anerkannten Abschlüssen
-- **Ausbildungsnachweise** oder Anerkennungsbescheid (sofern vorhanden)
+Alle Vordrucke stammen von der BA-Seite „Merkblätter und Formulare für Unternehmen“ (live verifiziert, August 2026):
 
-> Die aktuellen Formulare sind auf der Website der Bundesagentur für Arbeit verfügbar. Bei Problemen mit dem Download: zav@arbeitsagentur.de oder Tel. +49 228 713 1313.
+| Dokument | BA-Nr. | Link | Wann nötig |
+|----------|--------|------|------------|
+| **Erklärung zum Beschäftigungsverhältnis** (EzB – 02/2024) — das eigentliche Antragsformular | BA047549 | https://www.arbeitsagentur.de/datei/erklaerung-zum-beschaeftigungsverhaeltnis_ba047549.pdf | **immer** |
+| Zusatzblatt A – Aufenthalt zur Durchführung des Anerkennungsverfahrens | BA047889 | https://www.arbeitsagentur.de/datei/zusatzblatt-a-zum-formular-erklaerung-zum-beschaeftigungsverhaeltnis_ba047889.pdf | bei § 16d AufenthG |
+| Zusatzblatt B – Arbeitnehmerentsendung | — | BA-Downloadseite Unternehmen | bei Entsendung |
+| Zusatzblatt C – Berufskraftfahrer | — | BA-Downloadseite Unternehmen | bei Kraftfahrern |
+| Zusatzblatt D – kurzzeitige kontingentierte Beschäftigung | — | BA-Downloadseite Unternehmen | Sonderfall |
+| **Merkblatt 7 – Beschäftigung ausländischer Arbeitnehmer** | BA033555 | https://www.arbeitsagentur.de/datei/merkblatt-7-auslaendischean_ba033555.pdf | Nachschlagewerk |
+| Regionale Zuständigkeiten der ZAV | BA048053 | https://www.arbeitsagentur.de/datei/regionale-zustaendigkeiten-der-zav-im-bereich-arbeitsmarktzulassung_ba048053.pdf | für Post/E-Mail |
+| **Vollmacht** (wenn AATRIUM beantragt) | — | **kein amtlicher Vordruck** → siehe Textbaustein oben | bei Antrag durch Dritte |
+
+Dazu einzureichen:
+
+- **Arbeitsvertrag** / Arbeitsplatzbeschreibung
+- **Ausbildungsnachweise** oder Anerkennungsbescheid (sofern vorhanden)
+- Nachweis der Stellenausschreibung – entfällt oft bei Fachkräften mit anerkanntem Abschluss
+
+!!! note "Übersichtsseiten"
+    - Vorabzustimmung (BA): https://www.arbeitsagentur.de/unternehmen/fachkraefte-ausland/vorabzustimmung-fuer-auslaendische-beschaeftigte
+    - Merkblätter & Formulare Unternehmen: https://www.arbeitsagentur.de/unternehmen/downloads-unternehmen
+    - Rückfragen: zav@arbeitsagentur.de, Tel. +49 228 713 1313
 
 ---
 
