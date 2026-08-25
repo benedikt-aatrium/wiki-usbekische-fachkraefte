@@ -11,7 +11,7 @@ Die ZAV prüft vor allem:
 - Ob die Stelle den Vorschriften entspricht
 
 !!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2024)"
-    Am **15. September 2024** unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev in Samarkand ein **Migrationsabkommen (Mobilitätspartnerschaft)** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland und ermöglicht **beschleunigte ZAV-Verfahren**. Quelle: bundesregierung.de – Pressestatement des Kanzlers in Samarkand, 15.09.2024: https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/kanzler-statement-usbekistan-2308514 (live verifiziert, Juli 2026).
+    Am **15. September 2024** unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev in Samarkand ein **Migrationsabkommen (Mobilitätspartnerschaft)** zwischen Deutschland und Usbekistan. **Korrektur 08/2026:** Eine Volltextprüfung des Abkommens (BGBl. 2025 II Nr. 238, in Kraft seit 05.03.2025) ergibt: Es enthält **keine Kontingente, keine Visaerleichterungen, keine verkürzten Fristen** und **erwähnt die Vorabzustimmung nicht**. Jede materielle Zusage steht unter dem Vorbehalt „nach Maßgabe des anwendbaren innerstaatlichen Rechts“. Der messbare Effekt ist **Volumen** (+72 % Erwerbstätigkeitsvisa 2024 gegenüber 2023, BT-Drs. 21/2374), **nicht** Verfahrensdauer. Details in [Artikel 36, Abschnitt 15](36_vorabzustimmung_komplett.md#15-usbekistan-spezifika). Quelle: bundesregierung.de – Pressestatement des Kanzlers in Samarkand, 15.09.2024: https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/kanzler-statement-usbekistan-2308514 (live verifiziert, Juli 2026).
 
 ---
 
@@ -31,6 +31,9 @@ Die ZAV prüft vor allem:
 
 ## Die Vorabzustimmung (§ 36 Abs. 3 BeschV) — das Beschleunigungsinstrument
 
+!!! abstract "Vertiefung: [Artikel 36 – Vorabzustimmung, das vollständige Handbuch](36_vorabzustimmung_komplett.md)"
+    Rechtsgrundlagen im Wortlaut, Rechtsnatur und Rechtsschutz, Geltungsdauer-Streit, das Online-Verfahren mit Rollen und Konten, ZAV-Zuständigkeiten, Fallgruppen, Zahlen 2026, § 81a im Vergleich, Visumpraxis Taschkent, Zeitplanung.
+
 Die BA/ZAV kann die Zustimmung **bereits vor der eigentlichen Zustimmungsanfrage** erteilen bzw. vorprüfen. Gesetzestext § 36 Abs. 3 BeschV (live verifiziert, August 2026):
 
 > „Die Bundesagentur für Arbeit **soll bereits vor der Übermittlung der Zustimmungsanfrage** der Ausübung der Beschäftigung gegenüber der zuständigen Stelle zustimmen oder prüfen, ob die arbeitsmarktbezogenen Voraussetzungen für eine spätere Zustimmung vorliegen, wenn der Arbeitgeber die hierzu erforderlichen Auskünfte erteilt hat und das Verfahren dadurch beschleunigt wird."
@@ -45,8 +48,16 @@ Die BA/ZAV kann die Zustimmung **bereits vor der eigentlichen Zustimmungsanfrage
 | **Termin-Fast-Track** | Die Botschaft Taschkent hat eine eigene Terminkategorie **„Nationales Visum mit Vorabzustimmung nach § 36 BeschV oder § 81a AufenthG"** — mit Vorabzustimmung gibt es **sehr kurzfristige Termine** |
 | **Fiktionswirkung** | Gilt keine Vorabzustimmung vor, tritt die Zustimmung kraft Gesetzes ein, wenn die BA nicht **innerhalb von 2 Wochen** nach Zustimmungsanfrage reagiert (§ 36 Abs. 2 BeschV; im § 81a-Verfahren: 1 Woche) |
 
-!!! tip "AATRIUM-Empfehlung"
-    Die Vorabzustimmung sollte **Standard** für alle Bögl-Kandidaten werden: Max Bögl (als Arbeitgeber) beantragt sie bei der ZAV, sobald der Arbeitsvertrag steht — parallel zur laufenden Anerkennung. Wenn der Kandidat dann die Botschafts-Terminkategorie „mit Vorabzustimmung" nutzt, verkürzt sich das Visumverfahren spürbar.
+!!! warning "AATRIUM-Empfehlung — 08/2026 korrigiert"
+    Die frühere Empfehlung („Standard für alle Bögl-Kandidaten") war **zu pauschal**. Die BA schreibt in ihrer eigenen Weisung 39.36.5: „Die Inanspruchnahme des Vorabprüfungsverfahrens der BA bewirkt **keine generelle Verfahrensbeschleunigung. Es besteht die Gefahr eines Gültigkeitsablaufs.** … Daher soll im Regelfall das behördeninterne Zustimmungsverfahren (One-Stop-Government) genutzt werden."
+
+    **Richtig ist:**
+
+    - Vorabzustimmung **lohnt**, wenn Unklarheiten bei den Arbeitsbedingungen bestehen (neues Stellenprofil, Tariffrage, Ü45-Fall) oder als **anonyme Anforderung**, um ein Stellenprofil abzusichern, bevor Kandidaten gebunden werden.
+    - Vorabzustimmung **lohnt nicht** als Reflex im sauberen Standardfall — und sie **zu früh** zu beantragen verbrennt die 9-Monats-Frist.
+    - Wer echte Beschleunigung will, nimmt **§ 81a AufenthG**: nur dort gibt es den gesetzlichen Anspruch auf einen Visumtermin binnen drei Wochen (§ 31a AufenthV).
+
+    Begründung und Belege in [Artikel 36, Abschnitt 5](36_vorabzustimmung_komplett.md#5-die-unbequeme-wahrheit-was-die-ba-selbst-uber-ihr-verfahren-sagt).
 
 ### Voraussetzung: die Reihenfolge ist zwingend
 
@@ -232,7 +243,8 @@ Dazu einzureichen:
 
 ## Bearbeitungszeit
 
-- Erfahrungsgemäß **2 bis 8 Wochen**
+- ⚠️ **Unbelegt:** Es existiert **keine amtliche Statistik** zu Bearbeitungszeiten der ZAV. Kursierende Zahlen (2, 4–6 oder 8 Wochen) stammen aus kommerziellen Sekundärquellen oder nicht nachgeführten Landesportalen. Additiv rechnen — siehe [Artikel 36, Abschnitt 18](36_vorabzustimmung_komplett.md#18-zeitplanung-additiv-rechnen-nicht-raten)
+- Frühere Wiki-Angabe (nicht belegt): 2 bis 8 Wochen
 - Kann bei unvollständigen Unterlagen oder komplexen Fällen länger dauern
 - Vollständigkeit beschleunigt das Verfahren erheblich
 
