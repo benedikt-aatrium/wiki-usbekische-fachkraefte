@@ -26,6 +26,7 @@ Der Weg einer usbekischen Fachkraft nach Deutschland verursacht verschiedene Kos
 | Visumgebühr | 75–100 € | Nationalvisum D |
 | Anerkennung IHK FOSA | ca. 100–300 € | Je nach Beruf; Details Artikel 18 |
 | Anerkennung HWK | ca. 100–500 € | Je nach Kammer; Details Artikel 18 |
+| ZAB-Zeugnisbewertung | 208 € | Pro Hochschulabschluss; Gebühr laut ZAB (zab.kmk.org), geprüft 28.09.2026; Hintergrund Artikel 19 |
 | Führerschein-Umschreibung | 500–1.500 € | Inkl. Fahrstunden, Prüfung |
 | Krankenversicherung | 0 € | Über Arbeitgeber ab erstem Arbeitstag |
 | Bankkonto | 0–10 €/Monat | Je nach Bank |

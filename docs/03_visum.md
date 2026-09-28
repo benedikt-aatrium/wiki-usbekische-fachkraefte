@@ -71,8 +71,8 @@ Die folgende Checkliste ist eine **Zusammenstellung aus allgemeinen Quellen**. D
 
 - [ ] Krankenversicherungsnachweis (Reisekrankenversicherung für die ersten Wochen, ggf. Bestätigung Arbeitgeber für gesetzliche KV)
 - [ ] Nachweis über Unterkunft in Deutschland (Wohnungsangebot, Mietvertrag, Bestätigung des Arbeitgebers)
-- [ ] Lückenloser tabellarischer Lebenslauf (deutsch)
-- [ ] Motivationsschreiben (ggf.)
+- [ ] Lückenloser tabellarischer Lebenslauf — die Botschaft Taschkent verlangt ihn **mit beglaubigter Übersetzung ins Deutsche** (Artikel 36)
+- [ ] **Selbst verfasstes, handunterschriebenes Motivationsschreiben** mit deutscher Übersetzung — bei der Botschaft Taschkent Pflicht (Artikel 36)
 - [ ] Zahlungsnachweis der Visumgebühr
 
 ---

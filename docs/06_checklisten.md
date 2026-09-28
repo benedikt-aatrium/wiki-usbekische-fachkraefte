@@ -2,7 +2,7 @@
 
 > **Ziel:** Praktische Checklisten für Arbeitgeber, Kandidat und AATRIUM/Recruiter.
 
-**Stand:** 2026-07-10
+**Stand:** 2026-07-10 · Lebenslauf und Motivationsschreiben am 28.09.2026 an die Dokumentenliste der Botschaft Taschkent angeglichen (Artikel 36)
 
 ---
 
@@ -11,7 +11,8 @@
 ### Vor Vertrag
 
 - [ ] Pass kopieren und Gültigkeit prüfen (mindestens 3 Monate über Aufenthalt hinaus)
-- [ ] Lebenslauf lückenlos und tabellarisch auf Deutsch anfertigen
+- [ ] Lebenslauf lückenlos und tabellarisch anfertigen; für die Botschaft Taschkent **mit beglaubigter Übersetzung ins Deutsche** (Artikel 36)
+- [ ] Motivationsschreiben: vom Kandidaten **selbst verfasst und handschriftlich unterschrieben**, deutsche Übersetzung beilegen (Artikel 36)
 - [ ] Ausbildungsnachweise sammeln: Diplom, Ilova, Transkript, Jahreszeugnisse
 - [ ] Berufserfahrung nachweisen: Arbeitsbuch / Arbeitsbescheinigung / Zeugnisse
 - [ ] Sprachnachweise prüfen (Deutsch B1, ggf. Englisch/Russisch)
@@ -74,7 +75,8 @@
 - [ ] Diplom, Ilova, Transkript, Jahreszeugnisse zusammengestellt
 - [ ] Arbeitsbuch / Arbeitsbescheinigung / Zeugnisse zusammengestellt
 - [ ] Sprachnachweise (Deutsch B1) vorhanden
-- [ ] Lebenslauf lückenlos auf Deutsch
+- [ ] Lebenslauf lückenlos, mit beglaubigter Übersetzung ins Deutsche
+- [ ] Motivationsschreiben selbst verfasst und unterschrieben, mit deutscher Übersetzung
 - [ ] Krankenversicherung für Reise/erste Wochen geklärt
 - [ ] Wohnadresse in Deutschland bekannt
 - [ ] Visum-Termin gebucht
@@ -128,7 +130,8 @@
 - [ ] Diplom + Ilova/Transkript (Original oder beglaubigte Kopie)
 - [ ] Deutsche Übersetzungen (ggf. beglaubigt)
 - [ ] Arbeitszeugnisse/Berufserfahrung
-- [ ] Lückenloser tabellarischer Lebenslauf (deutsch)
+- [ ] Lückenloser tabellarischer Lebenslauf mit beglaubigter Übersetzung ins Deutsche
+- [ ] Selbst verfasstes, handunterschriebenes Motivationsschreiben mit deutscher Übersetzung
 - [ ] Krankenversicherungsnachweis
 - [ ] Unterkunftsnachweis in Deutschland
 - [ ] Visumgebühr bezahlt
