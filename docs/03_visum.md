@@ -1,12 +1,13 @@
 # 03 Visum zur Beschäftigung (Nationalvisum D)
 
+**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md)
+
 > **Ziel:** Ein usbekischer Staatsangehöriger erhält ein deutsches Nationalvisum D, um einer Beschäftigung nachzugehen.
 
-**Stand:** 2026-07-17  
-**Quellen:** Auswärtiges Amt (auswaertiges-amt.de), Deutsche Botschaft Taschkent (taschkent.diplo.de), TLScontact (teilweise über Archive.org), Gesetze im Internet
+**Quellen:** Deutsche Botschaft Taschkent (taschkent.diplo.de, abgerufen 03.10.2026 und 04.10.2026), Auswärtiges Amt Visumhandbuch (Stand 21.08.2026), BA, ZSEF, Bundesgesetzblatt, Make it in Germany, Deutsche Rentenversicherung, Bundesgesundheitsministerium
 
 !!! info "Politische Grundlage: Deutsch-Usbekisches Migrationsabkommen (2024)"
-    Am **15. September 2024** unterzeichneten Bundeskanzler Olaf Scholz und Präsident Shavkat Mirziyoyev in Samarkand ein **Migrationsabkommen (Mobilitätspartnerschaft)** zwischen Deutschland und Usbekistan. Das Abkommen erleichtert die Einwanderung qualifizierter usbekischer Fachkräfte nach Deutschland und ermöglicht **erleichterte Visa-Verfahren**. Quelle: bundesregierung.de – Pressestatement des Kanzlers in Samarkand, 15.09.2024: https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/kanzler-statement-usbekistan-2308514 (live verifiziert, Juli 2026).
+    Am **15. September 2024** unterzeichneten Bundesinnenministerin Nancy Faeser und Außenminister Bakhtiyor Saidov in Samarkand, beim Besuch von Bundeskanzler Olaf Scholz, das **Abkommen über eine umfassende Migrations- und Mobilitätspartnerschaft** zwischen Deutschland und Usbekistan. Es soll die reguläre Erwerbsmigration stärken. Eigene Visa-Erleichterungen nennt die Botschaft nicht. In Kraft seit **05.03.2025** ([BGBl. 2025 II Nr. 238](https://www.recht.bund.de/bgbl/2/2025/238/regelungstext.pdf?__blob=publicationFile&v=3)); die Regeln zur Arbeitsmigration spiegeln laut Botschaft im Wesentlichen das deutsche Fachkräfteeinwanderungsgesetz wider. Quellen: bundesregierung.de – Pressestatement des Kanzlers in Samarkand, 15.09.2024: https://www.bundesregierung.de/breg-de/service/archiv-bundesregierung/kanzler-statement-usbekistan-2308514 (abgerufen 04.10.2026); [Botschaft Taschkent, 11.03.2025](https://taschkent.diplo.de/uz-de/2704774-2704774).
 
 !!! tip "Siehe auch"
     **Artikel 20 (Visum-Antrag bei der Botschaft Taschkent)** beschreibt das konkrete Antragsverfahren bei der Botschaft Schritt für Schritt — dieser Artikel (03) erklärt die allgemeinen rechtlichen Voraussetzungen und Dokumentenkategorien.
@@ -18,7 +19,8 @@
 | Stelle | Rolle | Hinweis |
 |---|---|---|
 | **Deutsche Botschaft Taschkent** | Zuständig für Nationalvisa für Usbekistan | Offizielle Vorgaben und Dokumentenlisten |
-| **TLScontact** | Visum-Dienstleister (Service Provider) | Seit 01.07.2025 neuer Dienstleister für Usbekistan (Quelle: Botschaftsmitteilung) |
+| **TLScontact** | Externer Dienstleister seit 01.07.2025 | Nur Schengen, Studium, Au-pair, Ausbildung, Sprachkurse und Anerkennung (§ 16d). **Nicht für Fachkräfte (§ 18a/§ 18b) und Blaue Karte** – diese stehen auf der Warteliste der Botschaft (Artikel 20) |
+| **ZSEF oder örtliche Ausländerbehörde** | Beschleunigtes Fachkräfteverfahren (§ 81a) | In Bayern wählt der Arbeitgeber; Vorabzustimmung als Grundlage für einen Termin binnen 3 Wochen (Artikel 36) |
 | **Auswärtiges Amt** | Rechtliche Rahmenbedingungen | Allgemeine Visa-Informationen |
 | **Ausländerbehörde am Arbeitsort** | Aufenthaltstitel nach Einreise | Wird nach der Einreise zuständig |
 
@@ -28,26 +30,28 @@
 
 Allgemein für ein D-Nationalvisum zur Beschäftigung gilt:
 
-- **Gültiger Reisepass** (in der Regel mindestens noch 3 Monate gültig über das geplante Aufenthaltsende hinaus)
-- **Unterschriebener Arbeitsvertrag** oder bindende Zusage
-- **Zustimmung zur Beschäftigung** der BA/ZAV (sofern erforderlich)
-- **Krankenversicherung** für die Einreise (Reisekrankenversicherung) bzw. Nachweis, dass nach der Einreise eine gesetzliche/private Krankenversicherung besteht
-- **Nachweis ausreichender Lebensmittel und Unterkunft**
-- **Kein Ausweisungsinteresse** (Sicherheit, Gesundheit, ausreichender Lebensunterhalt)
+- **Gültiger Reisepass** – die Botschaft Taschkent verlangt noch **mindestens 1 Jahr** Gültigkeit
+- **Konkretes Arbeitsplatzangebot** (§ 18 Abs. 2 Nr. 1 AufenthG). Die Botschaft verlangt einen unterschriebenen Arbeitsvertrag oder ein konkretes Angebot mit Position, Gehalt, Arbeitszeit und Befristung
+- **Zustimmung zur Beschäftigung** der BA/ZAV (sofern erforderlich; § 18 Abs. 2 Nr. 2, § 39 AufenthG)
+- **Qualifikation:** anerkannter oder vergleichbarer Abschluss, soweit Voraussetzung (Akademiker: anabin oder ZAB; Berufsausbildung: Gleichwertigkeitsbescheid). Eine Berufsausübungserlaubnis nur in reglementierten Berufen (§ 18 Abs. 2 Nr. 3 und 4)
+- **Ab 45 Jahren** (erste Erteilung nach § 18a/§ 18b): Gehalt mindestens **55.770 €** im Jahr (2026) oder Nachweis angemessener Altersversorgung (§ 18 Abs. 2 Nr. 5)
+- **Krankenversicherung:** Nachweis der gesetzlichen Krankenversicherung ab Arbeitsbeginn plus private Incoming-Versicherung aus der EU für die ersten 90 Tage (mind. 30.000 €, inkl. COVID-19); Details Artikel 22
+- **Gesicherter Lebensunterhalt** (in der Regel durch das Gehalt; § 5 Abs. 1 Nr. 1 AufenthG). Ein Unterkunftsnachweis steht für Fachkräfte **nicht** auf der Liste der Botschaft Taschkent (nur bei § 16d)
+- **Geklärte Identität** und **kein Ausweisungsinteresse** (§ 5 Abs. 1 Nr. 1a und 2 AufenthG), etwa wegen Straftaten oder Gefährdung der öffentlichen Sicherheit (§ 54 AufenthG)
 
-**Quelle:** Auswärtiges Amt; AufenthG §18
+**Quelle:** [Visumhandbuch](https://www.auswaertiges-amt.de/resource/blob/207816/5f5be4158ee61f51115a2a32e2885c67/visumhandbuch-data.pdf) (Stand 21.08.2026, allgemeine Erteilungsvoraussetzungen und Beschäftigung); [BA, Fachliche Weisungen AufenthG/BeschV](https://www.arbeitsagentur.de/datei/dok_ba033210.pdf) (Stand 12/2024); [ZSEF Checkliste Berufserfahrung](https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/checkliste_-_berufserfahrung.pdf) (Stand Februar 2026, Schwelle ab 45); [Botschaft Taschkent, Nationales Visum](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/1604022-1604022) und [Fachkraft](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/2446108-2446108) (abgerufen 04.10.2026)
 
 ---
 
 ## 3.3 Dokumenten-Checkliste für das Visum
 
-Die folgende Checkliste ist eine **Zusammenstellung aus allgemeinen Quellen**. Die konkrete Checkliste der Botschaft Taschkent / TLScontact ist maßgebend und muss vor Antragstellung abgeglichen werden.
+Die vollständige, geprüfte Liste der Botschaft Taschkent steht in **Artikel 20**. Die folgende Übersicht ordnet die Unterlagen nach Kategorien.
 
 ### Basisunterlagen
 
 - [ ] Vollständig ausgefülltes und unterschriebenes Visumantragsformular
 - [ ] Zwei aktuelle biometrische Passfotos (nicht älter als 6 Monate)
-- [ ] Gültiger Reisepass (mit mindestens zwei leeren Seiten, Gültigkeit beachten)
+- [ ] Gültiger Reisepass (noch mindestens 1 Jahr gültig)
 - [ ] Kopie des Passdatenblatts
 - [ ] Kopie aller bereits enthaltenen Visa/Einreisestempel (falls vorhanden)
 
@@ -64,50 +68,43 @@ Die folgende Checkliste ist eine **Zusammenstellung aus allgemeinen Quellen**. D
 - [ ] Diplom-Anlage / Ilova / Fächerübersicht
 - [ ] Transkript / Jahreszeugnisse
 - [ ] Arbeitszeugnisse / Arbeitsbuch / Arbeitsbescheinigung
-- [ ] Deutsche Übersetzungen der wichtigsten Dokumente (ggf. beglaubigt)
-- [ ] Ggf. Anerkennungsbescheid der HWK/IHK FOSA/ZAB
+- [ ] Beglaubigte Übersetzungen ins Deutsche für alle fremdsprachigen Unterlagen (englische „ggf.“)
+- [ ] Akademiker (§ 18b): zwei anabin-Ausdrucke (Abschluss + Hochschule), sonst ZAB-Zeugnisbewertung; Gleichwertigkeitsbescheid (HWK/IHK FOSA) nur bei Berufsausbildung (§ 18a)
 
 ### Weitere Unterlagen
 
-- [ ] Krankenversicherungsnachweis (Reisekrankenversicherung für die ersten Wochen, ggf. Bestätigung Arbeitgeber für gesetzliche KV)
-- [ ] Nachweis über Unterkunft in Deutschland (Wohnungsangebot, Mietvertrag, Bestätigung des Arbeitgebers)
+- [ ] Krankenversicherung: GKV-Nachweis ab Arbeitsbeginn + Incoming-Versicherung aus der EU für die ersten 90 Tage (Artikel 22)
+- [ ] EzB oder Vorabzustimmung im Original
 - [ ] Lückenloser tabellarischer Lebenslauf — die Botschaft Taschkent verlangt ihn **mit beglaubigter Übersetzung ins Deutsche** (Artikel 36)
-- [ ] **Selbst verfasstes, handunterschriebenes Motivationsschreiben** mit deutscher Übersetzung — bei der Botschaft Taschkent Pflicht (Artikel 36)
+- [ ] **Selbst verfasstes, eigenhändig unterschriebenes Motivationsschreiben** mit deutscher Übersetzung — bei der Botschaft Taschkent Pflicht; Handschrift wird nicht verlangt (Artikel 20, 36)
 - [ ] Zahlungsnachweis der Visumgebühr
 
 ---
 
-## 3.4 Apostille und Beglaubigung für das Visum
+## 3.4 Apostille, Legalisation und Übersetzungen
 
-Das Visumverfahren kann strengere Dokumentenanforderungen stellen als die Anerkennung:
+- **Keine Apostille:** Deutschland hat dem Beitritt Usbekistans zum Apostille-Abkommen am 01.02.2012 widersprochen. Eine usbekische Apostille ersetzt in Deutschland nichts ([HCCH, abgerufen 04.10.2026](https://www.hcch.net/en/instruments/conventions/status-table/?cid=41); Artikel 21).
+- **Keine Legalisation:** Die Botschaft legalisiert seit Juni 2002 keine usbekischen Urkunden. Sie prüft nur Personenstandsurkunden, auf Ersuchen deutscher Behörden oder Gerichte (Artikel 20, Abschnitt 6).
+- **Originale:** Zeugnisse und Diplome legt der Kandidat im Original vor.
+- **Übersetzungen:** Die Botschaft verlangt beglaubigte Übersetzungen ins Deutsche. Ob in Usbekistan beglaubigte Übersetzungen genügen, sagt sie nicht – vor dem Auftrag bei der Botschaft erfragen.
 
-- **Original vs. Kopie:** Manche Visa-Stellen verlangen Originaldokumente oder beglaubigte Kopien.
-- **Apostille:** Möglicherweise verlangt für usbekische Dokumente (z. B. Geburtsurkunde, Heiratsurkunde, Führungszeugnis) eine Apostille. Ausbildungsnachweise können ggf. ebenfalls apostilliert werden müssen.
-- **Übersetzungen:** Übersetzungen sollten von einem öffentlich bestellten oder beeidigten Übersetzer stammen. Ob dieser in Deutschland oder Usbekistan ansässig sein muss, ist von der Visa-Stelle abhängig.
-
-**Offener Punkt:** Welche Dokumente genau apostilliert/beglaubigt werden müssen, steht in der aktuellen Checkliste der Botschaft Taschkent / TLScontact. Diese muss vor Antragstellung abgeglichen werden.
+**Quelle:** [Botschaft Taschkent, Nationales Visum](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/1604022-1604022), [Urkundenüberprüfung](https://taschkent.diplo.de/uz-de/service/1443968-1443968) (abgerufen 03.10.2026)
 
 ---
 
 ## 3.5 Visumgebühren und Bearbeitungsdauer
 
-- **Visumgebühr:** Wird in der Regel bei Antragstellung fällig (aktueller Betrag in der Checkliste der Botschaft/TLScontact).
-- **Bearbeitungsdauer:** Nationalvisa können mehrere Wochen bis Monate dauern. Das beschleunigte Fachkräfteverfahren (§ 81a AufenthG) kann die Dauer verkürzen, wenn Arbeitsgeber und Behörden koordiniert agieren.
-
-**Offener Punkt:** Aktuelle Gebühren und Dauer für Usbekistan bei TLScontact/Taschkent müssen separat erfragt werden.
+- **Visumgebühr:** 75 € (Minderjährige 37,50 €), bar in Usbekischen Sum; keine Erstattung bei Ablehnung.
+- **Bearbeitungsdauer:** in der Regel 4 bis 6 Wochen ab vollständigen Unterlagen.
+- **Mit beschleunigtem Fachkräfteverfahren (§ 81a AufenthG):** Termin binnen 3 Wochen nach Vorlage der Vorabzustimmung, Entscheidung „in der Regel“ binnen 3 Wochen ab vollständigem Antrag (§ 31a AufenthV). Eine gesetzliche Gesamtfrist bis zur Vorabzustimmung gibt es nicht; das Bundeswirtschaftsministerium schätzt insgesamt „in der Regel ca. 4 Monate“ (Artikel 36).
+- **Wartezeit auf einen Termin ohne Vorabzustimmung:** keine öffentlichen Zahlen.
+- **Ablehnung:** Remonstration seit 01.07.2025 abgeschafft; neuer Antrag oder Klage beim VG Berlin binnen 1 Monat (Artikel 20, Abschnitt 5).
 
 ---
 
-## 3.6 TLScontact als Dienstleister
+## 3.6 Terminweg: Warteliste der Botschaft
 
-Laut der Botschaftsmitteilung übernimmt TLScontact seit 01.07.2025 die Antragsannahme für Visa.
-
-- **Terminvereinbarung:** Online über das TLScontact-Portal
-- **Dokumente:** Vorab hochladen oder vor Ort einreichen (je nach Verfahren)
-- **Status:** Online nachverfolgbar
-- **Kontakt:** Service-Nummern/E-Mail über TLScontact
-
-**Offener Punkt:** Wegen Zugangsbeschränkungen (403) konnten die aktuellen TLScontact-Seiten für Usbekistan nicht direkt abgerufen werden. Die Informationen sollten über die offizielle Botschaftsmitteilung oder telefonisch verifiziert werden.
+Fachkräfte (§ 18a, § 18b) und Bewerber für die Blaue Karte tragen sich in die **Warteliste der Botschaft** ein; die Botschaft vergibt die Termine per E-Mail. **TLScontact ist für Fachkräfte nicht zuständig.** Fälle mit Vorabzustimmung buchen eine eigene Kategorie und melden die Buchung über das Kontaktformular. Die Botschaft rät ausdrücklich von Termin-Dienstleistern ab. Die Seiten der Botschaft widersprechen sich teilweise (Auslandsportal oder Warteliste) – Details und offene Punkte in **Artikel 20**.
 
 ---
 
@@ -115,25 +112,23 @@ Laut der Botschaftsmitteilung übernimmt TLScontact seit 01.07.2025 die Antragsa
 
 Nach der Einreise mit dem D-Visum muss der Arbeitnehmer:
 
-1. Sich innerhalb von **14 Tagen** beim Einwohnermeldeamt anmelden.
-2. Bei der **Ausländerbehörde** einen Aufenthaltstitel (elektronischer Aufenthaltstitel, eAT) beantragen.
-3. Die Krankenversicherung abschließen.
-4. Die Sozialversicherungsnummer beantragen bzw. durch den Arbeitgeber erhalten.
+1. Sich spätestens **zwei Wochen** nach dem Einzug bei der Meldebehörde (Einwohnermeldeamt) anmelden, mit Ausweis und Wohnungsgeberbestätigung.
+2. **Vor Ablauf des Visums** bei der **Ausländerbehörde** den Aufenthaltstitel beantragen (Aufenthaltserlaubnis oder Blaue Karte als elektronischer Aufenthaltstitel, eAT).
+3. Eine **Krankenkasse wählen** und dem Arbeitgeber mitteilen. Der Arbeitgeber meldet zur Sozialversicherung an. Die gesetzliche Versicherung gilt ab Arbeitsbeginn; der GKV-Nachweis lag schon beim Visum vor (Artikel 22).
+4. Die **Sozialversicherungsnummer** muss man nicht selbst beantragen. Die Deutsche Rentenversicherung vergibt sie nach der Anmeldung durch den Arbeitgeber.
 
-Das D-Visum ist in der Regel für maximal 6 Monate gültig und wird durch den Aufenthaltstitel ersetzt.
+Das D-Visum ist selbst schon ein Aufenthaltstitel, aber befristet. Nationale Visa zur Erwerbstätigkeit werden grundsätzlich für ein Jahr erteilt; die genaue Gültigkeit steht im Visum.
 
-**Quelle:** AufenthG §18, §81a; Auswärtiges Amt
+**Quelle:** [Visumhandbuch](https://www.auswaertiges-amt.de/resource/blob/207816/5f5be4158ee61f51115a2a32e2885c67/visumhandbuch-data.pdf) (Stand 21.08.2026); [Make it in Germany, Wohnen und Anmelden](https://www.make-it-in-germany.com/de/leben-in-deutschland/wohnen-mobilitaet/wohnen-anmelden) (Stand 22.09.2026); [Deutsche Rentenversicherung, Sozialversicherungsausweis](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Sozialversicherungsausweis/sozialversicherungsausweis_node.html) (Stand 17.05.2026)
 
 ---
 
 ## 3.8 Offene Punkte
 
-- Aktuelle Gebühren bei TLScontact für Usbekistan
-- Genaues Dokumentenformular der Botschaft Taschkent
-- Ob Apostille für usbekische Diplome/Zeugnisse im Visumverfahren verlangt wird
-- Durchschnittliche Bearbeitungszeit aktuell
-- Ob eine vorab eingereiste Anerkennung das Verfahren beschleunigt
+- Gilt in Taschkent für § 18b ohne Vorabzustimmung die Warteliste oder das Auslandsportal? (bei der Botschaft erfragen)
+- Genügen beglaubigte Übersetzungen aus Usbekistan? (bei der Botschaft erfragen)
+- Wartezeit auf einen Termin ohne Vorabzustimmung (keine amtlichen Zahlen)
 
 ---
 
-**Wichtig:** Diese Checkliste ist eine **Vorlage**. Vor jeder Antragstellung muss die aktuelle Checkliste der Deutschen Botschaft Taschkent / TLScontact konsultiert werden.
+**Wichtig:** Diese Checkliste ist eine **Vorlage**. Vor jeder Antragstellung muss die aktuelle Checkliste der Deutschen Botschaft Taschkent konsultiert werden (Artikel 20).

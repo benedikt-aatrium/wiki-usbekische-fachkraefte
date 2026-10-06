@@ -1,29 +1,35 @@
 # Usbekische Dokumente im Detail: Arbeitsbuch, Diplom, Ilova
 
+**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md)
+
 ## Ziel dieses Artikels
 
-Dieser Artikel erklärt die **wichtigsten usbekischen Dokumente** für die Anerkennung in Deutschland im Detail: **Arbeitsbuch (Mehnat daftari)**, **Diplom**, **Ilova (Anlage zum Diplom)**, **Svidetelstvo** und **Attestat**.
+Dieser Artikel erklärt die **wichtigsten usbekischen Dokumente** für die Anerkennung in Deutschland im Detail: **Arbeitsbuch (Mehnat daftarchasi)**, **Diplom**, **Ilova (Anlage zum Diplom)**, **Svidetelstvo** und **Attestat**.
 
 !!! tip "Siehe auch"
-    **Artikel 05 (Usbekische Dokumente, Apostille und Übersetzungen)** behandelt das Beschaffen, Apostillieren und Übersetzen — dieser Artikel (28) erklärt die Dokumenttypen im Detail. **Artikel 12** zeigt praktisch, wie man Arbeitsbücher liest. **Artikel 21** erklärt das Apostille-Verfahren.
+    **Artikel 05 (Usbekische Dokumente, Apostille und Übersetzungen)** behandelt das Beschaffen, die Echtheitsfrage und das Übersetzen — dieser Artikel (28) erklärt die Dokumenttypen im Detail. **Artikel 12** zeigt praktisch, wie man Arbeitsbücher liest. **Artikel 21** erklärt, warum Apostille und Legalisation für Deutschland entfallen.
 
 ---
 
-## Arbeitsbuch (Mehnat daftari)
+## Arbeitsbuch (Mehnat daftarchasi)
 
 ### Was ist das Arbeitsbuch?
 
-Das **Arbeitsbuch** (usbekisch: *Mehnat daftari*) ist das **wichtigste Dokument** für die Berufserfahrung in Usbekistan. Es entspricht dem deutschen Arbeitsbuch und enthält alle Beschäftigungsverhältnisse des Arbeitnehmers.
+Das **Arbeitsbuch** (usbekisch: *Mehnat daftarchasi*) ist das **wichtigste Dokument** für die Berufserfahrung in Usbekistan: Ordnungsgemäß beglaubigt ist es nach dem Arbeitsgesetzbuch das „Hauptdokument“ für die Berufserfahrung (Art. 125). Es enthält alle Beschäftigungsverhältnisse des Arbeitnehmers. Es gibt das Arbeitsbuch **auf Papier oder elektronisch**. Die elektronische Fassung entsteht automatisch im **Einheitlichen nationalen Arbeitssystem**; laut gov.uz werden Arbeitsbücher seit 01.01.2020 elektronisch geführt.
+
+**Quelle:** [Arbeitsgesetzbuch, Art. 125](https://lex.uz/ru/docs/6257291) (abgerufen 03.10.2026); [gov.uz, Mehnat daftarchasi](https://gov.uz/oz/advice/673/document/2912) (abgerufen 04.10.2026)
 
 ### Aufbau des Arbeitsbuchs
 
 | Abschnitt | Inhalt | Bedeutung für die Anerkennung |
 |-----------|--------|-------------------------------|
-| **Titelseite** | Name, Geburtsdatum, Foto, Arbeitsbuchnummer | Identifikation |
+| **Titelseite** | Personalien (Name, Geburtsdatum), Arbeitsbuchnummer | Identifikation |
 | **Erste Seite** | Erste Beschäftigung (Eintrag 1) | Erster Job |
 | **Folgeseiten** | Weitere Beschäftigungen (Einträge 2, 3, 4...) | Berufserfahrung chronologisch |
-| **Letzte Seite** | Zusammenfassung der Berufserfahrung | Gesamtübersicht |
-| **Rückseite** | Stempel und Unterschriften | Beglaubigung |
+| **Stempel und Unterschriften** | Beim jeweiligen Eintrag | Beglaubigung |
+| **Elektronische Fassung** | Daten aus dem Einheitlichen nationalen Arbeitssystem; Bescheinigung über my.gov.uz (Dienst 496) | Gesamtübersicht (seit 2020) |
+
+Der Aufbau des Papierbuchs ist nicht an der usbekischen Instruktion zur Führung von Arbeitsbüchern (Nr. 402 vom 29.01.1998) geprüft (nicht geprüft, Stand 04.10.2026).
 
 ### Wichtige Einträge im Arbeitsbuch
 
@@ -53,9 +59,11 @@ Das Arbeitsbuch enthält **Stempel** und **Unterschriften** des Arbeitgebers:
 
 Falls das Arbeitsbuch **fehlt** oder **unvollständig** ist:
 
-1. **Arbeitsbescheinigung** vom Arbeitgeber anfordern
-2. **Kopie** des Arbeitsbuchs beim Arbeitsamt anfordern
-3. **Eidesstattliche Versicherung** des Kandidaten
+1. **Arbeitsbescheinigung** vom (letzten) Arbeitgeber anfordern, auf Papier beglaubigt oder elektronisch mit digitaler Signatur (Art. 125 Arbeitsgesetzbuch)
+2. **Bescheinigung über die Arbeitstätigkeit** auf my.gov.uz (Dienst 496) abrufen: kostenlos, automatisch, ohne Unterlagen. Ob deutsche Stellen sie ohne weitere Schritte akzeptieren, ist nicht geprüft.
+3. **Schriftliche Erklärung** des Kandidaten nur nach Absprache mit der Anerkennungsstelle. Fehlen Nachweise ohne eigenes Verschulden, kann die Stelle die Qualifikation durch „sonstige geeignete Verfahren“ feststellen (§ 14 BQFG).
+
+**Quelle:** [Arbeitsgesetzbuch, Art. 125](https://lex.uz/ru/docs/6257291) (abgerufen 03.10.2026); [my.gov.uz, Dienst 496](https://my.gov.uz/oz/service/496) (abgerufen 04.10.2026); [§ 14 Abs. 1 BQFG](https://www.ihk-fosa.de/fileadmin/Dateien/Gesetze_und_Offizielles/BQFG.pdf) (Fassung 16.08.2023)
 
 ---
 
@@ -67,11 +75,13 @@ Das **Diplom** ist der **Abschluss** einer Berufsausbildung oder eines Studiums 
 
 ### Arten von Diplomen
 
-| Diplomart | Ausbildung | DQR-Entsprechung |
+| Diplomart | Ausbildung | Einordnung in Deutschland |
 |-----------|------------|------------------|
-| **O'rta maxsus kasb-hunar ta'limi** | Mittlere Berufsbildung (College) | DQR 4 |
-| **Bakalavr** | Bachelor | DQR 6 |
-| **Magistr** | Master | DQR 7 |
+| **O'rta maxsus kasb-hunar ta'limi** | Mittlere Berufsbildung (College) | Berufsausbildung: Gleichwertigkeitsprüfung (IHK FOSA/HWK), Weg § 18a |
+| **Bakalavr** | Bachelor | Hochschulabschluss: anabin, ggf. ZAB; Weg § 18b |
+| **Magistr** | Master | Hochschulabschluss: anabin, ggf. ZAB; Weg § 18b |
+
+DQR-Niveaus ordnen deutsche Qualifikationen ein. Eine DQR-Zuordnung begründet keine Anerkennung ([DQR, FAQ](https://www.dqr.de/dqr/de/der-dqr/faq/faq_node.html), abgerufen 04.10.2026).
 
 ### Aufbau des Diploms
 
@@ -92,18 +102,20 @@ Das **Diplom** ist der **Abschluss** einer Berufsausbildung oder eines Studiums 
 | **Bitirgan yili** | Abschlussjahr | Abschlussjahr |
 | **O'rtacha baho** | Durchschnittsnote | Durchschnittsnote |
 
-### QR-Code auf Hochschuldiplomen (ab ca. 2020) — staatliche Verifikation
+### QR-Code auf Hochschuldiplomen — nur Plausibilitätsprüfung
 
-Neuere usbekische **Hochschuldiplome (Bachelor/Master)** sind **zweisprachig (Usbekisch/Englisch)** und tragen einen **QR-Code**. Dahinter steckt das staatliche Verifikationsregister der Republik Usbekistan (**diplom.edu.uz** — Portal des Hochschulministeriums; der Zugriff ist auf usbekische IP-Adressen beschränkt, August 2026 live geprüft).
+Neuere usbekische **Hochschuldiplome (Bachelor/Master)** sind nach interner Beobachtung **zweisprachig (Usbekisch/Englisch)** und tragen einen **QR-Code**. Das Hochschulministerium betreibt das Portal **diplom.edu.uz** („Bitiruvchilarga diplomlarni elektron olish imkoniyati“ – elektronischer Zugang zu Diplomen für Absolventen). Eine Rechtsgrundlage für das Portal, der Umfang der Daten und der Beweiswert von Ausdrucken sind **nicht belegt**. Das Portal taugt darum nur als **Plausibilitätsprüfung**, nicht als amtlicher Nachweis. Ob Abfragen nur aus Usbekistan möglich sind, ist nicht geprüft; die Startseite war am 04.10.2026 abrufbar.
 
 | Was der QR-Code belegt | Was er NICHT ersetzt |
 |------------------------|----------------------|
-| Das Diplom ist im **staatlichen Register** eingetragen und wurde von einer staatlich anerkannten Hochschule ausgestellt | Die **beglaubigte deutsche Übersetzung** (Botschaft Taschkent verlangt sie weiterhin — Artikel 21) |
-| Echtheit und **staatliche Anerkennung im Herkunftsland** — genau das Kriterium der **Berufserfahrungsregelung** (§ 6 BeschV, Artikel 35) | Die deutsche **Gleichwertigkeitsfeststellung** (ZAB/HWK/IHK FOSA) |
-| Praktische Prüfbarkeit durch die Botschaft vor Ort (das Portal ist nur aus Usbekistan erreichbar) | Eine Apostille (für Deutschland ohnehin wirkungslos — Artikel 21) |
+| Einen Hinweis, dass das Diplom im Portal des Hochschulministeriums erfasst ist (Plausibilität von Name, Hochschule, Fach, Jahr) | Die **beglaubigte deutsche Übersetzung** (Botschaft Taschkent verlangt sie weiterhin — Artikel 21) |
+| **Nicht** die **staatliche Anerkennung** für die **Berufserfahrungsregelung** (§ 6 BeschV, Artikel 35): Dafür zählt anabin (Hochschule „H+“) oder die ZAB | Die deutsche **Gleichwertigkeitsfeststellung** bzw. Zeugnisbewertung (ZAB/HWK/IHK FOSA) |
+| Einen schnellen Abgleich durch AATRIUM oder die Partner vor Ort | Eine Apostille (für Deutschland ohnehin wirkungslos) oder eine Legalisation (seit Juni 2002 ausgesetzt) — Artikel 21 |
+
+**Quelle:** [diplom.edu.uz](https://diplom.edu.uz) (abgerufen 04.10.2026); [BA, Fachliche Weisungen, 18.0.6 und 19c.6.3](https://www.arbeitsagentur.de/datei/dok_ba033210.pdf) (Stand 12/2024); [Visumhandbuch](https://www.auswaertiges-amt.de/resource/blob/207816/5f5be4158ee61f51115a2a32e2885c67/visumhandbuch-data.pdf) (Stand 21.08.2026: Bildungsnachweise prüft die Visastelle im § 81a nur auf Plausibilität)
 
 !!! tip "Praxis-Hinweis (interne Beobachtung, August 2026)"
-    In AATRIUM-Dokumentensätzen tragen die neuen Unidiplome (z. B. Tashkent State Technical University, Baujahre ab ~2020) den QR-Code auf der englischen Diplomseite. Für die Botschaft Taschkent und die ZAB ist das ein starker Echtheits- und Staatsanerkennungs-Hinweis — die Übersetzungspflicht bleibt formal bestehen, die Prüfung dürfte aber glatter laufen.
+    In AATRIUM-Dokumentensätzen tragen die neuen Unidiplome (z. B. Tashkent State Technical University, Abschlussjahrgänge ab etwa 2020) den QR-Code auf der englischen Diplomseite. Das ist ein Plausibilitätshinweis. Ob Botschaft Taschkent oder ZAB den QR-Code nutzen, ist nicht belegt. Die Übersetzungspflicht bleibt bestehen.
 
 ---
 
@@ -142,11 +154,11 @@ Das **Svidetelstvo** (russisch: *Свидетельство*) ist ein **sowjetis
 
 ### Arten von Svidetelstvo
 
-| Art | Bedeutung | DQR-Entsprechung |
+| Art | Bedeutung | Einordnung in Deutschland |
 |-----|-----------|------------------|
-| **Svidetelstvo o srednem obrazovanii** | Mittlere Reife | DQR 4 |
-| **Svidetelstvo o professionalnom obrazovanii** | Berufsausbildung | DQR 4–5 |
-| **Diplom o vysshem obrazovanii** | Hochschulabschluss | DQR 6–7 |
+| **Svidetelstvo o srednem obrazovanii** | Schulabschluss | Keine Berufsqualifikation |
+| **Svidetelstvo o professionalnom obrazovanii** | Berufsausbildung | Gleichwertigkeitsprüfung (IHK FOSA/HWK) |
+| **Diplom o vysshem obrazovanii** | Hochschulabschluss | anabin, ggf. ZAB |
 
 ### Besonderheiten des Svidetelstvo
 
@@ -154,10 +166,11 @@ Das **Svidetelstvo** (russisch: *Свидетельство*) ist ein **sowjetis
 |--------------|-----------|
 | **Russische Sprache** | Sowjetische Dokumente sind auf Russisch |
 | **Alte Stempel** | Sowjetische Stempel können unleserlich sein |
-| **Keine Apostille** | Sowjetische Dokumente können nicht apostilliert werden |
+| **Keine Apostille, keine Legalisation** | Für Deutschland nicht nötig bzw. nicht möglich (Artikel 21) |
 
 !!! warning "Wichtig"
-    Für **sowjetische Dokumente** (vor 1991) kann **keine Apostille** ausgestellt werden. Stattdessen muss eine **Beglaubigung** durch die usbekische Botschaft oder das Ministerium für Auswärtige Angelegenheiten erfolgen.
+    Auch **sowjetische Dokumente** (vor 1991) brauchen für Deutschland **keine Apostille und keine Beglaubigung** durch usbekische Stellen: Die Apostille ist hier wirkungslos, die Legalisation seit Juni 2002 ausgesetzt. IHK FOSA und HWK verlangen Farbkopien mit deutscher Übersetzung; die Echtheit bewerten die deutschen Stellen selbst.
+    **Quelle:** [HCCH, Statustabelle](https://www.hcch.net/en/instruments/conventions/status-table/?cid=41); [Botschaft Taschkent, Urkundenüberprüfung](https://taschkent.diplo.de/uz-de/service/1443968-1443968); [IHK FOSA, Notwendige Unterlagen](https://www.ihk-fosa.de/verfahren/notwendige-unterlagen/default-6f497770ddda9d5e80072e1c21749196-1/) (alle abgerufen 04.10.2026)
 
 ---
 
@@ -165,14 +178,14 @@ Das **Svidetelstvo** (russisch: *Свидетельство*) ist ein **sowjetis
 
 ### Was ist das Attestat?
 
-Das **Attestat** (usbekisch: *Attestat*) ist der **Schulabschluss** in Usbekistan. Es entspricht dem deutschen Abitur oder der mittleren Reife.
+Das **Attestat** (usbekisch: *Attestat*) ist der **Schulabschluss** in Usbekistan. Wie es einem deutschen Schulabschluss entspricht, bewertet anabin. Für § 18a und § 18b ist es keine Berufsqualifikation.
 
 ### Arten von Attestat
 
-| Art | Bedeutung | DQR-Entsprechung |
+| Art | Bedeutung | Einordnung in Deutschland |
 |-----|-----------|------------------|
-| **Attestat o srednem obrazovanii** | Mittlere Reife (11 Jahre) | DQR 4 |
-| **Attestat o nachalnom obrazovanii** | Grundschulabschluss (9 Jahre) | DQR 2–3 |
+| **Attestat o srednem obrazovanii** | Abschluss der allgemeinbildenden Schule (11 Jahre) | Schulabschluss, keine Berufsqualifikation |
+| **Attestat o nachalnom obrazovanii** | Abschluss nach 9 Jahren (Bezeichnung nicht geprüft) | Schulabschluss, keine Berufsqualifikation |
 
 ### Wichtige Angaben im Attestat
 
@@ -189,11 +202,13 @@ Das **Attestat** (usbekisch: *Attestat*) ist der **Schulabschluss** in Usbekista
 
 | Dokument | Bedeutung | Für Anerkennung | Für Visum |
 |----------|-----------|-----------------|-----------|
-| **Arbeitsbuch** | Berufserfahrung | ✅ Sehr wichtig | ⚠️ Empfohlen |
-| **Diplom** | Ausbildungsabschluss | ✅ Sehr wichtig | ⚠️ Empfohlen |
-| **Ilova** | Noten und Fächer | ✅ Sehr wichtig | ❌ Nicht nötig |
-| **Svidetelstvo** | Sowjetischer Abschluss | ✅ Wichtig | ⚠️ Empfohlen |
+| **Arbeitsbuch** | Berufserfahrung | ✅ Sehr wichtig | ⚠️ Nur bei Bedarf (nicht in der Botschaftsliste für Fachkräfte) |
+| **Diplom** | Ausbildungsabschluss | ✅ Sehr wichtig | ✅ Pflicht (Original + beglaubigte Übersetzung) |
+| **Ilova** | Noten und Fächer | ✅ Sehr wichtig | ✅ Pflicht für Akademiker („Abschlusszeugnis mit Notenverzeichnis“) |
+| **Svidetelstvo** | Sowjetischer Abschluss | ✅ Wichtig | ✅ Pflicht, wenn es der Berufsabschluss ist |
 | **Attestat** | Schulabschluss | ⚠️ Nützlich | ❌ Nicht nötig |
+
+**Quelle:** [Botschaft Taschkent, Fachkraft](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/2446108-2446108); [Botschaft Taschkent, Nationales Visum](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/1604022-1604022); [IHK FOSA, Notwendige Unterlagen](https://www.ihk-fosa.de/verfahren/notwendige-unterlagen/default-6f497770ddda9d5e80072e1c21749196-1/) (alle abgerufen 04.10.2026)
 
 ---
 
@@ -201,9 +216,9 @@ Das **Attestat** (usbekisch: *Attestat*) ist der **Schulabschluss** in Usbekista
 
 1. **Arbeitsbuch immer prüfen** — Es ist das wichtigste Dokument für die Berufserfahrung
 2. **Ilova anfordern** — Sie ist für die Gleichwertigkeitsprüfung wichtig
-3. **Svidetelstvo beglaubigen lassen** — Keine Apostille möglich, aber Beglaubigung
-4. **Alle Dokumente übersetzen lassen** — Von beeidigten Dolmetschern
-5. **Farbkopien verwenden** — Schwarz-Weiß-Kopien werden nicht akzeptiert
+3. **Svidetelstvo wie jedes andere Zeugnis behandeln** — Keine Apostille und keine Beglaubigung durch usbekische Stellen nötig; Farbkopie + deutsche Übersetzung
+4. **Nötige Dokumente übersetzen lassen** — Von öffentlich bestellten oder beeidigten Übersetzern; vorher bei der Stelle klären, welche (IHK FOSA: englische Dokumente ohne Übersetzung; ZAB: Vorab-Check)
+5. **Farbkopien verwenden** — IHK FOSA und HWK Niederbayern-Oberpfalz verlangen Farbkopien
 
 ---
 
@@ -219,7 +234,7 @@ Das **Attestat** (usbekisch: *Attestat*) ist der **Schulabschluss** in Usbekista
 | **Institution** | „Samarqand avtomobilsozlik kasb-hunar kolleji" (= Samarkand Automaking College) |
 | **Dokumenttyp** | „KASB-HUNAR KOLLEJI DIPLOMI" + „DIPLOMIGA ILOVA" (Diplom-Anhang) |
 | **Fachrichtung** | Kraftfahrzeugtechnik (Land Transport), Schwerpunkt Wartung/Reparatur/Diagnose |
-| **Einordnung** | Berufskolleg-Diplom ≈ **Kfz-Mechatroniker / Elektromechaniker** (berufliche Ausbildung) |
+| **Einordnung** | Berufskolleg-Diplom ≈ **Kfz-Mechatroniker / Elektromechaniker** (berufliche Ausbildung; interne Einschätzung, die Gleichwertigkeit entscheidet die zuständige Stelle) |
 
 ### Beispiel 2: Technikum-/Berufskolleg mit chemisch-technischer Richtung
 
@@ -236,7 +251,7 @@ Das **Attestat** (usbekisch: *Attestat*) ist der **Schulabschluss** in Usbekista
 | **Institution** | „Termiz Muhandislik-Texnologiya Instituti" (= Termez Institute of Engineering and Technology) |
 | **Dokumenttyp** | „BACHELOR'S DIPLOMA" |
 | **Fachrichtung** | „Muhandis-quruvchi / Engineer-builder" (Bauingenieur) |
-| **Einordnung** | **Hochschulabschluss** (Institut) → Bewertung durch **ZAB** nötig, keine Pauschal-Anerkennung (siehe Artikel 19/30) |
+| **Einordnung** | **Hochschulabschluss** (Institut) → anabin prüfen (Abschluss und Hochschule); **ZAB**-Zeugnisbewertung nur, wenn der Abschluss „bedingt vergleichbar“ ist, die Hochschule „H-“ hat oder einer von beiden nicht gelistet ist (siehe Artikel 19/30) |
 
 ### Beispiel 4: Berufskolleg mit Bergbau-Richtung
 
@@ -250,36 +265,44 @@ Das **Attestat** (usbekisch: *Attestat*) ist der **Schulabschluss** in Usbekista
 !!! warning "Vorsicht bei der Interpretation"
     - **Englische „Übersetzungen" auf dem Diplom** sind häufig **ungenau oder handschriftlich ergänzt** — immer das **usbekische/russische Original** maßgeblich lesen.
     - **„Bachelor" auf dem Dokument ≠ deutscher Bachelor.** Ein „Bachelor in Betonbau" von einem **Technikum** ist **kein** Hochschulabschluss, sondern berufspraktisch (vgl. Artikel 30). Erst bei einer **Universität/einem Institut/einer Akademie** handelt es sich um einen Hochschulabschluss.
-    - **Die Institution entscheidet über die Einordnung**, nicht die Abschlussbezeichnung. `kollej`/`kasb-hunar kolleji` = beruflich; `universitet`/`institut`/`akademiya` = Hochschule.
+    - **Die Institution entscheidet über die Einordnung**, nicht die Abschlussbezeichnung. `kollej`/`kasb-hunar kolleji` = beruflich; `universitet`/`institut`/`akademiya` = Hochschule. Maßgeblich ist der anabin-Eintrag der Institution (z. B. „H+“).
     - **Die Ilova (Diplom-Anhang) mit Fächern/Stunden** ist für die Gleichwertigkeitsprüfung aussagekräftiger als das Diplom selbst.
 
 ---
 
-## Einreichformalitäten bei der deutschen Stelle (verifiziert, § 12 BQFG)
+## Einreichformalitäten bei der deutschen Stelle (BQFG und Kammer-Vorgaben)
 
-Für die Einreichung bei der zuständigen deutschen Stelle (HWK oder IHK FOSA) gilt nach **§ 12 BQFG**:
+Für die Einreichung bei der zuständigen deutschen Stelle (HWK oder IHK FOSA) gelten das **BQFG** (§ 5 für nicht reglementierte, § 12 für reglementierte Berufe) und die Vorgaben der Kammer:
 
-- **Kopien reichen** — die Unterlagen sind „in Form von Kopien vorzulegen oder elektronisch zu übermitteln" (§ 12 Abs. 2). **Originalurkunden müssen nicht** eingeschickt werden. (Die HWK Mittelfranken weist ausdrücklich darauf hin: „Bitte schicken Sie uns keine Originalzeugnisse zu!")
-- **Übersetzungen** der relevanten Urkunden „von einem **öffentlich bestellten oder beeidigten** Dolmetscher oder Übersetzer" (§ 12 Abs. 2).
-- **Erwerbsabsicht** ist darzulegen (§ 12 Abs. 6), z. B. durch Antrag auf ein Visum zur Erwerbstätigkeit oder Arbeitgeberkontakt.
+- **Kopien reichen** — die Unterlagen sind „in Form von Kopien vorzulegen oder elektronisch zu übermitteln" (§ 5 Abs. 2, § 12 Abs. 2 BQFG). **Originalurkunden müssen nicht** eingeschickt werden. IHK FOSA und HWK Niederbayern-Oberpfalz verlangen **Farbkopien**. (Die HWK Mittelfranken weist ausdrücklich darauf hin: „Bitte schicken Sie uns keine Originalzeugnisse zu!")
+- **Übersetzungen** der Ausbildungs- und Berufserfahrungsnachweise ins Deutsche, „von einem **öffentlich bestellten oder beeidigten** Dolmetscher oder Übersetzer" (§ 5 Abs. 2 BQFG; für reglementierte Berufe § 12 Abs. 2). Englische Dokumente muss man bei der IHK FOSA nicht übersetzen lassen.
+- **Erwerbsabsicht** ist darzulegen: „im Inland eine Erwerbstätigkeit ausüben zu wollen" (§ 5 Abs. 6, § 12 Abs. 6 BQFG; die IHK FOSA verlangt einen „Nachweis Erwerbsabsicht“), z. B. durch Antrag auf ein Visum zur Erwerbstätigkeit oder Arbeitgeberkontakt.
+
+**Quelle:** [BQFG, Fassung zuletzt geändert 16.08.2023 (BGBl. 2023 I Nr. 217), PDF bei IHK FOSA](https://www.ihk-fosa.de/fileadmin/Dateien/Gesetze_und_Offizielles/BQFG.pdf); [IHK FOSA, Notwendige Unterlagen](https://www.ihk-fosa.de/verfahren/notwendige-unterlagen/default-6f497770ddda9d5e80072e1c21749196-1/); [HWK Niederbayern-Oberpfalz](https://www.hwkno.de/artikel/anerkennung-auslaendischer-berufsabschluesse-76,3630,4273.html); [HWK Mittelfranken](https://www.hwk-mittelfranken.de/artikel/anerkennung-auslaendischer-berufsabschluesse-im-handwerk-75,1844,6463.html) (alle abgerufen 04.10.2026)
 
 !!! note "Welche Dokumente übersetzen lassen? (Präzisierung)"
     Nicht nur das **Diplom** (Haupturkunde), sondern — das wird häufig vergessen — mindestens genauso wichtig:
-    - **Diplom Ilovosi** (Anlage / Fächer- und Stundenübersicht)
+    - **Diplom ilovasi** (Anlage / Fächer- und Stundenübersicht)
     - **Transkript** (falls separat vorhanden)
     - **Jahreszeugnisse** (falls separat vorhanden)
 
 !!! warning "Übersetzer-Regel — ehrlich differenziert"
-    § 12 Abs. 2 BQFG fordert nur einen „öffentlich bestellten oder beeidigten" Übersetzer und sagt **nicht ausdrücklich** „in Deutschland vereidigt". In der **Praxis** verlangen die Kammern jedoch häufig einen **in Deutschland** beeidigten Übersetzer und akzeptieren im Ausland (Usbekistan) angefertigte Übersetzungen nicht. **Empfehlung:** Übersetzungen sicherheitshalber von einem in Deutschland beeidigten Übersetzer anfertigen lassen und vorab bei der konkreten Kammer rückversichern.
+    § 5 Abs. 2 BQFG, IHK FOSA und HWK verlangen einen „öffentlich bestellten oder beeidigten" Übersetzer und sagen **nicht ausdrücklich** „in Deutschland vereidigt". Manche zuständigen Stellen akzeptieren aber **keine** Übersetzungen von einem im Ausland öffentlich bestellten Übersetzer ([anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de/html/de/dokumente-antragstellung.php), abgerufen 04.10.2026). **Empfehlung:** Übersetzungen sicherheitshalber von einem in Deutschland beeidigten Übersetzer anfertigen lassen und vorab bei der konkreten Kammer rückversichern.
 
 ---
 
 ## Quellen
 
-- **§ 12 BQFG** (vorzulegende Unterlagen, Übersetzungen, Erwerbsabsicht): https://www.gesetze-im-internet.de/bqfg/__12.html
-- **Ministerium für Auswärtige Angelegenheiten Usbekistan:** https://mfa.uz
-- **Botschaft der Republik Usbekistan in Deutschland:** https://uzbekistan.de
+- **BQFG** (§ 5 und § 12 vorzulegende Unterlagen, § 14 sonstige Verfahren), Fassung zuletzt geändert 16.08.2023 (BGBl. 2023 I Nr. 217), PDF bei IHK FOSA: https://www.ihk-fosa.de/fileadmin/Dateien/Gesetze_und_Offizielles/BQFG.pdf (abgerufen 04.10.2026)
+- **Arbeitsgesetzbuch Usbekistan, Art. 125:** https://lex.uz/ru/docs/6257291
+- **gov.uz, Mehnat daftarchasi:** https://gov.uz/oz/advice/673/document/2912
+- **my.gov.uz, Dienst 496:** https://my.gov.uz/oz/service/496
+- **diplom.edu.uz:** https://diplom.edu.uz
+- **Botschaft Taschkent, Fachkraft:** https://taschkent.diplo.de/uz-de/service/05-visaeinreise/2446108-2446108
+- **IHK FOSA, Notwendige Unterlagen:** https://www.ihk-fosa.de/verfahren/notwendige-unterlagen/default-6f497770ddda9d5e80072e1c21749196-1/
+- **HWK Niederbayern-Oberpfalz:** https://www.hwkno.de/artikel/anerkennung-auslaendischer-berufsabschluesse-76,3630,4273.html
+- **HWK Mittelfranken:** https://www.hwk-mittelfranken.de/artikel/anerkennung-auslaendischer-berufsabschluesse-im-handwerk-75,1844,6463.html
 - **Anerkennung in Deutschland:** https://www.anerkennung-in-deutschland.de
 
 !!! info "Hinweis"
-    Dieser Artikel wurde auf Grundlage der Informationen des usbekischen Ministeriums für Auswärtige Angelegenheiten, der Botschaft der Republik Usbekistan in Deutschland und des BQFG erstellt. Die Anforderungen können sich ändern. Vor der Beantragung sollten die aktuellen Informationen geprüft werden.
+    Dieser Artikel stützt sich auf usbekisches Recht (lex.uz, my.gov.uz), die Seiten der Deutschen Botschaft Taschkent, die Vorgaben von IHK FOSA und HWK sowie das BQFG (Stand 04.10.2026). Die Anforderungen können sich ändern. Vor der Beantragung sollten die aktuellen Informationen geprüft werden.

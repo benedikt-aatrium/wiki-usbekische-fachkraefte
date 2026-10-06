@@ -1,8 +1,10 @@
 # Vorabzustimmung — das vollständige Handbuch
 
+**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md)
+
 > **Zweck dieses Artikels:** Alles, was AATRIUM über die Vorabzustimmung wissen muss — Rechtsgrundlagen im Wortlaut, Verwaltungsinnenleben der BA, das Online-Verfahren, Zuständigkeiten, Fallgruppen, Kosten, Fristen, die Visumpraxis in Taschkent und die ehrliche Bewertung, wann sich das Verfahren lohnt und wann nicht.
 >
-> **Recherchestand: 25.08.2026.** Alle Angaben sind mit Primärquelle belegt. Wo Quellen sich widersprechen oder nichts hergeben, steht das ausdrücklich dabei — siehe [Offene Punkte](#offene-punkte-und-widerspruche).
+> **Erstellt 25.08.2026, nachgeprüft 04.10.2026.** Belegt wird mit Primärquellen. Wo Quellen sich widersprechen, nichts hergeben oder eine Angabe am 04.10.2026 nicht erneut prüfbar war, steht das ausdrücklich dabei — siehe [Offene Punkte](#offene-punkte-und-widerspruche).
 >
 > Der operative Kurzablauf steht in [Artikel 07 – ZAV/BA-Zustimmung](07_zav_ba_zustimmung.md). Dieser Artikel hier ist die Vertiefung.
 
@@ -16,12 +18,12 @@
 4. **Entscheidend ist die Erteilung des Visums innerhalb der 9 Monate, nicht die Antragstellung.** Läuft die Frist vor der Visumerteilung ab, muss die Zustimmung neu eingeholt werden.
 5. **Die Vorabzustimmung ist kein Verwaltungsakt.** Kein Rechtsmittel gegen die BA — weder für Arbeitgeber noch für Kandidat. BVerwG hat das ausdrücklich auch für die Vorabzustimmung entschieden.
 6. **Die BA selbst rät in ihren Weisungen vom Regeleinsatz ab.** Wörtlich: „bewirkt keine generelle Verfahrensbeschleunigung", „im Regelfall soll das behördeninterne Zustimmungsverfahren genutzt werden". Das steht in direkter Spannung zum Marketing vieler Dienstleister — und war auch die bisherige Empfehlung in Art. 07.
-7. **Der echte Beschleuniger ist § 81a AufenthG**, weil nur dort der gesetzliche Anspruch auf einen Visumtermin binnen 3 Wochen entsteht (§ 31a AufenthV). Die kostenlose BA-Vorabzustimmung löst diesen Anspruch **nicht** aus.
-8. **AATRIUM kann bei der BA als Dritter auftreten** — mit formfreier Vollmacht des Arbeitgebers, eigenem BA-Unternehmensprofil und der Antragsoption „Ich stelle den Antrag im Auftrag eines Betriebes".
-9. **Bei § 81a ist die Vollmachtskette anders:** Fachkraft → Arbeitgeber → (Unter-)Vollmacht an AATRIUM. Eine Direktvollmacht Fachkraft → AATRIUM ist nicht vorgesehen. Seit dem MDWG (29.07.2026) ist die Untervollmacht ausdrücklich im Gesetz verankert.
+7. **Der echte Beschleuniger ist § 81a AufenthG**, weil nur dort gesetzliche Fristen bei der Botschaft gelten: Termin binnen 3 Wochen nach Vorlage der Vorabzustimmung (§ 31a Abs. 1 AufenthV), Entscheidung „in der Regel“ binnen 3 Wochen ab vollständigem Antrag (§ 31a Abs. 2). Die kostenlose BA-Vorabzustimmung löst diese Fristen **nicht** aus. Taschkent führt beide Vorabzustimmungen aber in derselben Terminkategorie und vergibt dort „sehr kurzfristig“ Termine (Botschaft, abgerufen 04.10.2026; siehe [Abschnitt 14](#14-visumpraxis-taschkent)).
+8. **AATRIUM kann bei der BA als Dritter auftreten** — mit Vollmacht des Arbeitgebers (die BA verlangt eine „Vollmacht des Unternehmens“, eine Form schreibt sie nicht vor), eigenem BA-Unternehmensprofil und der Antragsoption „Ich stelle den Antrag im Auftrag eines Betriebes". Ob AATRIUM das gegen Entgelt darf, ist eine offene Frage des Rechtsdienstleistungsgesetzes (siehe [Offene Punkte](#offene-punkte-und-widerspruche)).
+9. **Bei § 81a ist die Vollmachtskette anders:** Fachkraft → Arbeitgeber (Hauptvollmacht mit Recht zur Untervollmacht) → Untervollmacht an eine **benannte natürliche Person** mit Dienstanschrift, z. B. bei AATRIUM, nicht an „AATRIUM“ als Firma (ZSEF-Formular Untervollmacht, Version 04.21). Eine Direktvollmacht Fachkraft → AATRIUM ist nicht vorgesehen. Seit dem MDWG (BGBl. 2026 I Nr. 222, in Kraft 29.07.2026) ist die Untervollmacht ausdrücklich im Gesetz verankert.
 10. **Bayern ist bei der ZAV nicht München.** Max Bögl (Sengenthal → Agenturbezirk Regensburg) fällt an **ZAV-Team 266 in Erfurt**. Pro Einsatzbetrieb einzeln prüfen.
-11. **Taschkent verlangt die Vorabzustimmung im ORIGINAL** — trotz automatischer Übermittlung ins Ausländerzentralregister. Postlaufzeit Deutschland → Usbekistan ist ein eigener Projektschritt.
-12. **Remonstration gibt es seit 01.07.2025 nicht mehr.** Bei Ablehnung bleibt nur Klage vor dem VG Berlin oder Neuantrag. Vollständigkeit bei Erstabgabe ist damit wirtschaftlich entscheidend.
+11. **Taschkent verlangt die Vorabzustimmung im ORIGINAL** — trotz automatischer Übermittlung ins Ausländerzentralregister und obwohl Visumhandbuch und BMI-Anwendungshinweise bei einer im AZR gespeicherten § 81a-Vorabzustimmung eine Kopie genügen lassen. Postlaufzeit Deutschland → Usbekistan ist ein eigener Projektschritt.
+12. **Remonstration gibt es seit 01.07.2025 nicht mehr.** Bei Ablehnung bleibt nur Klage vor dem VG Berlin (binnen eines Monats ab Bekanntgabe; ohne Rechtsbehelfsbelehrung ein Jahr) oder Neuantrag. Vollständigkeit bei Erstabgabe ist damit wirtschaftlich entscheidend.
 
 ---
 
@@ -33,7 +35,7 @@ Die Verwirrung in der Praxis kommt daher, dass drei verschiedene Vorgänge ähnl
 |---|---|---|---|
 | **Vorabprüfungsverfahren** | Die Bezeichnung des **Verfahrens** — so heißt es in Merkblatt 7 und in den Fachlichen Weisungen der BA durchgängig | ZAV / AMZ-Team | § 36 Abs. 3 BeschV |
 | **Vorabzustimmung der BA** | Das **positive Ergebnis** dieses Verfahrens — so heißen es die Publikumsseiten der BA. Arbeitsmarktrechtlich. **9 Monate** gültig, kostenlos | ZAV / AMZ-Team | § 36 Abs. 3 BeschV |
-| **Vorabzustimmung der Ausländerbehörde** | Das Ergebnis des **beschleunigten Fachkräfteverfahrens**. Aufenthaltsrechtlich, umfasst auch Anerkennung und Familiennachzug. **i. d. R. 3 Monate** gültig, **411 €** | Ausländerbehörde | § 81a Abs. 3 Satz 1 Nr. 6 AufenthG |
+| **Vorabzustimmung der Ausländerbehörde** | Das Ergebnis des **beschleunigten Fachkräfteverfahrens**. Aufenthaltsrechtlich, umfasst auch Anerkennung und Familiennachzug. **i. d. R. 3 Monate** gültig (BMI-AH 81a.3.6.1), **411 €** | Ausländerbehörde | § 81a Abs. 3 Satz 1 Nr. 6 AufenthG |
 
 !!! note "Sprachregel für AATRIUM"
     Im Schriftverkehr immer die Norm mitnennen: „Vorabzustimmung nach § 36 Abs. 3 BeschV" oder „Vorabzustimmung nach § 81a AufenthG". Die Botschaft Taschkent tut das selbst so in ihrer Terminkategorie.
@@ -46,7 +48,7 @@ Das Gesetz kennt in § 36 Abs. 3 BeschV übrigens **zwei Handlungsalternativen**
 
 ### § 36 BeschV — Erteilung der Zustimmung
 
-Maßgebliche Fassung der BeschV: zuletzt geändert durch Artikel 22 des Gesetzes vom 22.12.2025 (BGBl. 2025 I Nr. 355).
+Maßgebliche Fassung der BeschV: zuletzt geändert durch Artikel 22 des Gesetzes vom 22.12.2025 (BGBl. 2025 I Nr. 355; Artikel 22 ändert nur § 15a BeschV). Eine konsolidierte Fassung war am 04.10.2026 nicht abrufbar (gesetze-im-internet.de blockiert den Abruf). In den geprüften Gesetzblättern 2026, darunter das MDWG (BGBl. 2026 I Nr. 222), fand sich keine Änderung der §§ 34–36 BeschV.
 
 > **(1)** Die Bundesagentur für Arbeit teilt der zuständigen Stelle die Zustimmung zur Erteilung eines Aufenthaltstitels nach § 39 des Aufenthaltsgesetzes oder einer Grenzgängerkarte, deren Versagung nach § 40 des Aufenthaltsgesetzes, den Widerruf nach § 41 des Aufenthaltsgesetzes und die Rücknahme einer Zustimmung mit.
 >
@@ -80,12 +82,12 @@ Maßgebliche Fassung der BeschV: zuletzt geändert durch Artikel 22 des Gesetzes
 
 Aus den Fachlichen Weisungen: geprüft werden „Höhe und Fälligkeit des Arbeitsentgelts, Arbeitszeiten, Probezeit, Kündigungsfristen, Arbeitsort, Urlaubsansprüche oder Überstundenregelungen".
 
-1. **Tarifliche Bedingungen**, wenn Tarifbindung besteht, der Arbeitsvertrag darauf Bezug nimmt oder ein allgemeinverbindlicher TV gilt
+1. **Tarifliche Bedingungen**, wenn beiderseitige Tarifbindung besteht (Arbeitgeber tarifgebunden und Arbeitnehmer Gewerkschaftsmitglied), der Arbeitsvertrag darauf Bezug nimmt oder ein allgemeinverbindlicher TV gilt (FW 39.0.11)
 2. sonst **Branchenmindestlohn**
 3. sonst **ortsüblicher Lohn** für vergleichbare Tätigkeiten inländischer Arbeitnehmer
 4. Der gesetzliche Mindestlohn ist einzuhalten, „stellt aber nur die **unterste Grenze** der Entlohnung dar"
 
-Verglichen wird **brutto gegen brutto**; ausländisches Sozialversicherungsrecht bleibt unbeachtlich. Bei Verlängerungen prüft die BA anhand der **ersten zwei und der letzten zwei Lohnabrechnungen**, ob der angegebene Lohn tatsächlich gezahlt wurde.
+Verglichen wird **brutto gegen brutto**; ausländisches Sozialversicherungsrecht bleibt unbeachtlich (FW 39.0.11 bis 39.0.13). Bei Verlängerungen oder Arbeitgeberwechsel verlangt die BA die **ersten zwei und die letzten zwei Lohnabrechnungen** (Formular EzB, Fassung 02/2024).
 
 ---
 
@@ -108,11 +110,11 @@ Die BA sieht das genauso (Fachliche Weisungen 39.36.8):
 ### Was das praktisch bedeutet
 
 !!! danger "Gegen eine abgelehnte Vorabzustimmung gibt es kein eigenes Rechtsmittel"
-    Der einzige Weg führt über den **Visum- bzw. Titelantrag** und dessen Ablehnung. Und weil die Remonstration seit **01.07.2025 weltweit abgeschafft** ist, heißt das für Taschkent: **Klage beim Verwaltungsgericht Berlin**. Das macht jede Beschleunigungswirkung zunichte.
+    Der einzige Weg führt über den **Visum- bzw. Titelantrag** und dessen Ablehnung. Und weil die Remonstration seit **01.07.2025 weltweit abgeschafft** ist, heißt das für Taschkent: **Klage beim Verwaltungsgericht Berlin**, binnen eines Monats ab Bekanntgabe (ohne oder mit falscher Rechtsbehelfsbelehrung: ein Jahr; Visumhandbuch, Kapitel Stand 05/2026). Das macht jede Beschleunigungswirkung zunichte.
 
     → Die einzige wirksame Strategie ist **Vollständigkeit und Sauberkeit bei der Erstabgabe**. Ein „zweiter Schuss" ist teuer geworden.
 
-Immerhin: Fehlt eine wirksame Zustimmung, **kann sie im gerichtlichen Verfahren ersetzt werden** (BVerwG 1 C 41.18, Rn. 39). Umgekehrt dürfen Botschaft und Ausländerbehörde sich „weder über eine zu Unrecht erteilte noch über eine zu Unrecht verweigerte Zustimmung hinwegsetzen".
+Immerhin: Fehlt eine wirksame Zustimmung, **kann sie im gerichtlichen Verfahren ersetzt werden** (BVerwG 1 C 41.18, Rn. 35). Umgekehrt dürfen Botschaft und Ausländerbehörde sich „weder über eine zu Unrecht erteilte noch über eine zu Unrecht verweigerte Zustimmung hinwegsetzen" (ebenda, Rn. 35).
 
 ### Drei Ausnahmen: hier erlässt die BA doch einen anfechtbaren Verwaltungsakt
 
@@ -145,7 +147,7 @@ Die Änderungshistorie der Weisungen datiert die Umstellung präzise:
 Die alte 6-Monats-Praxis ist sogar höchstrichterlich dokumentiert (BVerwG 1 C 41.18, Rn. 30 f.).
 
 !!! danger "Falle: offizielle Portale nennen bis heute 6 Monate"
-    Stand 25.08.2026 nennen **BayernPortal** und das **Serviceportal Rheinland-Pfalz** weiterhin „ab dem Ausstellungsdatum 6 Monate gültig" — beide beruhen auf demselben nicht nachgezogenen LeiKa-Text. Für AATRIUM als bayerischer Kontext besonders ärgerlich: Das offizielle Landesportal weist die falsche Frist aus.
+    Das **BayernPortal** (Redaktion BMAS, Stand 03.10.2026, abgerufen 04.10.2026) nennt weiterhin „ab dem Ausstellungsdatum 6 Monate gültig". Das **Serviceportal Rheinland-Pfalz** tat dies bei der Prüfung am 25.08.2026 (am 04.10.2026 nicht erneut geprüft). Beide beruhen auf demselben nicht nachgezogenen LeiKa-Text. Für AATRIUM als bayerischer Kontext besonders ärgerlich: Das offizielle Landesportal weist die falsche Frist aus.
 
     Noch schlimmer die **BDA-FAQ** (Stand 04/2025 und 07/2025, Antworten aus BMI/BMAS-Abstimmung): Sie nennt nicht nur 6 Monate, sondern behauptet zusätzlich, es genüge die **Vorlage** innerhalb der Gültigkeit — genau das Gegenteil der BA-Weisung und der BVerwG-Rechtsprechung. **Dieser Widerspruch zwischen zwei offiziellen Quellen ist ungelöst.** Für die Praxis gilt die strengere Lesart der BA-Weisung, denn die BA entscheidet, ob ihre Selbstbindung noch besteht.
 
@@ -171,7 +173,7 @@ Fachliche Weisung **39.36.5**, wörtlich:
     - Sie lohnt **nicht** als Reflex für jeden Standardfall mit sauberem Tarifvertrag — dort ist das behördeninterne Verfahren schneller und risikoärmer.
     - Wer **echte** Beschleunigung will, geht über **§ 81a AufenthG** — nur dort gibt es einen gesetzlichen Terminanspruch.
 
-Die BA widerspricht sich hier allerdings selbst: Auf ihrer **Westbalkan-Seite** schreibt sie „Mit der Vorabzustimmung wird das Visumverfahren wesentlich beschleunigt, daher soll sie genutzt werden." Für die Westbalkanregelung ist das Vorabverfahren seit 01.06.2024 tatsächlich der vorgesehene Regelweg — für Usbekistan gilt diese Passage aber nicht.
+Die BA widerspricht sich hier allerdings selbst: Auf ihrer **Westbalkan-Seite** schreibt sie „Mit der Vorabzustimmung wird das Visumverfahren wesentlich beschleunigt, daher soll sie genutzt werden." Für die Westbalkanregelung ist das Vorabverfahren seit 01.06.2024 tatsächlich der vorgesehene Regelweg (Visumhandbuch: „Ab 01.06.2024 werden Visa gem. § 26 Abs. 2 BeschV grundsätzlich nur noch nach Vorabzustimmung der BA erteilt.“) — für Usbekistan gilt diese Passage aber nicht.
 
 ---
 
@@ -180,7 +182,9 @@ Die BA widerspricht sich hier allerdings selbst: Auf ihrer **Westbalkan-Seite** 
 ### Portal und Zugang
 
 Antragsportal: **https://web.arbeitsagentur.de/vorabzusto/vorabzusto-ui/pd/antrag**
-Offiziell ist das der eService **„Vorabzustimmung"** aus dem BA-Projekt **„Elektronische Arbeitsmarktzulassung" (eAMZ)**, eingeführt 2024. Seit **Juli 2024** wird die Vorabzustimmung nicht mehr per Post verschickt, sondern im BA-Konto des Arbeitgebers zum Download bereitgestellt.
+Offiziell ist das der eService **„Vorabzustimmung"** aus dem BA-Projekt **„Elektronische Arbeitsmarktzulassung" (eAMZ)**, eingeführt 2024. Seit **Juli 2024** stellt die BA die Vorabzustimmung im BA-Konto des Arbeitgebers zum Download bereit (Faktor A, 26.04.2024); wer schriftlich beantragt, wird „gegebenenfalls schriftlich“ informiert. Zeitgleich informiert die BA die Auslandsvertretung bzw. Ausländerbehörde automatisch. Der Antrag ist auch per Post oder E-Mail an das zuständige ZAV-Team möglich (BA, abgerufen 04.10.2026).
+
+*Die Portaldetails in diesem Abschnitt (Antragsschritte, Upload-Regeln, Statusanzeige) stammen aus der Recherche vom 25.08.2026. Am 04.10.2026 waren sie nicht erneut prüfbar, weil das Portal nur nach Anmeldung und mit JavaScript lädt (nicht geprüft, Stand 04.10.2026).*
 
 ### Kontostruktur — es gibt kein separates „Unternehmenskonto"
 
@@ -188,7 +192,7 @@ Die BA hat **ein persönliches Konto pro Mensch** mit mehreren **Profilen**. Fü
 
 | Schritt | Was zu tun ist |
 |---|---|
-| 1 | Persönliches BA-Konto anlegen (E-Mail + Passwort + zweiter Faktor). Zulässige Zweitfaktoren: BundID, Passkey, TOTP/BA-Secure-App, „Mein Unternehmenskonto" (ELSTER) |
+| 1 | Persönliches BA-Konto anlegen (eigene E-Mail-Adresse). Anmeldung mit BundID, Passkey oder Benutzername/Passwort plus TOTP; „Mein Unternehmenskonto" (ELSTER) ist eine weitere Anmeldeoption |
 | 2 | Beim **Arbeitgeber-Service** (0800 4 555520, gebührenfrei) einen **Freischaltcode** anfordern |
 | 3 | Mit dem Code das **Unternehmensprofil** anlegen — man wird automatisch **Unternehmens-Admin** |
 | 4 | Weitere Personen: der Admin erstellt selbst Freischaltcodes. **Jede Person braucht ein eigenes Konto.** |
@@ -252,7 +256,7 @@ Das wichtigste Element ist die Statusanzeige mit dem Feld **„Aktion erwartet v
 |---|---|
 | **Fachfragen** zur Vorabzustimmung (ZAV / Kompetenz Center Arbeitsmarktzulassung) | **0228 713 2000** |
 | **Konto, Rollen, Freischaltcode** (Arbeitgeber-Service) | **0800 4 555520** |
-| **Technische Portalfehler** | **0800 4 555501** |
+| **Technische Portalfehler** | **0800 4 555501** (nicht geprüft, Stand 04.10.2026) |
 
 ---
 
@@ -268,7 +272,7 @@ Bei überregional aktiven Betrieben zählt der **Sitz der Betriebsstätte**, in 
 
 ### Bayern verteilt sich auf fünf Teams an drei Standorten
 
-Quelle: „Regionale Zuständigkeiten der ZAV im Bereich Arbeitsmarktzulassung", **Stand 27.04.2026**.
+Quelle: „Regionale Zuständigkeiten der ZAV im Bereich Arbeitsmarktzulassung", **Stand 27.04.2026** (am 04.10.2026 unverändert abrufbar).
 
 | Bayerischer Agenturbezirk | Team | Standort | E-Mail |
 |---|---|---|---|
@@ -290,9 +294,9 @@ Zusätzlich: Zwei Teams in **Bonn** sind laut Merkblatt 7 bundesweit für besond
 - Die Entscheidung trifft das zuständige **AMZ-Team**.
 - Für die Prüfung der Arbeitsbedingungen (und ggf. Vorrangprüfung) wird der örtliche **Arbeitgeber-Service** eingeschaltet — Reaktionszeit intern **48 Stunden**.
 - Fachverfahren der BA: **EAMZ**.
-- **Störmeldung:** Fehlen Unterlagen, fordert die BA sie an — und der Fristlauf **stoppt**. „Im Falle einer Störmeldung hört die ein- bzw. zweiwöchige Frist auf zu laufen." Das ist der wichtigste Hebel für reale Verfahrensdauern: Bei unvollständigen Unterlagen läuft keine Uhr.
+- **Störmeldung** (bei regulären Zustimmungsanfragen, FW 39.36.1): Fehlen Unterlagen, fordert die BA sie an — und der Fristlauf **stoppt**. „Im Falle einer Störmeldung hört die ein- bzw. zweiwöchige Frist auf zu laufen." Das ist der wichtigste Hebel für reale Verfahrensdauern: Bei unvollständigen Unterlagen läuft keine Uhr.
 - Fristsetzung gegenüber dem Arbeitgeber: **14 Kalendertage**, danach eine Erinnerung mit **7 Kalendertagen**.
-- Kapazität: **439,5 Planstellen** bundesweit für die gesamte Arbeitsmarktzulassung (BA-Auskunft, März 2024) — bei rund 450.000 Arbeitsmarktzulassungen pro Jahr.
+- Kapazität: **439,5 Planstellen** bundesweit für die gesamte Arbeitsmarktzulassung (BA-Auskunft vom 01.03.2024, veröffentlicht über FragDenStaat).
 
 ---
 
@@ -380,7 +384,7 @@ Tatsächlich noch praktiziert wird sie im Wesentlichen bei **Spezialitätenköch
 | Zustimmungsfiktion | **2 Wochen** (§ 18g Abs. 4, § 81a: **1 Woche**) | § 36 Abs. 2 BeschV |
 | Gebühr beschleunigtes Fachkräfteverfahren | **411,00 €** | § 47 Abs. 1 Nr. 15 AufenthV |
 | Gebühr nationales Visum | **75 €** (minderjährig 37,50 €) | § 46 Abs. 2 Nr. 1 AufenthV |
-| **Gebühr BA-Vorabzustimmung** | **0 €** | keine Gebührennorm existiert |
+| **Gebühr BA-Vorabzustimmung** | **0 €** | BayernPortal (Redaktion BMAS, Stand 03.10.2026): „Für Sie entstehen keine Kosten.“ |
 
 Quelle der Gehaltsschwellen: BMI-Bekanntmachungen vom 02.12.2025, BAnz AT 18.12.2025 B1 (§ 6 BeschV), B2 (Ü45), B3 (Blaue Karte EU).
 
@@ -428,26 +432,26 @@ Zusatzblatt A bestätigt diese beiden Verpflichtungen nur per Ankreuzfeld („bi
 
 | Kriterium | **§ 81a AufenthG** | **BA-Vorabzustimmung § 36 Abs. 3 BeschV** |
 |---|---|---|
-| Zuständig | Ausländerbehörde am Ort der Betriebsstätte (§ 31 Abs. 4 AufenthV) | ZAV der BA |
+| Zuständig | Ausländerbehörde am Ort der Betriebsstätte (§ 31 Abs. 4 AufenthV); in Bayern wahlweise örtliche Ausländerbehörde oder ZSEF | ZAV der BA |
 | Antragsteller | **Der Ausländer**, vertreten durch den Arbeitgeber | **Der Arbeitgeber** aus eigenem Recht |
 | Vollmacht der Fachkraft nötig? | **Ja, zwingend** | **Nein** |
 | Kosten | **411 €**, nicht erstattungsfähig | **0 €** |
 | Reichweite | Anerkennung + Berufsausübungserlaubnis + BA-Zustimmung + aufenthaltsrechtliche Prüfung + Vorabzustimmung + **Familiennachzug** | **nur** die arbeitsmarktrechtliche Zulassung |
-| Anerkennungsfristen | **2 Wochen** Eingangsbestätigung, **2 Monate** Entscheidung (ZAB: 2 Monate statt 4) | Regelfristen (1 Monat / 3–4 Monate) |
+| Anerkennungsfristen | **2 Wochen** Eingangsbestätigung, Entscheidung „soll“ binnen **2 Monaten** ab vollständigen Unterlagen (ZAB: 2 Monate statt regulär 3) | regulär i. d. R. 3–4 Monate |
 | BA-Frist | Zustimmungsfiktion **1 Woche** | **keine gesetzliche Frist** |
-| **Visumtermin** | **garantiert binnen 3 Wochen** (§ 31a Abs. 1 AufenthV) | **keine Terminsgarantie** |
+| **Visumtermin** | **binnen 3 Wochen** nach Vorlage der Vorabzustimmung (§ 31a Abs. 1 AufenthV) | **keine gesetzliche Frist**; Taschkent vergibt in derselben Kategorie „sehr kurzfristig“ Termine (Botschaft, abgerufen 04.10.2026) |
 | Visumentscheidung | i. d. R. **3 Wochen** (§ 31a Abs. 2 AufenthV) | keine Regelfrist |
 | Familiennachzug | **eingeschlossen**, ohne Zusatzgebühr | nicht umfasst |
 | Gültigkeit des Ergebnisses | ABH-Vorabzustimmung: **3 Monate** (im Einzelfall länger) | BA-Vorabzustimmung: **9 Monate** |
 | Rechtsschutz | Verwaltungsinternum — nicht anfechtbar | Verwaltungsinternum — nicht anfechtbar |
-| Gesamtdauer | i. d. R. **ca. 4 Monate** ab vollständigen Anerkennungsunterlagen | nicht bezifferbar |
+| Gesamtdauer | keine gesetzliche Gesamtfrist; BMWK schätzt „in der Regel **ca. 4 Monate**“ (FAQ, Stand August 2024) | nicht bezifferbar |
 
 ### Entscheidungslogik
 
 **§ 81a lohnt sich, wenn:**
 
 - das **Anerkennungsverfahren noch aussteht** — hier liegt der größte Zeitgewinn, und die ABH betreibt es
-- die Auslandsvertretung **lange Terminvorlaufzeiten** hat — die 3-Wochen-Terminsgarantie ist meist der eigentliche Hebel
+- die Auslandsvertretung **lange Terminvorlaufzeiten** hat — die gesetzliche 3-Wochen-Terminfrist ist meist der eigentliche Hebel (in Taschkent bekommen allerdings auch Fälle mit BA-Vorabzustimmung „sehr kurzfristig“ einen Termin)
 - **Familie mitkommen** soll — ohne Zusatzgebühr eingeschlossen
 - ein **reglementierter Beruf** betroffen ist — die ABH holt auch die Berufsausübungserlaubnis ein
 - der Arbeitgeber einen **benannten Behördenansprechpartner** braucht
@@ -469,21 +473,23 @@ Zusatzblatt A bestätigt diese beiden Verpflichtungen nur per Ankreuzfeld („bi
 
 ### Vollmachtskette bei § 81a — und was das MDWG 2026 geändert hat
 
-**Fachkraft → Arbeitgeber → (Unter-)Vollmacht an AATRIUM.** Eine Direktvollmacht Fachkraft → Dienstleister ist nicht vorgesehen.
+**Fachkraft → Arbeitgeber (Hauptvollmacht mit Recht zur Untervollmacht) → Untervollmacht an eine benannte natürliche Person mit Dienstanschrift** (z. B. eine Mitarbeiterin oder ein Mitarbeiter von AATRIUM). Eine Direktvollmacht Fachkraft → Dienstleister ist nicht vorgesehen. Vertragspartner der Behörde bleibt der Arbeitgeber.
 
-BMI-Anwendungshinweise: „Arbeitgeber können Dritte, z. B. Rechtsanwaltskanzleien oder **Relocating-Agenturen**, mit der Durchführung bevollmächtigen. Auch hierbei muss allerdings sichergestellt sein, dass diese Bevollmächtigung **eine Bevollmächtigung des Arbeitgebers durch den Ausländer zur Grundlage hat**." Die Untervollmacht muss **schriftlich** sein, und „der Unterbevollmächtigte muss sich zur Person ausweisen können".
+BMI-Anwendungshinweise: „Arbeitgeber können Dritte, z. B. Rechtsanwaltskanzleien oder **Relocating-Agenturen**, mit der Durchführung bevollmächtigen. Auch hierbei muss allerdings sichergestellt sein, dass diese Bevollmächtigung **eine Bevollmächtigung des Arbeitgebers durch den Ausländer zur Grundlage hat**." Nötig ist eine Unterbevollmächtigung **in Textform**, und „der Unterbevollmächtigte muss sich zur Person ausweisen können" (BMI-AH 81a.2.2.1).
+
+Das ZSEF-Formular „Untervollmacht nach § 81a Abs. 1 Satz 2 AufenthG“ (rmf_16-011-zz, Version 04.21) nennt als Unterbevollmächtigten eine **natürliche Person mit Dienstanschrift**. Hauptvollmacht und Untervollmacht unterschreibt für den Arbeitgeber dieselbe natürliche Person (lückenlose Vollmachtskette), sonst ist ein Nachweis der Vertretungsbefugnis nötig. Die Untervollmacht erlischt mit der Hauptvollmacht, diese mit Abschluss des Verfahrens (ZSEF-Formular Vollmacht, Version 04.25). Ob AATRIUM diese Rolle **gegen Entgelt** übernehmen darf, ist nach dem Rechtsdienstleistungsgesetz offen und gehört zum Anwalt.
 
 Ein Privileg gilt nur für Anwälte: „Wird der Arbeitgeber von einem Rechtsanwalt vertreten, reicht es […] grundsätzlich, dass die Vollmacht **anwaltlich versichert** wird." Für AATRIUM gilt das **nicht**.
 
-**Neuerung durch das MDWG (in Kraft 29.07.2026):** § 81a Abs. 2 Nr. 2 AufenthG wurde neu gefasst.
+**Neuerung durch das MDWG (Gesetz vom 22.07.2026, BGBl. 2026 I Nr. 222, Art. 3 Nr. 8; in Kraft am Tag nach der Verkündung, also am 29.07.2026, Art. 18 Abs. 1):** § 81a Abs. 2 Nr. 2 AufenthG wurde neu gefasst.
 
 | bis 28.07.2026 | ab 29.07.2026 |
 |---|---|
 | „Bevollmächtigung des Arbeitgebers durch den Ausländer," | „**Versicherung des Arbeitgebers, dass er durch den Ausländer bevollmächtigt und gegebenenfalls auch berechtigt ist, Untervollmacht zu erteilen**," |
 
-Damit ist die **Untervollmachtskette erstmals ausdrücklich im Gesetz verankert** — genau die Konstellation Fachkraft → Arbeitgeber → AATRIUM. In der Vereinbarung genügt jetzt eine Versicherung des Arbeitgebers; die Vollmacht muss nicht mehr zwingend Vereinbarungsbestandteil sein.
+Damit ist die **Untervollmachtskette erstmals ausdrücklich im Gesetz verankert** — genau die Konstellation Fachkraft → Arbeitgeber → benannte Person bei AATRIUM. In der Vereinbarung genügt jetzt eine Versicherung des Arbeitgebers; die Vollmacht muss nicht mehr zwingend Vereinbarungsbestandteil sein *(Ableitung aus dem Wortlaut)*.
 
-*Die BMI-Muster (Vereinbarung, Vollmacht, Untervollmacht) sind auf diesen Stand **noch nicht angepasst** — sie verlangen die Vollmacht weiterhin als Anlage. Ob das BMI inzwischen nachgezogen hat, war nicht prüfbar (bmi.bund.de blockiert).*
+*Die BMI-Muster (Vereinbarung, Vollmacht, Untervollmacht) sind auf diesen Stand **noch nicht angepasst** — sie verlangen die Vollmacht weiterhin als Anlage. Auch die ZSEF-Formulare stammen aus der Zeit davor (Vollmacht Version 04.25, Untervollmacht Version 04.21; ZSEF-Seite Stand 29.09.2026). Ob das BMI inzwischen nachgezogen hat, war nicht prüfbar (bmi.bund.de blockiert). Bis dahin mit den aktuellen ZSEF-Formularen arbeiten.*
 
 ### Amtliche Muster für § 81a (aktuelle Fassung)
 
@@ -492,7 +498,8 @@ Damit ist die **Untervollmachtskette erstmals ausdrücklich im Gesetz verankert*
 | Muster-**Vereinbarung** nach § 81a Abs. 2 | https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/b_Arbeitgeber/PDF-Dateien/Anlage_2_Muster-Vereinbarung.docx |
 | Muster-**Vollmacht** nach § 81a Abs. 1 | https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/b_Arbeitgeber/PDF-Dateien/Anlage_3_Muster-Vollmacht.docx |
 | Muster-**Untervollmacht** | https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/b_Arbeitgeber/PDF-Dateien/Anlage_9_Muster-Untervollmacht.docx |
-| Vollmacht **deutsch/englisch** (Reg. Mittelfranken) — für Kandidaten empfohlen | https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/rmf_16-010-zz_-_beschleunigtes_fachkr%C3%A4fteverfahren_-_vollmacht_nach_%C2%A7_81a_abs._1_aufenthg_-_deutsch-englisch.pdf |
+| Vollmacht **deutsch/englisch** (Reg. Mittelfranken/ZSEF, Version 04.25) — für Kandidaten empfohlen | https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/rmf_16-010-zz_-_beschleunigtes_fachkr%C3%A4fteverfahren_-_vollmacht_nach_%C2%A7_81a_abs._1_aufenthg_-_deutsch-englisch.pdf |
+| Untervollmacht **deutsch/englisch** (ZSEF, Version 04.21) — Unterbevollmächtigter ist eine natürliche Person | https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/rmf_16-011-zz_-_beschleunigtes_fachkr%C3%A4fteverfahren_-_untervollmacht_nach_%C2%A7_81a_abs.1_aufenthg_-_deutsch_englisch.pdf |
 | Vollmacht deutsch (Bezirksregierung Köln / ZfE) | https://www.bezreg-koeln.nrw.de/system/files/media/document/file/ordnung_und_sicherheit_zfe_form_vollmacht.pdf |
 
 !!! warning "Nicht die Niedersachsen-PDFs verlinken"
@@ -502,17 +509,17 @@ Damit ist die **Untervollmachtskette erstmals ausdrücklich im Gesetz verankert*
 
 ### Kosten im § 81a-Verfahren
 
-- **411 € einmalig pro Fachkraft**, inklusive Familiennachzug nach § 81a Abs. 4 — unabhängig von der Zahl der Angehörigen.
-- **Gebührenschuldner ist die Fachkraft**; der Arbeitgeber kann per Kostenübernahmeerklärung zahlen. Die BMI-Muster-Vollmacht ermächtigt den Bevollmächtigten ausdrücklich zur Gebührenzahlung.
-- **Fällig mit Unterzeichnung der Vereinbarung.** Die vorgelagerte Beratung ist gebührenfrei.
-- **Keine Rückerstattung** bei Ablehnung (§ 69 Abs. 7 S. 4 AufenthG). Ausnahme nur, wenn der Antrag zurückgenommen wird, **bevor mit der sachlichen Bearbeitung begonnen wurde** (§ 49 Abs. 3 AufenthV).
-- **Nicht enthalten:** Anerkennungs-/ZAB-Gebühren, Berufsausübungserlaubnis, Visumgebühr, Urkunden, Legalisationen/Apostillen, **Übersetzungen**, beglaubigte Kopien, Urkundenüberprüfungsverfahren.
+- **411 € einmalig pro Fachkraft**, inklusive Familiennachzug nach § 81a Abs. 4 — unabhängig von der Zahl der Angehörigen (§ 47 Abs. 1 Nr. 15 AufenthV; BMI-AH 81a.1.0.8 und 81a.4.1).
+- **Gebührenschuldner ist die Fachkraft** (BMI-AH 81a.1.0.8). Laut ZSEF zahlt in der Regel die Fachkraft; der Arbeitgeber darf die Kosten übernehmen (Kostenübernahmeerklärung, BMWK-FAQ). Die BMI-Muster-Vollmacht ermächtigt den Bevollmächtigten ausdrücklich zur Gebührenzahlung.
+- **Fällig mit Abschluss der Vereinbarung** (ZSEF, Stand 29.09.2026). Die Gebühr deckt alle Beratungs-, Koordinierungs- und Prüfungsleistungen der Ausländerbehörde (BMI-AH 81a.1.0.8.1). Die ZSEF bietet Arbeitgebern Erstberatungen an.
+- **Keine Rückerstattung**, auch nicht bei Rücknahme des Antrags oder bei Versagung, etwa wenn die Gleichwertigkeit nicht festgestellt wird oder die BA nicht zustimmt (BMI-AH 81a.1.0.8.2 mit § 69 Abs. 7 Satz 4 AufenthG). Die ZSEF erstattet auch nicht, wenn das Arbeitsplatzangebot nicht angenommen oder das Visum abgelehnt wird (Stand 29.09.2026).
+- **Nicht enthalten:** Anerkennungs-/ZAB-Gebühren, Berufsausübungserlaubnis, Visumgebühr, Urkunden, Legalisationen/Apostillen, **Übersetzungen**, beglaubigte Kopien, Urkundenüberprüfungsverfahren (BMI-AH 81a.1.0.8.1).
 
 ### Familiennachzug nach § 81a Abs. 4
 
 - Nur **Ehegatte und minderjährige ledige Kinder** — kein Elternnachzug.
 - „Zeitlicher Zusammenhang" ist erfüllt, wenn die Einreise der Angehörigen **innerhalb von sechs Monaten** nach der Fachkraft stattfindet.
-- **Spätestens bis zur Erteilung der Vorabzustimmung** anmelden.
+- **Spätestens bis zur Erteilung der Vorabzustimmung** anmelden (BMI-AH 81a.4.2).
 - Eigene Vollmachten der Angehörigen nötig (Muster für Ehepartner und minderjährige Kinder vorhanden).
 - **Keine materiellen Erleichterungen**, nur Verfahrensvereinfachungen.
 - **A1-Erfordernis für den Ehegatten entfällt** nach § 30 Abs. 1 S. 3 Nr. 5 AufenthG, wenn der Stammberechtigte einen Titel nach § 18a, § 18b, § 18c Abs. 3, § 18d oder eine Blaue Karte EU hat. Bei **§ 16a (Ausbildung) und § 16d greift die Befreiung nicht.**
@@ -530,27 +537,29 @@ Die Botschaft schreibt auf ihrer Fachkraft-Seite wörtlich:
 !!! danger "Terminbuchung allein genügt nicht"
     Erst die **aktive Meldung per Kontaktformular** löst die kurzfristige Terminvergabe aus. Wer das versäumt, bleibt in der normalen Warteliste hängen.
 
-    Zusatzproblem: Die Botschaft nennt auf drei eigenen Seiten **drei verschiedene Kategorienamen** für denselben Vorgang („Nationales Visum mit Vorabzustimmung…", „Erwerbstätigkeit als Fachkraft", „Beschäftigung als Fachkraft mit akademischer Ausbildung oder qualifizierter Berufsausbildung"). Ob die erstgenannte Kategorie im Terminsystem tatsächlich existiert, ließ sich **nicht verifizieren** — das Buchungssystem war nicht erreichbar. Auf den Kategorienamen nicht verlassen; der verbindliche Schritt ist derselbe.
+    Zusatzproblem: Die Botschaft nennt die Kategorie nicht einheitlich. Die Fachkraft-Seite sagt „Nationales Visum mit Vorabzustimmung nach §36 BeschV oder §81a AufenthG", die Seite „Nationales Visum“ sagt „Erwerbstätigkeit als Fachkraft", die russische Fassung «Трудовая деятельность» (abgerufen 03./04.10.2026). Die Terminseite listet für die Warteliste nur die allgemeine Kategorie „Beschäftigung als Fachkraft mit akademischer Ausbildung oder qualifizierter Berufsausbildung". Welche Kategorie das Terminsystem (RK-Termin) tatsächlich anbietet, ließ sich **nicht verifizieren** — das System war nicht erreichbar. Maßgeblich ist die Liste im Terminsystem; der verbindliche Schritt (buchen und per Kontaktformular melden) ist derselbe.
 
 ### Drei Terminsysteme parallel
 
-- **TLScontact** (externer Dienstleister, seit 01.07.2025, Delta Tower Taschkent): nimmt **nur** Schengen-Visa, Studium, Au-Pair, **Berufsausbildung**, Sprachkurse und § 16d an. Servicegebühr 31 EUR / 450.000 UZS. → **Das klassische Fachkräftevisum läuft NICHT über TLS.**
-- **Warteliste im Botschaftssystem**: Selbstbuchung eines konkreten Termins ist nicht mehr möglich; man trägt sich in eine Warteliste ein, die Botschaft vergibt individuell. Direkt bei der Botschaft laufen: Familiennachzug, **Fachkraft**, Blaue Karte EU, § 15d, Chancenkarte.
-- **Auslandsportal digital.diplo.de**: seit 01.01.2025 an alle Visastellen angebunden; Ablauf Online-Antrag → digitale Vorprüfung → dann erst Terminbuchung.
+- **TLScontact** (externer Dienstleister, seit 01.07.2025, Delta Tower Taschkent): nimmt **nur** Schengen-Visa, Studium, Au-Pair, **Berufsausbildung**, Sprachkurse und § 16d an. Servicegebühr 29,54 EUR, zahlbar in UZS (Botschaft, Seite § 16d, abgerufen 04.10.2026). → **Das klassische Fachkräftevisum läuft NICHT über TLS.**
+- **Warteliste im Botschaftssystem**: Selbstbuchung eines konkreten Termins ist nicht mehr möglich; man trägt sich in eine Warteliste ein, die Botschaft vergibt individuell. Direkt bei der Botschaft laufen: Familiennachzug, **Fachkraft**, Blaue Karte EU, § 15d, Chancenkarte. Die Termine teilt die Botschaft per E-Mail mit. Sie rät ausdrücklich davon ab, für die Terminbuchung einen Dienstleister zu nutzen (Terminvereinbarung, abgerufen 04.10.2026).
+- **Auslandsportal digital.diplo.de**: seit 01.01.2025 an alle Visastellen angebunden; Ablauf Online-Antrag → digitale Vorprüfung → dann erst Terminbuchung (AA, 15.06.2026).
+
+**Widerspruch, offen:** Die Fachkraft-Seite der Botschaft verweist unter „Terminbuchung“ inzwischen nur noch auf das Auslandsportal („Zur Antragstellung klicken Sie bitte auf folgenden Link: www.digital.diplo.de“). Die Terminseite nennt für Fachkräfte weiterhin die Warteliste. Einen Umstellungstermin wie in Duschanbe (dort seit 20.09.2026 Fachkräfte nur noch online, § 81a-Fälle weiter über die Warteliste; abgerufen 03.10.2026) hat Taschkent nicht veröffentlicht. Vor jeder Registrierung bei der Botschaft klären.
 
 *Belastbare Terminwartezeiten für Taschkent waren nicht auffindbar — weder amtlich noch aus Erfahrungsberichten.*
 
 ### Die Original-Pflicht
 
-Drei unabhängige amtliche Belege verlangen die Vorabzustimmung **IM ORIGINAL** (Großschreibung im Original der Botschaftsseite):
+Die Botschaft Taschkent verlangt die Vorabzustimmung **IM ORIGINAL** (Großschreibung wie auf der Botschaftsseite; abgerufen 04.10.2026):
 
 - Botschaft Taschkent, Fachkraft-Seite: „Ausgefüllte ‚Erklärung zum Beschäftigungsverhältnis' **oder ggf. Vorabzustimmung der Bundesagentur für Arbeit IM ORIGINAL**"
 - Botschaft Taschkent, Ausbildungsvisum-Seite: identische Formulierung
 - Botschaft Taschkent zu § 81a: „Diese Vorabzustimmung **muss Ihr Arbeitgeber Ihnen im Original zusenden**."
-- Make-it-in-Germany / BMWK: „Arbeitgeber leitet die Vorabzustimmung **im Original** an die ausländische Fachkraft weiter."
+- **Gegenposition der Bundesbehörden:** Nach Visumhandbuch (Stand 21.08.2026, Beitrag „Beschleunigtes Fachkräfteverfahren“) und BMI-Anwendungshinweisen (81a.3.6.2) genügt bei einer § 81a-Vorabzustimmung, die die Ausländerbehörde im AZR gespeichert hat, eine **Kopie**: „Die Vorlage des Originals der Vorabzustimmung durch die Fachkraft bei der AV ist nicht mehr erforderlich.“ Die der Vorabzustimmung beigefügten **Urkunden** (z. B. Abschluss, Sprachnachweis) sind aber **zwingend im Original** vorzulegen. Zur BA-Vorabzustimmung schreibt die BA: „Die langen Postwege in den Drittstaat sind Geschichte.“ (Faktor A, 26.04.2024)
 
 !!! danger "Das ist der praktisch wichtigste Punkt"
-    **Trotz automatischer Übermittlung ins AZR verlangt Taschkent das Papier-Original.** Der Postweg Deutschland → Usbekistan ist ein eigener Projektschritt mit Trackingpflicht und gehört in jede Zeitplanung.
+    **Trotz automatischer Übermittlung ins AZR und trotz der weicheren Bundesvorgaben verlangt Taschkent das Papier-Original.** Am Schalter gilt die Praxis der Botschaft: mit dem Original planen. Der Postweg Deutschland → Usbekistan ist ein eigener Projektschritt mit Trackingpflicht und gehört in jede Zeitplanung.
 
     Dass das kein Einzelfall ist, zeigt eine IFG-Anfrage von 2023: Aus **Istanbul** wurde berichtet, Antragsteller seien im Termin **weggeschickt** worden, weil sie keine Vorabzustimmung vorweisen konnten — obwohl die BA-Weisung ausdrücklich sagt, die Antragstellung sei „in keinem Fall an die Vorlage einer Vorabzustimmung gebunden". Das Auswärtige Amt hat dazu keine Auskunft erteilt.
 
@@ -561,9 +570,9 @@ Drei unabhängige amtliche Belege verlangen die Vorabzustimmung **IM ORIGINAL** 
 - **§ 2 Abs. 2c AZRG:** Speicherung, wenn „die Bundesagentur für Arbeit bereits vor der Beantragung eines Aufenthaltstitels eine Entscheidung über die Ausübung einer Beschäftigung getroffen hat"
 - **§ 2 Abs. 2b AZRG:** dasselbe für die ABH-Vorabzustimmung nach § 81a
 - **§ 6 Abs. 5 Nr. 8/9 AZRG:** bei diesen Anlässen sind „auch die der Speicherung zugrundeliegenden **Dokumente** durch die übermittelnde Stelle zu übermitteln"
-- **§ 31a Abs. 1 AufenthV:** der Terminanspruch entsteht „nach **Vorlage** … **oder Übermittlung** … durch das Ausländerzentralregister" — beide Wege sind gleichwertig
+- **§ 31a Abs. 1 AufenthV** (nur § 81a-Vorabzustimmung): Termin binnen drei Wochen. Nach den BMI-Anwendungshinweisen (81a.2.6.2.4) gilt das „bei **Vorlage** der Vorabzustimmung durch die Fachkraft **oder Übermittlung** der Vorabzustimmung über das Ausländerzentralregister und nach dem Eingang der Terminanfrage“ — beide Wege sind gleichwertig
 
-Rechtsgrundlage seit **15.07.2021** (Gesetz zur Weiterentwicklung des AZR), operative Umsetzung im eService **2024**.
+Ausländerbehörden können § 81a-Vorabzustimmungen seit **01.05.2021** im AZR speichern (BMI-AH 81a.3.6.2; Visumhandbuch). Die BA übermittelt die Daten aus dem eService „Vorabzustimmung“ seit **2024** automatisch an das AZR (Faktor A, 26.04.2024).
 
 Bemerkenswert: Die BA-Weisungen selbst kennen an dieser Stelle nur den Papierweg — „Die Entscheidung über eine Vorabprüfung wird **in der Regel an den (inländischen) Arbeitgeber übersandt**, der sie seinem potentiellen, künftigen Arbeitnehmer übermittelt" (FW 39.36.6). Die automatische Information wird dort gar nicht erwähnt.
 
@@ -571,21 +580,21 @@ Bemerkenswert: Die BA-Weisungen selbst kennen an dieser Stelle nur den Papierweg
 
 **Formale Vorgaben:** DIN A4, in der vorgegebenen Reihenfolge sortiert, **nicht heften**; eine Kopie der Originalunterlagen; fremdsprachige Unterlagen mit **beglaubigter Übersetzung ins Deutsche**; **Zeugnisse und Diplome im Original**.
 
-**Basis:** Videx-Antragsformular (in deutscher Sprache, einfach ausgedruckt) · Belehrung nach § 54 Abs. 2 Nr. 8 · 2 biometrische Passfotos · Reisepass mind. 1 Jahr gültig + Kopie · Krankenversicherungsnachweis ab Einreise (bei geplanter GKV zusätzlich eine **innerhalb der EU abgeschlossene** Incoming-Versicherung für die ersten 90 Tage, mind. 30.000 EUR).
+**Basis:** VIDEX-Antragsformular, vollständig auf Deutsch ausgefüllt und unterschrieben · eigenhändig unterschriebene Belehrung nach § 54 Abs. 2 Nr. 8 AufenthG · 2 biometrische Passfotos (nicht älter als 6 Monate) · Reisepass mind. 1 Jahr gültig + Kopie der Datenseite · Krankenversicherung: Nachweis der gesetzlichen Krankenversicherung (GKV) plus eine **innerhalb der EU abgeschlossene** private Incoming-Versicherung (ganzer Schengen-Raum, erste 90 Tage, mind. 30.000 EUR, inkl. COVID-19); ohne GKV-Nachweis private deutsche Incoming-Versicherung für die ganze Visumdauer, eine Reisekrankenversicherung reicht dann grundsätzlich nicht (Botschaft, Nationales Visum, abgerufen 04.10.2026).
 
-**Fachkraftspezifisch:** unterschriebener Arbeitsvertrag · **EzB oder Vorabzustimmung IM ORIGINAL** · Belehrung über das konkrete Arbeitsplatzangebot · Meldepflicht bei Arbeitgeberwechsel · tabellarischer Lebenslauf **mit beglaubigter Übersetzung** · **selbst verfasstes, handunterschriebenes Motivationsschreiben** mit Übersetzung · Nachweis deutscher Sprachkenntnisse · bei Ü45 mit Jahresgehalt unter 48.180 EUR: Altersversorgungsnachweis.
+**Fachkraftspezifisch:** unterschriebener Arbeitsvertrag bzw. konkretes Arbeitsplatzangebot (Position, Gehalt, Arbeitszeiten, Befristung) · **EzB oder Vorabzustimmung IM ORIGINAL** · Belehrung über das konkrete Arbeitsplatzangebot · Meldepflicht bei Arbeitgeberwechsel · tabellarischer Lebenslauf **mit beglaubigter Übersetzung** · **selbst verfasstes, eigenhändig unterschriebenes Motivationsschreiben** (Handschrift ist nicht verlangt) mit Übersetzung · Nachweis deutscher Sprachkenntnisse · bei Ü45 mit Jahresgehalt unter 48.180 EUR: Altersversorgungsnachweis.
 
-*Hinweis: Die Botschaft nennt 48.180 EUR; die amtliche Ü45-Schwelle für 2026 nach § 1 Abs. 2 BeschV ist **55.770 EUR** (55 % der BBG 2026). Die Botschaftsangabe scheint auf einem älteren Stand zu beruhen — im Zweifel den höheren Wert ansetzen und Nachweise mitführen.*
+*Hinweis: Die Botschaft nennt 48.180 EUR; die amtliche Ü45-Schwelle für 2026 nach § 1 Abs. 2 BeschV ist **55.770 EUR** (55 % der BBG 2026). Die Botschaftsseite zeigt hier noch Werte von 2023 (ebenso bei der Blauen Karte: 58.400 / 45.552 EUR). Diese nicht übernehmen; es gelten die Werte aus [Abschnitt 11](#11-zahlen-2026-alle-amtlich-belegt).*
 
-**Fachkräfte mit Berufsausbildung** (der Bögl-Regelfall): Nachweis einer ausländischen Berufsausbildung mit **mindestens zwei Jahren Ausbildungsdauer**, Abschlusszeugnisse **mit Notenverzeichnis**, **Gleichwertigkeitsbescheid**. Ausdrücklich: „Die Prüfung der Gleichwertigkeit … **müssen bei Visumantragstellung vorliegen** und sind **nicht Sache der Botschaft Taschkent**."
+**Fachkräfte mit Berufsausbildung** (§ 18a): Nachweis einer ausländischen Berufsausbildung mit **mindestens zwei Jahren Ausbildungsdauer**, Abschlusszeugnisse **mit Notenverzeichnis**, **Gleichwertigkeitsbescheid**. Ausdrücklich: „Die Prüfung der Gleichwertigkeit … **müssen bei Visumantragstellung vorliegen** und sind **nicht Sache der Botschaft Taschkent**."
 
-**Fachkräfte mit Hochschulabschluss:** zusätzlich **zwei Ausdrucke des anabin-Prüfungsergebnisses** — zum Abschluss **und** zum Status der Hochschule.
+**Fachkräfte mit Hochschulabschluss** (§ 18b, der AATRIUM-Regelfall): zusätzlich **zwei Ausdrucke des anabin-Prüfungsergebnisses** — zum Abschluss **und** zum Status der Hochschule. Eine ZAB-Zeugnisbewertung ist nötig, wenn der Abschluss „bedingt vergleichbar“ ist, die Hochschule „H-“ hat oder einer von beiden nicht in anabin steht. Einen Gleichwertigkeitsbescheid brauchen Akademiker nicht.
 
 ### Gebühren und Dauer in Taschkent
 
 - Nationales Visum **75 EUR** (minderjährig 37,50 EUR), **bar in Usbekischen Sum**, Scheine ab Baujahr 2001 und in gutem Zustand. Keine Erstattung bei Ablehnung.
 - Bearbeitung **4–6 Wochen** für Erwerbstätigkeitsvisa — **ab Vorlage der vollständigen Unterlagen**, Terminwartezeit kommt davor obendrauf.
-- Mit § 81a-Vorabzustimmung: Termin **binnen 3 Wochen**, Entscheidung i. d. R. **3 Wochen** (§ 31a AufenthV). **Gilt nur bei § 81a**, nicht bei der BA-Vorabzustimmung.
+- Mit § 81a-Vorabzustimmung: Termin **binnen 3 Wochen** nach Vorlage der Vorabzustimmung, Entscheidung „in der Regel“ binnen **3 Wochen** ab vollständigem Antrag (§ 31a Abs. 1 und 2 AufenthV). **Gilt nur bei § 81a**, nicht bei der BA-Vorabzustimmung.
 
 ### Volumen: Taschkent ist kein Nebenschauplatz
 
@@ -606,7 +615,7 @@ Auswärtiges Amt, **bearbeitete** nationale Visa Taschkent 2025: Erwerbstätigke
 
 ### Das Migrationsabkommen ist kein Visa-Fast-Track
 
-**Formaldaten:** unterzeichnet 15.09.2024 in Samarkand, in Kraft **05.03.2025**, veröffentlicht **BGBl. 2025 II Nr. 238** (08.09.2025). Offizieller Titel: „Abkommen … über eine umfassende Migrations- und Mobilitätspartnerschaft". Bei Auslegungsdifferenz zwischen Deutsch und Usbekisch ist der **englische** Wortlaut maßgebend (Art. 25).
+**Formaldaten:** unterzeichnet 15.09.2024 in Samarkand, in Kraft **05.03.2025**, veröffentlicht **BGBl. 2025 II Nr. 238** (Bekanntmachung vom 08.09.2025, ausgegeben 15.09.2025). Offizieller Titel: „Abkommen … über eine umfassende Migrations- und Mobilitätspartnerschaft". Bei Auslegungsdifferenz zwischen Deutsch und Usbekisch ist der **englische** Wortlaut maßgebend (Art. 25).
 
 **Was drinsteht:** faire Fachkräftemobilität unter Bindung an die **ILO-Leitlinien für faire Rekrutierung** (Art. 3), Mobilität Studierender und Auszubildender (Art. 2), Beschäftigungsbedingungen und Rechtsschutz (Art. 4), Zusammenarbeit bei **dualer Ausbildung** (Art. 6), Familienangehörige mit Erwerbstätigkeitserlaubnis (Art. 7), Rückübernahme (Art. 8–17), gemeinsame Arbeitsgruppe (Art. 18, erste Sitzung 09.09.2025), zuständige Behörden inkl. **BA** (Art. 19).
 
@@ -624,11 +633,11 @@ Auswärtiges Amt, **bearbeitete** nationale Visa Taschkent 2025: Erwerbstätigke
 
 ### Das FIT-Programm der ZAV — direkt einschlägig für Bögl
 
-Die ZAV betreibt seit dem Migrationsabkommen ein eigenes Programm **„Bewerbergewinnung aus Usbekistan"** im Bereich Handwerk/Technik/**Baugewerbe**, Programmname **FIT (FIT for Climate)**:
+Die ZAV betreibt seit dem Migrationsabkommen ein eigenes Programm **„Bewerbergewinnung aus Usbekistan"** im Bereich Handwerk/Technik/**Baugewerbe**, Programmname **„FIT for German Climate Businesses“ (FIT)**:
 
 - Zielbranchen: Energie- und Gebäudetechnik, **Bau**, Metallbau, SHK, Fahrzeugtechnik
 - Zwei Wege: **Anerkennungsweg** (Einreise, sofortige Beschäftigung bei paralleler Anpassungsqualifizierung) und **Erfahrene-Fachkräfte-Weg** (ausgeprägte berufspraktische Erfahrung, direkte qualifizierte Beschäftigung)
-- **Vorauswahl und Sprachtraining bis A2 im Herkunftsland**
+- **Vorauswahl und Sprachkurs im Herkunftsland**; Vorstellungsgespräche ab Deutsch-Niveau A2
 - Matching, Anerkennung und Integrationsbegleitung durch die regionalen **Handwerkskammern**
 - Einstieg für Betriebe: https://www.fitforclimate.de/handwerksbetriebe/#kontakt
 - Programmseite: https://www.arbeitsagentur.de/vor-ort/zav/personal-aus-dem-ausland/handwerk-technik-baugewerbe/fit/usbekistan
@@ -692,20 +701,21 @@ Der Ausschluss gilt auch für Vermittlungen nach § 14 Abs. 2 und für Einverneh
 
 | Baustein | Wert | Rechtsqualität |
 |---|---|---|
-| Anerkennungsverfahren regulär | 1 Monat Eingangsbestätigung + 3–4 Monate Entscheidung | § 14a BQFG |
-| Anerkennungsverfahren im § 81a-Verfahren | 2 Wochen + 2 Monate | § 14a BQFG |
-| ZAB-Zeugnisbewertung regulär / im § 81a-Verfahren | 4 Monate / 2 Monate | BMI-AH |
+| Anerkennungsverfahren regulär | i. d. R. 3–4 Monate | anerkennung-in-deutschland.de (Rechtsgrundlage § 6 BQFG, nicht § 14a) |
+| Anerkennungsverfahren im § 81a-Verfahren | 2 Wochen Eingangsbestätigung (mit Liste fehlender Unterlagen) + Entscheidung „soll“ binnen 2 Monaten ab vollständigen Unterlagen | § 14a BQFG |
+| ZAB-Zeugnisbewertung regulär / im § 81a-Verfahren / Blaue Karte | 3 Monate / 2 Monate / 2 Wochen (Ziel, keine Frist) | ZAB-FAQ (abgerufen 03.10.2026) |
 | BA-Zustimmung im Regelverfahren | Fiktion nach **2 Wochen** | § 36 Abs. 2 S. 1 BeschV |
 | BA-Zustimmung im § 81a-Verfahren | Fiktion nach **1 Woche** | § 36 Abs. 2 S. 2 BeschV |
 | **BA-Vorabzustimmung § 36 Abs. 3** | **keine Frist** | — |
-| ABH: Einladung nach Anerkennungs-Post | 3 Werktage | § 81a Abs. 3 S. 1 Nr. 3 |
+| ABH: Einladung des Arbeitgebers, wenn die Anerkennungsstelle Nachweise nachfordert oder entschieden hat (keine Frist für die Mitteilung fehlender Unterlagen) | 3 Werktage ab Eingang | § 81a Abs. 3 S. 1 Nr. 3 AufenthG |
+| ABH-Vorabzustimmung, wenn alle Voraussetzungen vorliegen | „unverzüglich“, keine Gesamtfrist | § 81a Abs. 3 S. 1 Nr. 6 AufenthG |
 | Visumtermin **nur bei § 81a** | 3 Wochen | § 31a Abs. 1 AufenthV |
 | Visumentscheidung **nur bei § 81a** | i. d. R. 3 Wochen | § 31a Abs. 2 AufenthV |
 | Visumbearbeitung Taschkent regulär | 4–6 Wochen ab Vollständigkeit | Selbstauskunft Botschaft |
 | **Postweg Original DE → UZ** | einplanen, nicht dokumentiert | — |
 | **Terminwartezeit Taschkent** | **nicht ermittelbar** | — |
 
-**Planwert § 81a laut BMI/BMWK:** „in der Regel ca. 4 Monate" ab vollständigen Anerkennungsunterlagen — bei bereits vorliegendem Anerkennungsbescheid entsprechend kürzer.
+**Planwert § 81a laut BMWK** (FAQ, Stand August 2024): „in der Regel ca. 4 Monate" — eine Schätzung, keine Frist; bei bereits vorliegendem Anerkennungsbescheid entsprechend kürzer.
 
 !!! tip "AATRIUM-Regel für die Kundenkommunikation"
     Nie eine Dienstleisterzahl als Fakt übernehmen. Immer **additiv aus den belegbaren Bausteinen** rechnen und als **Spanne mit Unsicherheitsvermerk** kommunizieren. Der einzige Baustein mit gesetzlicher Garantie ist das § 81a-Verfahren.
@@ -721,7 +731,7 @@ Der Ausschluss gilt auch für Vermittlungen nach § 14 Abs. 2 und für Einverneh
 - **Vollmacht des Arbeitgebers** einmal generell ausstellen lassen (nicht pro Kandidat) — spart bei jedem Folgefall eine Unterschriftenrunde.
 - **Vorlagenfunktion** im Portal nutzen, sobald mehr als ein Kandidat pro Arbeitgeber läuft.
 - **Original der Vorabzustimmung** mit Sendungsverfolgung nach Taschkent, Zustellung dokumentieren.
-- **Terminmeldung per Kontaktformular** an die Botschaft nach der Wartelisteneintragung — sonst keine bevorzugte Vergabe.
+- **Termin in der Vorabzustimmungs-Kategorie buchen und per Kontaktformular melden** — sonst keine kurzfristige Vergabe. Keinen Termin-Dienstleister einschalten.
 - Auf **Vollständigkeit bei Erstabgabe** setzen. Remonstration existiert nicht mehr.
 - **Statusfeld „Aktion erwartet von"** in der Vorgangsübersicht täglich prüfen — rot heißt: die Uhr steht still.
 
@@ -737,8 +747,11 @@ Der Ausschluss gilt auch für Vermittlungen nach § 14 Abs. 2 und für Einverneh
 ### Offene Aufgaben
 
 - [ ] Beim Arbeitgeber-Service (0800 4 555520) klären, ob AATRIUM **ohne deutsche Betriebsnummer** ein Unternehmensprofil erhält
-- [ ] AATRIUM-Textbausteine erstellen: **Vollmacht ZAV** (siehe Art. 07), **Verpflichtungserklärungen Anerkennungspartnerschaft** (Mindestinhalt in Abschnitt 12), **Untervollmacht § 81a**
+- [ ] AATRIUM-Textbausteine erstellen: **Vollmacht ZAV** (siehe Art. 07), **Verpflichtungserklärungen Anerkennungspartnerschaft** (Mindestinhalt in Abschnitt 12), **Untervollmacht § 81a** (auf eine benannte Person, ZSEF-Formular)
 - [ ] Beim ZAV-Kompetenzcenter (0228 713 2000) nachfragen, ob eine **Vermittlungsabsprache** BA–Usbekistan im Rechtssinne besteht
+- [ ] Bei der ZSEF klären: Akzeptiert sie eine Untervollmacht an eine benannte Person bei AATRIUM, und speichert sie die Vorabzustimmung im AZR?
+- [ ] Anwalt: Darf AATRIUM gegen Entgelt bei der BA und im § 81a als Bevollmächtigte auftreten (Rechtsdienstleistungsgesetz)?
+- [ ] Botschaft Taschkent (Kontaktformular): Gilt für Fachkräfte die Warteliste oder das Auslandsportal, und wie heißt die Vorabzustimmungs-Kategorie im Terminsystem genau?
 - [ ] Zuständiges ZAV-Team je Bögl-Einsatzbetrieb einmal vollständig erfassen
 - [ ] Prüfen, ob das **FIT-Programm** der ZAV für Bögl-Positionen nutzbar ist (Bau ist Zielbranche)
 
@@ -748,15 +761,20 @@ Der Ausschluss gilt auch für Vermittlungen nach § 14 Abs. 2 und für Einverneh
 
 | Punkt | Status |
 |---|---|
-| **9 vs. 6 Monate Gültigkeit** | BA-Weisung und BA-Website: 9 Monate seit 01.12.2024. BayernPortal, Serviceportal RLP und BDA-FAQ: weiterhin 6. **Maßgeblich: 9 Monate.** |
+| **9 vs. 6 Monate Gültigkeit** | BA-Weisung und BA-Website: 9 Monate seit 01.12.2024. BayernPortal (Stand 03.10.2026), Serviceportal RLP und BDA-FAQ: weiterhin 6. **Maßgeblich: 9 Monate.** |
 | **Vorlage vs. Erteilung innerhalb der Frist** | BA-Weisung und BVerwG: **Erteilung**. BDA-FAQ (aus BMI/BMAS-Abstimmung): bloße **Vorlage** genüge. **Widerspruch ungelöst** — strengere Lesart anwenden. |
 | Gilt die 2-Wochen-Fiktion für Vorabzustimmungsanträge? | In den Weisungen **nicht** behandelt. Nach Wortlaut: nein. Nicht abschließend geklärt. |
 | Bonner Sonderzuständigkeit | Merkblatt 7 nennt zwei Bonner Teams als bundesweit zuständig; das Zuständigkeits-PDF listet 273/274 nur regional. Nicht auflösbar. |
-| Aktualität der Fachlichen Weisungen | Veröffentlichte Fassung trägt **Stand 12/2024**; keine neuere in der Weisungsliste 2026 auffindbar. Server liefert keinen Zeitstempel. |
+| Aktualität der Fachlichen Weisungen | Die abrufbare Fassung trägt am 04.10.2026 weiterhin **Stand 12/2024**. |
 | Aktualität der BMI-Anwendungshinweise | Neueste auffindbare Fassung: **Tranche III, Rechtsstand 01.06.2024**. bmi.bund.de war nicht erreichbar; ob eine neuere Fassung mit MDWG-Anpassung existiert, ist offen. |
-| BMI-Muster vs. MDWG | Die Muster verlangen weiterhin die Vollmacht als Anlage, obwohl seit 29.07.2026 eine Versicherung genügt. Nicht nachgeführt. |
-| Terminkategorie Taschkent | Auf drei Botschaftsseiten drei verschiedene Namen; das Buchungssystem war nicht erreichbar. Vor Ort verifizieren. |
-| Ü45-Schwelle Botschaft Taschkent | Botschaft nennt 48.180 EUR, amtlich für 2026 sind es 55.770 EUR. Botschaftsangabe vermutlich veraltet. |
+| BMI-Muster vs. MDWG | Die Muster verlangen weiterhin die Vollmacht als Anlage, obwohl seit 29.07.2026 eine Versicherung genügt. Auch die ZSEF-Formulare (04.25 / 04.21) sind älter. Nicht nachgeführt. |
+| Terminkategorie Taschkent | Fachkraft-Seite: „Nationales Visum mit Vorabzustimmung nach §36 BeschV oder §81a AufenthG“; Seite Nationales Visum: „Erwerbstätigkeit als Fachkraft“ (russisch «Трудовая деятельность»). Das Terminsystem war nicht erreichbar. Bei der Botschaft verifizieren. |
+| Antragsweg Fachkraft Taschkent | Terminseite: Warteliste der Botschaft. Fachkraft-Seite: Link auf das Auslandsportal. Kein Umstellungsdatum veröffentlicht (abgerufen 04.10.2026). Bei der Botschaft klären. |
+| Original vs. Kopie der Vorabzustimmung | Botschaft Taschkent: Original. Visumhandbuch und BMI-AH (81a.3.6.2): bei AZR-Speicherung genügt eine Kopie. Für Taschkent mit dem Original planen. |
+| Rechtsdienstleistungsgesetz | Ob AATRIUM gegen Entgelt als Bevollmächtigte bei der BA oder als Unterbevollmächtigte im § 81a auftreten darf, hat keine Behörde und kein Gericht entschieden. Anwalt fragen. |
+| Gesetzesvorhaben | BT-Drs. 21/7870 (Arbeitsförderung, 07.09.2026) ändert BeschV, § 39/§ 81a AufenthG und § 31a AufenthV nicht. Zur Work-and-Stay-Agentur gibt es nur Eckpunkte des Kabinetts vom 05.11.2025, keinen Gesetzentwurf (Stand 03.10.2026). |
+| Portaldetails BA | Antragsschritte, Upload-Regeln und technische Hotline am 04.10.2026 nicht erneut prüfbar (Portal nur nach Anmeldung). |
+| Ü45-Schwelle Botschaft Taschkent | Botschaft nennt 48.180 EUR, amtlich für 2026 sind es 55.770 EUR. Die Botschaftsseite zeigt Werte von 2023. |
 | Bearbeitungsdauer ZAV | **Keine amtliche Statistik existiert.** Alle kursierenden Zahlen sind unbelegt. |
 | Terminwartezeit Taschkent | Nicht ermittelbar. |
 | Freischaltdauer BA-Unternehmensprofil | Keine Quelle nennt eine Zahl. |
@@ -774,8 +792,8 @@ Der Ausschluss gilt auch für Vermittlungen nach § 14 Abs. 2 und für Einverneh
 - [§ 31 AufenthV](https://www.gesetze-im-internet.de/aufenthv/__31.html) · [§ 31a](https://www.gesetze-im-internet.de/aufenthv/__31a.html) · [§ 46](https://www.gesetze-im-internet.de/aufenthv/__46.html) · [§ 47](https://www.gesetze-im-internet.de/aufenthv/__47.html) · [§ 49](https://www.gesetze-im-internet.de/aufenthv/__49.html)
 - [§ 2 AZRG](https://www.gesetze-im-internet.de/azrg/__2.html) · [§ 3](https://www.gesetze-im-internet.de/azrg/__3.html) · [§ 6](https://www.gesetze-im-internet.de/azrg/__6.html)
 - [BVerwG, Urteil v. 19.11.2019 – 1 C 41.18](https://www.bverwg.de/de/191119U1C41.18.0)
-- [Änderungen durch das MDWG (BGBl. 2026 I Nr. 222)](https://www.buzer.de/gesetz/17625/l.htm) · [Synopse § 81a ab 29.07.2026](https://www.buzer.de/gesetz/4752/al241854-0.htm)
-- [Abkommen Deutschland–Usbekistan, Volltext (BGBl. 2025 II Nr. 238)](https://www.recht.bund.de/bgbl/2/2025/238/regelungstext.pdf)
+- [MDWG, BGBl. 2026 I Nr. 222 (Gesetz vom 22.07.2026, ausgegeben 28.07.2026; Art. 3 Nr. 8 und Art. 18)](https://www.recht.bund.de/bgbl/1/2026/222/VO.html)
+- [Abkommen Deutschland–Usbekistan, Volltext (BGBl. 2025 II Nr. 238, ausgegeben 15.09.2025)](https://www.recht.bund.de/bgbl/2/2025/238/regelungstext.pdf?__blob=publicationFile&v=3)
 
 ### Bundesagentur für Arbeit
 
@@ -786,7 +804,7 @@ Der Ausschluss gilt auch für Vermittlungen nach § 14 Abs. 2 und für Einverneh
 - [Regionale Zuständigkeiten der ZAV, Stand 27.04.2026 (BA048053)](https://www.arbeitsagentur.de/datei/regionale-zustaendigkeiten-der-zav-im-bereich-arbeitsmarktzulassung_ba048053.pdf)
 - [Erklärung zum Beschäftigungsverhältnis, EzB 02/2024 (BA047549)](https://www.arbeitsagentur.de/datei/erklaerung-zum-beschaeftigungsverhaeltnis_ba047549.pdf) · [Zusatzblatt A (BA047889)](https://www.arbeitsagentur.de/datei/zusatzblatt-a-zum-formular-erklaerung-zum-beschaeftigungsverhaeltnis_ba047889.pdf) · [Zusatzblatt B (BA048073)](https://www.arbeitsagentur.de/datei/zusatzblatt-b-zum-formular-erklaerung-zum-beschaeftigungsverhaeltnis_ba048073.pdf) · [Zusatzblatt C (BA047011)](https://www.arbeitsagentur.de/datei/zusatzblatt-c-zum-formular-erklaerung-zum-beschaeftigungsverhaeltnis_ba047011.pdf) · [Zusatzblatt D (BA047528)](https://www.arbeitsagentur.de/datei/zusatzblatt-d-zum-formular-erklaerung-zum-beschaeftigungsverhaeltnis_ba047528.pdf)
 - [Infoblatt Anerkennungspartnerschaft (BA050166)](https://www.arbeitsagentur.de/datei/merkblatt-anerkennungspartnerschaft_ba050166.pdf) · [Infoblatt Kurzzeitige kontingentierte Beschäftigung (BA047544)](https://www.arbeitsagentur.de/datei/infoblatt-kurzzeitige-kontingentierte-beschaeftigung_ba047544.pdf)
-- [Ein Konto, mehrere Profile](https://www.arbeitsagentur.de/ein-konto-mehrere-profile) · [Rollen und Rechte verwalten](https://www.arbeitsagentur.de/konten-von-bevollmaechtigten-leichter-verwalten) · [Registrierung für Unternehmen](https://www.arbeitsagentur.de/unternehmen/registrierung-unternehmen) · [eServices für Unternehmen](https://www.arbeitsagentur.de/eservices-unternehmen)
+- [Ein Konto, mehrere Profile](https://www.arbeitsagentur.de/ein-konto-mehrere-profile) · [Mein Unternehmenskonto](https://www.arbeitsagentur.de/mein-unternehmenskonto) · [Rollen und Rechte verwalten](https://www.arbeitsagentur.de/konten-von-bevollmaechtigten-leichter-verwalten) · [Registrierung für Unternehmen](https://www.arbeitsagentur.de/unternehmen/registrierung-unternehmen) · [eServices für Unternehmen](https://www.arbeitsagentur.de/eservices-unternehmen)
 - [Faktor A: Elektronische Arbeitsmarktzulassung (Interview, 26.04.2024)](https://www.arbeitsagentur.de/faktor-a/mitarbeiter-finden/elektronische-arbeitsmarktzulassung-vorabzustimmung)
 - [ZAV: Bewerbergewinnung aus Usbekistan (FIT)](https://www.arbeitsagentur.de/vor-ort/zav/personal-aus-dem-ausland/handwerk-technik-baugewerbe/fit/usbekistan)
 - [Westbalkanregelung](https://www.arbeitsagentur.de/unternehmen/fachkraefte-ausland/westbalkanregelung) · [Kurzzeitige kontingentierte Beschäftigung](https://www.arbeitsagentur.de/unternehmen/fachkraefte-ausland/kurzzeitige-kontingentierte-beschaeftigung) · [Anerkennungspartnerschaft](https://www.arbeitsagentur.de/unternehmen/fachkraefte-ausland/anerkennungspartnerschaft)
@@ -796,23 +814,25 @@ Der Ausschluss gilt auch für Vermittlungen nach § 14 Abs. 2 und für Einverneh
 - [BMI-Anwendungshinweise FEG, Tranche III, Rechtsstand 01.06.2024 (Spiegel FRSH)](https://www.frsh.de/fileadmin/pdf/behoerden/Erlasse_ab_2012/BMI_Anwendungshinweise-FEG_20240601.pdf) · [Spiegel Nds. MI](https://www.mi.niedersachsen.de/download/208180/2024-05-27_BMI_Anwendungshinweise_zum_Fachkraefteeinwanderungsgesetz_Stand_01.06.2024.pdf)
 - [Muster-Vereinbarung § 81a Abs. 2](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/b_Arbeitgeber/PDF-Dateien/Anlage_2_Muster-Vereinbarung.docx) · [Muster-Vollmacht § 81a Abs. 1](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/b_Arbeitgeber/PDF-Dateien/Anlage_3_Muster-Vollmacht.docx) · [Muster-Untervollmacht](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/b_Arbeitgeber/PDF-Dateien/Anlage_9_Muster-Untervollmacht.docx)
 - [BMWK: Fragen und Antworten zum beschleunigten Fachkräfteverfahren (08/2024)](https://www.make-it-in-germany.com/fileadmin/1_Rebrush_2022/b_Arbeitgeber/PDF-Dateien/BMWK_Beschleunigtes_FK-Verfahren_2024_DE-bf.pdf)
-- [Vollmacht § 81a deutsch/englisch (Reg. Mittelfranken)](https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/rmf_16-010-zz_-_beschleunigtes_fachkr%C3%A4fteverfahren_-_vollmacht_nach_%C2%A7_81a_abs._1_aufenthg_-_deutsch-englisch.pdf) · [Vollmacht § 81a (Bezirksregierung Köln)](https://www.bezreg-koeln.nrw.de/system/files/media/document/file/ordnung_und_sicherheit_zfe_form_vollmacht.pdf)
+- [ZSEF, Regierung von Mittelfranken (Stand 29.09.2026)](https://www.regierung.mittelfranken.bayern.de/service/zentrale_stelle_einwanderung_fachkraefte/index.html) · [Untervollmacht § 81a deutsch/englisch (ZSEF, Version 04.21)](https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/rmf_16-011-zz_-_beschleunigtes_fachkr%C3%A4fteverfahren_-_untervollmacht_nach_%C2%A7_81a_abs.1_aufenthg_-_deutsch_englisch.pdf)
+- [Vollmacht § 81a deutsch/englisch (Reg. Mittelfranken, Version 04.25)](https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/rmf_16-010-zz_-_beschleunigtes_fachkr%C3%A4fteverfahren_-_vollmacht_nach_%C2%A7_81a_abs._1_aufenthg_-_deutsch-englisch.pdf) · [Vollmacht § 81a (Bezirksregierung Köln)](https://www.bezreg-koeln.nrw.de/system/files/media/document/file/ordnung_und_sicherheit_zfe_form_vollmacht.pdf)
 - [BAnz AT 18.12.2025 B1 – § 6 BeschV](https://bundesanzeiger.de/pub/publication/Y2aCmOShDcqzQ6bk8iN/content/Y2aCmOShDcqzQ6bk8iN/BAnz%20AT%2018.12.2025%20B1.pdf?inline=) · [B2 – Ü45](https://www.bundesanzeiger.de/pub/publication/qiidOUvOxBc4NVmtxPl/content/qiidOUvOxBc4NVmtxPl/BAnz%20AT%2018.12.2025%20B2.pdf) · [B3 – Blaue Karte EU](https://www.bundesanzeiger.de/pub/publication/REViP4bN6jVdpGxPaiQ/content/REViP4bN6jVdpGxPaiQ/BAnz%20AT%2018.12.2025%20B3.pdf?inline=)
 
 ### Botschaft Taschkent / Auswärtiges Amt
 
 - [Visum zur Arbeitsaufnahme als Fachkraft](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/2446108-2446108) · [Nationales Visum (Übersicht)](https://taschkent.diplo.de/uz-de/service/05-VisaEinreise/-/1604022) · [Terminvereinbarung](https://taschkent.diplo.de/uz-de/service/1444004-1444004) · [Ausbildungsvisum](https://taschkent.diplo.de/uz-de/service/05-VisaEinreise/-/2451658) · [Migrationsabkommen in Kraft](https://taschkent.diplo.de/uz-de/2704774-2704774)
-- [AA: Auslandsportal](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/auslandsportal) · [Statistik nationale Visa 2025 (PDF)](https://www.auswaertiges-amt.de/resource/blob/2756162/ec04907290341d48d55566e631f9d533/statistik-2025-nationale-visa-data.pdf)
+- [Botschaft Taschkent: Anerkennung § 16d (TLS-Servicegebühr)](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/2445800-2445800) · [Botschaft Duschanbe: Online-Pflicht ab 20.09.2026](https://duschanbe.diplo.de/tj-de/service/visa-neu/1888308-1888308)
+- [AA: Auslandsportal (15.06.2026)](https://www.auswaertiges-amt.de/de/service/visa-und-aufenthalt/auslandsportal) · [Visumhandbuch, Stand 21.08.2026](https://www.auswaertiges-amt.de/resource/blob/207816/5f5be4158ee61f51115a2a32e2885c67/visumhandbuch-data.pdf) · [Statistik nationale Visa 2025 (PDF)](https://www.auswaertiges-amt.de/resource/blob/2756162/ec04907290341d48d55566e631f9d533/statistik-2025-nationale-visa-data.pdf)
 - [BT-Drs. 21/2374 v. 22.10.2025 (Visa-Zahlen Usbekistan)](https://dserver.bundestag.de/btd/21/023/2102374.pdf)
 
 ### Sekundärquellen (mit Vorbehalt)
 
 - [BDA-FAQ Fachkräfteeinwanderung, Stand 07/2025](https://arbeitgeber.de/wp-content/uploads/bda-arbeitgeber-faq_zur_praktischen_umsetzung_des_gesetzes_und_der_verordnung_zur_weiterentwicklung_der_fachkraefteeinwanderung-2025_07.pdf) — ⚠️ veraltete Geltungsdauer, widersprüchliche Aussage zur Vorlage
-- [BayernPortal: Vorabzustimmung](https://www.bayernportal.de/dokumente/leistung/7333469454185) — ⚠️ nennt weiterhin 6 Monate
+- [BayernPortal: Vorabzustimmung](https://www.bayernportal.de/dokumente/leistung/7333469454185) — ⚠️ nennt weiterhin 6 Monate (Stand 03.10.2026); belegt aber die Kostenfreiheit
 - [EFAR: Digitalisierung im Ausländerbeschäftigungsrecht](https://efarbeitsrecht.net/auslaenderbeschaeftigung-digitalisierung-vorabzustimmung/)
 - [FragDenStaat #184285 – Zuständigkeit bei der Vorabzustimmung](https://fragdenstaat.de/anfrage/vorabzustimmung-36-abs3-beschv/) · [#298648 – Planstellen Arbeitsmarktzulassung](https://fragdenstaat.de/anfrage/planstellen-mitarbeiterzahl-arbeitsmarktzulassung/) · [#282280 – Vorlagepflicht im Visumverfahren](https://fragdenstaat.de/anfrage/erforderlichkeit-der-vorlage-der-vorabzustimmung-der-bundesagentur-fuer-arbeit-im-visumverfahren/)
 - [DIHK/UBA-Flyer Anerkennungspartnerschaft](https://www.unternehmen-berufsanerkennung.de/fileadmin/user_upload/UBA_DIHK_Flyer_Anerkennungspartnerschaft_Web_DS.pdf) · [IQ-Leitfaden § 16d](https://netzwerk-iq.de/fileadmin/Redaktion/Downloads/FSAQ/FSAQ_FEI_Leitfaden_16d_fin_bf.pdf)
 
 ---
 
-*Erstellt 25.08.2026. Nächste Prüfung empfohlen, sobald eine neue Fassung der Fachlichen Weisungen oder der BMI-Anwendungshinweise erscheint — beide sind derzeit von 2024.*
+*Erstellt 25.08.2026, nachgeprüft 04.10.2026. Nächste Prüfung empfohlen, sobald eine neue Fassung der Fachlichen Weisungen oder der BMI-Anwendungshinweise erscheint (beide sind derzeit von 2024) oder die Botschaft Taschkent ihren Antragsweg für Fachkräfte ändert.*
