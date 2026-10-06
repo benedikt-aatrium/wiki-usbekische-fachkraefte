@@ -7,6 +7,9 @@
 
 ---
 
+!!! warning "Teamentscheidung 06.10.2026"
+    Für Kolleg-Absolventen wird **keine ZAB-DAB** beantragt. Der Weg läuft über die **Anerkennung bei der IHK FOSA** im beschleunigten Verfahren (§ 81a über die ZSEF); der Anerkennungsbescheid ersetzt die DAB. Ablauf, Formulare und Prüfliste: Artikel 42.
+
 ## Kernaussagen
 
 - **Hauptweg ist § 19c Abs. 2 AufenthG i. V. m. § 6 BeschV** (Berufserfahrene). Gesetzlich braucht es dafür **weder eine deutsche Anerkennung noch ein Deutschzertifikat**. Den Takt gibt die **ZAB-Auskunft (DAB)** vor: 2 Monate, nicht verkürzbar.
