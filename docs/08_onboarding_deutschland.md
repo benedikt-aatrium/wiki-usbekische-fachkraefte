@@ -30,7 +30,7 @@ Nach der Einreise mit einem gültigen Visum hat die Fachkraft in den ersten Woch
 
 ## 2. Krankenkassenanmeldung
 
-- Ab dem ersten Arbeitstag besteht Versicherungspflicht in der gesetzlichen Krankenversicherung, wenn das Gehalt die Versicherungspflichtgrenze nicht übersteigt (2026: 77.400 € brutto im Jahr; [BMAS, Rechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html), 08.10.2025). Liegt das Gehalt darüber, vor Arbeitsbeginn klären, wie die Fachkraft versichert wird.
+- Ab dem ersten Arbeitstag besteht Versicherungspflicht in der gesetzlichen Krankenversicherung, wenn das Gehalt die Versicherungspflichtgrenze nicht übersteigt (2026: 77.400 € brutto im Jahr; [BMAS, Rechengrößen 2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/sozialversicherungsrechengroessen-2026.html), 08.10.2025; 2027 voraussichtlich 84.150 €, Kabinettsbeschluss 07.10.2026, Bundesrat steht aus: [BMAS, Pressemitteilung 07.10.2026](https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2026/bundeskabinett-beschliesst-sozialversicherungsrechengroessen-2027.html)). Liegt das Gehalt darüber, vor Arbeitsbeginn klären, wie die Fachkraft versichert wird.
 - Der Arbeitgeber meldet die Fachkraft bei der zuständigen Krankenkasse an. Tipp: Die Fachkraft sucht sich vorher eine Krankenkasse aus und nennt sie dem Arbeitgeber.
 - Die **Sozialversicherungsnummer** (Versicherungsnummer) vergibt die Deutsche Rentenversicherung bei der ersten Beschäftigung ([DRV](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Allgemeine-Informationen/Sozialversicherungsausweis), abgerufen 04.10.2026).
 - Die Karte der gesetzlichen Krankenkasse (Gesundheitskarte) kommt nach einigen Wochen per Post.

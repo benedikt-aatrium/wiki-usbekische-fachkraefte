@@ -29,7 +29,7 @@ Das **Arbeitsbuch** (usbekisch: *Mehnat daftarchasi*) ist das **wichtigste Dokum
 | **Stempel und Unterschriften** | Beim jeweiligen Eintrag | Beglaubigung |
 | **Elektronische Fassung** | Daten aus dem Einheitlichen nationalen Arbeitssystem; Bescheinigung über my.gov.uz (Dienst 496) | Gesamtübersicht (seit 2020) |
 
-Der Aufbau des Papierbuchs ist nicht an der usbekischen Instruktion zur Führung von Arbeitsbüchern (Nr. 402 vom 29.01.1998) geprüft (nicht geprüft, Stand 04.10.2026).
+Der Aufbau des Papierbuchs folgt der Instruktion „Mehnat daftarchalarini yuritish tartibi to‘g‘risida“ des Arbeitsministeriums und des Ministeriums für soziale Sicherung, registriert beim Justizministerium am 29.01.1998 unter Nr. 402. Laut lex.uz ist sie in Kraft (letzte Fassung 19.08.2024). Die Personalien stehen auf der ersten Seite (Name vollständig, Geburtsdatum nach Pass/ID-Karte, Bildung nur anhand von Zeugnissen oder Diplomen). Im Abschnitt „Ishi to‘g‘risidagi ma’lumotlar“ gilt: Spalte 1 laufende Nummer, Spalte 2 Datum, Spalte 3 Eintrag (Betrieb als Überschrift, Stelle/Beruf, ggf. Qualifikationsstufe), Spalte 4 Grundlage (Anordnung mit Datum und Nummer) ([lex.uz, Instruktion Nr. 402](https://lex.uz/docs/-643007), abgerufen 08.10.2026).
 
 ### Wichtige Einträge im Arbeitsbuch
 
@@ -185,7 +185,7 @@ Das **Attestat** (usbekisch: *Attestat*) ist der **Schulabschluss** in Usbekista
 | Art | Bedeutung | Einordnung in Deutschland |
 |-----|-----------|------------------|
 | **Attestat o srednem obrazovanii** | Abschluss der allgemeinbildenden Schule (11 Jahre) | Schulabschluss, keine Berufsqualifikation |
-| **Attestat o nachalnom obrazovanii** | Abschluss nach 9 Jahren (Bezeichnung nicht geprüft) | Schulabschluss, keine Berufsqualifikation |
+| **Tayanch o‘rta ta’lim to‘g‘risida shahodatnoma** (aktuelle Bezeichnung laut BQ-Portal); früher **Umumiy o‘rta ta’lim to‘g‘risida shahodatnoma** (Zeitpunkt der Umbenennung und russische Bezeichnung nicht geprüft) | Abschluss nach 9 Jahren; nicht mit dem 11-Jahres-Zeugnis verwechseln, das ebenfalls „Umumiy o‘rta …“ heißt. Quelle: [anabin, Schulabschlüsse ohne Hochschulzugang](https://anabin.kmk.org/db/schulabschluesse-ohne-hochschulzugang); [BQ-Portal, Usbekistan](https://www.bq-portal.de/db/L%C3%A4nder-und-Berufsprofile/usbekistan) (abgerufen 08.10.2026) | Schulabschluss, keine Berufsqualifikation |
 
 ### Wichtige Angaben im Attestat
 

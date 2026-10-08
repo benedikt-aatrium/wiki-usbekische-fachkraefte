@@ -1,6 +1,6 @@
 # 38 Arbeitsweise und Fallsteuerung
 
-**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md) · Grundlage: Bericht `Claude outputs/2026-10-03_Best_Practices_Fachkraeftevermittlung.md` (Methoden) und Prüfbericht `Claude outputs/2026-10-03_Rechtspruefung_Wiki_Visum_Vermittlung.md` (Recht)
+**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md) · Grundlage: Bericht `Claude outputs/2026-10-03_Best_Practices_Fachkraeftevermittlung.md` (Methoden) und Prüfbericht `Claude outputs/2026-10-03_Rechtspruefung_Wiki_Visum_Vermittlung.md` (Recht) · Ergänzt 08.10.2026: Abschnitt 38.11
 **Nächste Prüfung:** nach drei Monaten Wochenrunde (Januar 2027)
 
 > **Ziel:** Wie AATRIUM Visa-Fälle steuert: wo welche Daten leben, wie die Ampel funktioniert, wie die Wochenrunde läuft und welche Regeln aus anderen Branchen wir übernehmen.
@@ -280,6 +280,28 @@ Kurze Mails werden öfter beantwortet: 49 Wörter brachten 4,8 % Antworten, 127 
 - **Zeitzonen immer doppelt angeben:** Taschkent ist UTC+5 ohne Sommerzeit. Bis 25.10.2026 ist es dort 3 Stunden später als in Berlin, danach 4.
 
 **Persönliche Arbeitsweise:** eine Liste, viele Eingänge (einmal am Tag landet alles auf dem Board); jede Karte mit Verb, nächstem Schritt und „Wann“; zehn Minuten Feierabend-Plan (wo, wann, wie es morgen weitergeht; [Masicampo & Baumeister 2011](https://doi.org/10.1037/a0024192)); zwei geschützte Konzentrationsblöcke pro Tag; vor jedem Wechsel eine Parknotiz auf der Karte; freitags 30–45 Minuten Wochenrückblick.
+
+---
+
+## 38.11 Vor der Zusage: vom Profil zum Interview
+
+Die Stationen in 38.2 beginnen mit der Zusage. Davor liegt die Strecke vom gelieferten Profil bis zum Interview beim Arbeitgeber. Auf dieser Strecke sind Profile am leichtesten verloren gegangen, weil sie nur in Chats lagen. Deshalb gilt hier dieselbe Regel wie in 38.1: Chats sind nur Hinweise, die Arbeit lebt in Ankaadia, Drive, Mail und Tracking-Liste.
+
+| Schritt | Was passiert | Wer | Wo festgehalten |
+|---|---|---|---|
+| 1 Eingang | Profile kommen als Liste oder Unterlagenpaket, z. B. von der Migrationsagentur (Listen je Beruf, Unterlagen als ZIP) oder vom Partner vor Ort (ein Drive-Ordner je Kandidat: laufende Nummer, NACHNAME, Vorname wie in der Anrufliste) | Partner | Drive, Eingangsdatum notieren |
+| 2 Dublettenprüfung | Vor jeder neuen AA-Nummer in Ankaadia, Drive und Mails nach dem Kandidaten suchen (Name in mehreren Schreibweisen, Telefonnummer, Pass). Doppelte Nummern lassen sich in Ankaadia nicht selbst ändern | Recruiting | Ankaadia |
+| 3 AA-Nummer | Kandidat in Ankaadia anlegen; die AA-Nummer ist ab jetzt die Fall-ID (38.1) | Recruiting | Ankaadia |
+| 4 CV | CV nach AATRIUM-Vorlage: Profil-ID = AA-Nummer, Quellenkürzel der Lieferung, Datum. PDF aus Word exportieren, damit die Hausschrift erhalten bleibt. Angaben gegen Registrierungsbogen und Beschäftigungsauszug prüfen; Widersprüche im Anschreiben benennen | Recruiting | Drive, Ankaadia |
+| 5 Interne Freigabe | CV **per E-Mail** an Geschäftsführung und Kundenbetreuung, mit klarer Bitte („bitte durchgehen, dann können sie an den Kunden“). Nie nur per Chat | Recruiting | Mail, Tracking-Liste |
+| 6 Versand an den Arbeitgeber | Freigegebene CVs gehen gebündelt an den Arbeitgeber | Kundenbetreuung | Mail, Tracking-Liste |
+| 7 Rückmeldung | Auswahl, Absage mit Grund oder Interviewtermin. Absagegründe auswerten (Artikel 37) | Arbeitgeber | Tracking-Liste |
+| 8 Antwort an den Partner | Der Lieferant erfährt den Stand je Kandidat, auch bei Absage | Geschäftsführung | Partnergruppe |
+| 9 Zusage | Übergang in die Fallsteuerung, Station 1 (38.2) | – | Ankaadia, Board |
+
+**Tracking-Liste:** Blatt „CV-Tracking“ in der Kandidatenübersicht. Je CV eine Zeile: AA-Nummer, Name, Quelle/Lieferung, CV erstellt, an Geschäftsführung/Kundenbetreuung (Datum, Weg), Freigabe, an den Arbeitgeber, Rückmeldung, nächster Schritt mit Verantwortlichem. Einträge nur mit Beleg (Mail oder Nachricht). Wöchentlich in der Wochenrunde (38.3) durchgehen: Jeder CV ohne Rückmeldung seit mehr als 14 Tagen wird nachgefasst.
+
+**Lehre (08.10.2026):** Zwei fertige CVs lagen fünf Wochen nur in einem Gruppenchat und erreichten den Arbeitgeber nie. Erst die Nachfrage des Lieferanten hat es aufgedeckt. Seitdem gehen CVs nur per Mail und stehen in der Tracking-Liste.
 
 ---
 

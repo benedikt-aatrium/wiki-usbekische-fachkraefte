@@ -1,6 +1,6 @@
 # Vorabzustimmung — das vollständige Handbuch
 
-**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md)
+**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md) · Ergänzt 08.10.2026: Unterlagen für die ZSEF (Abschnitt 13)
 
 > **Zweck dieses Artikels:** Alles, was AATRIUM über die Vorabzustimmung wissen muss — Rechtsgrundlagen im Wortlaut, Verwaltungsinnenleben der BA, das Online-Verfahren, Zuständigkeiten, Fallgruppen, Kosten, Fristen, die Visumpraxis in Taschkent und die ehrliche Bewertung, wann sich das Verfahren lohnt und wann nicht.
 >
@@ -514,6 +514,28 @@ Damit ist die **Untervollmachtskette erstmals ausdrücklich im Gesetz verankert*
 - **Fällig mit Abschluss der Vereinbarung** (ZSEF, Stand 29.09.2026). Die Gebühr deckt alle Beratungs-, Koordinierungs- und Prüfungsleistungen der Ausländerbehörde (BMI-AH 81a.1.0.8.1). Die ZSEF bietet Arbeitgebern Erstberatungen an.
 - **Keine Rückerstattung**, auch nicht bei Rücknahme des Antrags oder bei Versagung, etwa wenn die Gleichwertigkeit nicht festgestellt wird oder die BA nicht zustimmt (BMI-AH 81a.1.0.8.2 mit § 69 Abs. 7 Satz 4 AufenthG). Die ZSEF erstattet auch nicht, wenn das Arbeitsplatzangebot nicht angenommen oder das Visum abgelehnt wird (Stand 29.09.2026).
 - **Nicht enthalten:** Anerkennungs-/ZAB-Gebühren, Berufsausübungserlaubnis, Visumgebühr, Urkunden, Legalisationen/Apostillen, **Übersetzungen**, beglaubigte Kopien, Urkundenüberprüfungsverfahren (BMI-AH 81a.1.0.8.1).
+
+### Unterlagen für die ZSEF bei § 18b (Hochschulabschluss)
+
+Die ZSEF (Bayern) nennt in ihrer [Checkliste „Abgeschlossene akademische Ausbildung“](https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/checkliste_-_akademische_ausbildung.pdf) (§ 18b, § 18g Abs. 1 AufenthG, Stand Februar 2026, abgerufen 08.10.2026) diese Unterlagen. Antrag formlos über den Online-Dienst der ZSEF; Kopien bzw. Farbkopien genügen, Originale nur auf Anforderung.
+
+| Unterlage | Form |
+|---|---|
+| Reisepass (bei Namensabweichung zusätzlich Urkunde über die Namensänderung + Übersetzung) | Farbkopie |
+| Nachweis des Aufenthaltsstatus, wenn die Fachkraft nicht in ihrem Herkunftsland lebt (z. B. Usbeken in Russland oder Kasachstan) | Farbkopie |
+| Vollmacht der Fachkraft auf den Arbeitgeber + Versicherung nach § 18 Abs. 2 Nr. 4a AufenthG; ggf. Nachweis der Vertretungsbefugnis des Unterzeichners beim Arbeitgeber; ggf. **Untervollmacht** des Arbeitgebers | Kopie |
+| **Erklärung zum Parallelverfahren:** Hat die Fachkraft schon ein D-Visum bei einer Auslandsvertretung beantragt? Wenn ja: Aktenzeichen und Stand | formlos |
+| **Erklärung zu früheren Schengen-Aufenthalten:** Zeiten und Orte der **letzten fünf** Aufenthalte | formlos |
+| Gewerbeanmeldung, nur wenn der Arbeitgeber weder in einem Register steht noch ein Impressum hat | Kopie |
+| **Erklärung zum Beschäftigungsverhältnis**, vom Arbeitgeber unterschrieben, mit der **Betriebsnummer der konkreten Betriebsstätte**, in der die Fachkraft arbeitet (kann vom Hauptsitz abweichen; die Betriebsdaten bei der BA sollen aktuell sein). Nur qualifizierte Beschäftigung, Helfer- und Anlernberufe sind ausgeschlossen | Kopie |
+| Abschlussurkunde in Originalsprache + deutsche Übersetzung | Farbkopie |
+| Falls vorhanden: ZAB-Zeugnisbewertung. Sonst prüft die ZSEF selbst in anabin und leitet bei Bedarf die Zeugnisbewertung ein | Kopie |
+| Falls für den Beruf eine Berufsausübungserlaubnis nötig ist (die Checkliste nennt u. a. Ingenieure): Erlaubnis oder deren Zusage | Kopie |
+| Falls vorhanden: Vorabzustimmung der BA nach § 36 Abs. 3 BeschV | Kopie |
+
+Für mitreisende oder nachziehende Familienangehörige gilt eine eigene ZSEF-Checkliste „Familiennachzug im beschleunigten Fachkräfteverfahren“.
+
+Für Kandidaten **ohne Hochschulabschluss** gilt die [Checkliste „Abgeschlossene Berufsausbildung“](https://www.regierung.mittelfranken.bayern.de/mam/aufgaben/sg16/checkliste_-_berufsausbildung.pdf) mit zusätzlichen Unterlagen: ggf. datenschutzrechtliche Einwilligung zur Vollmacht, ein vorhandener Gleichwertigkeitsbescheid, und für die Anerkennung Fächerübersicht, lückenloser deutscher Lebenslauf, Nachweise der Berufserfahrung und sonstige Befähigungsnachweise (Kurse, Weiterbildungen), jeweils mit Übersetzung; siehe Artikel 42. Nach der Vorabzustimmung bietet die Botschaft unverzüglich einen Termin in den nächsten drei Wochen an (§ 31a Abs. 1 AufenthV, siehe oben).
 
 ### Familiennachzug nach § 81a Abs. 4
 

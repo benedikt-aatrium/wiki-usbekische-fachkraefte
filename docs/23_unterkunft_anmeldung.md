@@ -65,10 +65,10 @@ Die Anmeldung erfolgt beim **Einwohnermeldeamt** der Stadt oder Gemeinde, in der
 | Stadt | Einwohnermeldeamt | Adresse | Termin |
 |-------|-------------------|---------|--------|
 | **Neumarkt i.d.OPf.** | Einwohnermeldeamt der Stadt Neumarkt | Rathaus II, Rathausplatz 2, 92318 Neumarkt | Online bis 4 Wochen im Voraus; ohne Termin nur nach Tageskontingent |
-| **Regensburg** | Bürgerservice der Stadt Regensburg | Adresse auf regensburg.de prüfen (nicht geprüft, Stand 04.10.2026) | Auf regensburg.de prüfen |
+| **Regensburg** | Für Nicht-EU-Staatsangehörige: Amt für Integration und Migration, Abteilung Ausländerangelegenheiten | Maximilianstraße 26, 93047 Regensburg | Schriftlich: Meldeformular, Wohnungsgeberbestätigung, Pass-/Ausweiskopie, ggf. Kopie Aufenthaltstitel oder Einreisevisum; gebührenfrei |
 | **Nürnberg** | Bürgerämter der Stadt Nürnberg, z. B. Bürgeramt Mitte | Äußere Laufer Gasse 25, 90403 Nürnberg | Nur mit Termin, online buchen |
 
-Quellen: [Stadt Neumarkt, Einwohnermeldeamt](https://www.neumarkt.de/rathaus-buergerservice/aemter-und-dienstleistungen/aemter-staedtische-einrichtungen/allgemeine-innere-verwaltung/einwohnermeldeamt/); [Stadt Nürnberg, Standorte der Bürgerämter](https://www.nuernberg.de/internet/buergeramt_mitte/standorte.html) (abgerufen 04.10.2026). Die Seite der Stadt Regensburg war nicht abrufbar.
+Quellen: [Stadt Neumarkt, Einwohnermeldeamt](https://www.neumarkt.de/rathaus-buergerservice/aemter-und-dienstleistungen/aemter-staedtische-einrichtungen/allgemeine-innere-verwaltung/einwohnermeldeamt/); [Stadt Nürnberg, Standorte der Bürgerämter](https://www.nuernberg.de/internet/buergeramt_mitte/standorte.html) (abgerufen 04.10.2026); [Stadt Regensburg, Anmeldung der Wohnung für Ausländer (Nicht-EU)](https://www.regensburg.de/buergerservice/dienstleistungen/25693/anmeldung-der-wohnung-fuer-auslaender-nicht-eu.html) (abgerufen 08.10.2026).
 
 ### Welche Unterlagen werden benötigt?
 

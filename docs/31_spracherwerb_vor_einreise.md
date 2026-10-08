@@ -74,7 +74,7 @@ Buchungsstart für Goethe-Prüfungen ist am Ersten jedes Monats. Bei Kartenzahlu
 
 ### telc-Zertifikate
 
-telc-Prüfungen (A1–B2) werden in Usbekistan von **lizenzierten telc-Prüfungszentren** angeboten (nicht geprüft, Stand 04.10.2026; telc.net war nicht abrufbar). Die Botschaft akzeptiert nur ALTE-zertifizierte Anbieter mit Niederlassung vor Ort; vorab klären, ob das jeweilige Zentrum dazu zählt.
+In der [Prüfungszentrensuche von telc](https://www.telc.net/sprachpruefungen/pruefungszentrum-finden/) ist Usbekistan nicht als Land auswählbar (abgerufen 08.10.2026). Laut telc bieten einige Prüfungszentren Außenstellenprüfungen im außereuropäischen Ausland an. Ein in Usbekistan angebotenes telc-Zertifikat deshalb vorab bei telc auf das ausstellende Prüfungszentrum prüfen und die Echtheit auf results.telc.net bestätigen. Laut [Auswärtigem Amt](https://www.auswaertiges-amt.de/de/service/fragenkatalog-node/-/2238204) werden telc-Zertifikate im Visumverfahren unabhängig vom Prüfungsort anerkannt (abgerufen 08.10.2026). Die Botschaft verlangt ein Zertifikat eines ALTE-zertifizierten Anbieters, der eine mit Entsandten besetzte Niederlassung hat, und nennt telc ausdrücklich; dass die Niederlassung in Usbekistan sein muss, steht dort nicht ([Botschaft, Deutschkenntnisse](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/2446684-2446684), abgerufen 08.10.2026).
 
 !!! note "Interne Praxiserfahrung"
     In der AATRIUM-Praxis wurden mehrfach **telc-Zertifikate (bis B2)** von Kandidaten vorgelegt, die in Usbekistan erworben wurden. Sie werden von Arbeitgebern und Botschaft problemlos akzeptiert.
@@ -84,7 +84,7 @@ telc-Prüfungen (A1–B2) werden in Usbekistan von **lizenzierten telc-Prüfungs
 
 ### Grundsatz zur Anerkennung der Zertifikate
 
-- Die Botschaft Taschkent akzeptiert Zertifikate ALTE-zertifizierter Anbieter mit Niederlassung vor Ort: **Goethe, telc und ÖSD** (A1: „Start Deutsch 1“ bzw. „Grundstufe Deutsch 1“), außerdem **TestDaF** (ab B2) und **ECL** (ab A2) ([Botschaft, Deutschkenntnisse](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/2446684-2446684), abgerufen 04.10.2026; vgl. Artikel 09, 14 und 26).
+- Die Botschaft Taschkent akzeptiert Zertifikate ALTE-zertifizierter Anbieter mit einer mit Entsandten besetzten Niederlassung: **Goethe, telc und ÖSD** (A1: „Start Deutsch 1“ bzw. „Grundstufe Deutsch 1“), außerdem **TestDaF** (ab B2) und **ECL** (ab A2) ([Botschaft, Deutschkenntnisse](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/2446684-2446684), abgerufen 04.10.2026; vgl. Artikel 09, 14 und 26).
 - Ein Zertifikat gilt grundsätzlich unbegrenzt. Ist es älter als ein Jahr, kann die Botschaft die Deutschkenntnisse im Gespräch nachprüfen. Empfehlung: am Visumtermin jünger als 12 Monate.
 - **Selbst ausgestellte Kursbescheinigungen** von Sprachschulen ersetzen **keine** anerkannte Prüfung.
 

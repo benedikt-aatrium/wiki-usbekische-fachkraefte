@@ -106,11 +106,11 @@ In Deutschland werden Übersetzer nach Landesrecht von den Landesjustizverwaltun
 
 ## 5.5 Kosten für Übersetzungen (Orientierung)
 
-- Übersetzungen für Gerichte und Behörden werden nach dem JVEG (§ 11) pro Zeile vergütet.
-- Seit 1. Juni 2025 (KostBRÄG 2025, BGBl. 2025 I Nr. 109): ca. 1,95 €/Zeile (editierbar) und 2,15 €/Zeile (nicht editierbar) (nicht geprüft, Stand 04.10.2026).
+- Übersetzungen für Gerichte und Behörden werden nach dem JVEG (§ 11) nach Anschlägen vergütet.
+- Seit 1. Juni 2025 (KostBRÄG 2025, Art. 10 Nr. 6, Art. 13 Abs. 3): 1,95 € je angefangene 55 Anschläge, wenn der Text editierbar elektronisch vorliegt (Grundhonorar), sonst 2,15 € (erhöhtes Honorar). Bei besonders erschwerter Übersetzung 2,15 € bzw. 2,30 €. Bei Übersetzungen ins Deutsche zählen die Anschläge des deutschen Texts. Mindestens 20 € je Auftrag (§ 11 Abs. 1–3 JVEG).
 - Private Aufträge (z. B. für Kammern oder Botschaft) werden frei vereinbart; die Preise hängen vom Übersetzer ab.
 
-**Quelle:** [BGBl. 2025 I Nr. 109](https://www.recht.bund.de/bgbl/1/2025/109/VO.html) (Titel abgerufen 04.10.2026; Wortlaut von § 11 JVEG nicht abrufbar)
+**Quelle:** [§ 11 JVEG](https://www.gesetze-im-internet.de/jveg/__11.html); [BGBl. 2025 I Nr. 109](https://www.recht.bund.de/bgbl/1/2025/109/VO.html) (abgerufen 08.10.2026)
 
 ---
 

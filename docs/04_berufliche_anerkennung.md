@@ -208,7 +208,7 @@ Die **Zentralstelle für ausländisches Bildungswesen (ZAB)** bewertet im „ana
 
 ## 4.8 Offene Punkte
 
-- **Gebühren der HWK im beschleunigten Verfahren (§ 81a):** Die HWK Niederbayern-Oberpfalz nennt nur 100 bis 600 € für das Verfahren allgemein. Gebühren der HWK für Mittelfranken nicht geprüft.
+- **Gebühren der HWK im beschleunigten Verfahren (§ 81a AufenthG / § 14a BQFG):** Die HWK Niederbayern-Oberpfalz hat dafür keine eigene Gebühr. Der Bescheid zur Gleichwertigkeitsfeststellung nach § 40a bzw. § 50c HwO i. V. m. BQFG kostet 100 bis 600 € (Gebührenverzeichnis Nr. 6.2/6.3; Gebührenordnung zuletzt geändert durch Beschluss vom 14.11.2025, in Kraft seit 01.01.2026). § 14a BQFG sieht keine eigene Gebühr vor; er regelt den Antrag über die Ausländerbehörde und die Fristen: Eingangsbestätigung binnen 2 Wochen, Entscheidung „soll“ binnen 2 Monaten ab vollständigen Unterlagen. Eine Qualifikationsanalyse kostet zusätzlich (Nr. 6.5). Quellen: [HWK Niederbayern-Oberpfalz, Gebührenordnung (PDF)](https://www.hwkno.de/downloads/gebuehrenordnung-76,6475.pdf); [§ 14a BQFG](https://www.gesetze-im-internet.de/bqfg/__14a.html) (abgerufen 08.10.2026). Gebühren der HWK für Mittelfranken nicht geprüft (Website nicht abrufbar, Stand 08.10.2026).
 - **Übersetzungen aus Usbekistan bei der HWK:** Ob die Kammer sie akzeptiert, vorab schriftlich klären.
 - **Geklärt (04.10.2026):** Für § 18a ist die volle Gleichwertigkeit Pflicht, auch bei Maurer, Betonbauer oder Straßenbauer (BA-Weisungen 18.0.6). Ohne Anerkennung geht nur § 19c Abs. 2 mit § 6 BeschV oder die Anerkennungspartnerschaft (§ 16d Abs. 3).
 - **ZAB-Verfahren für konkrete Kandidaten:** Sind deren Abschlüsse eher dual oder akademisch? (Fallbezogen prüfen)

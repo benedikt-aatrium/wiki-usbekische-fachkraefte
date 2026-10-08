@@ -34,7 +34,7 @@ Allgemein für ein D-Nationalvisum zur Beschäftigung gilt:
 - **Konkretes Arbeitsplatzangebot** (§ 18 Abs. 2 Nr. 1 AufenthG). Die Botschaft verlangt einen unterschriebenen Arbeitsvertrag oder ein konkretes Angebot mit Position, Gehalt, Arbeitszeit und Befristung
 - **Zustimmung zur Beschäftigung** der BA/ZAV (sofern erforderlich; § 18 Abs. 2 Nr. 2, § 39 AufenthG)
 - **Qualifikation:** anerkannter oder vergleichbarer Abschluss, soweit Voraussetzung (Akademiker: anabin oder ZAB; Berufsausbildung: Gleichwertigkeitsbescheid). Eine Berufsausübungserlaubnis nur in reglementierten Berufen (§ 18 Abs. 2 Nr. 3 und 4)
-- **Ab 45 Jahren** (erste Erteilung nach § 18a/§ 18b): Gehalt mindestens **55.770 €** im Jahr (2026) oder Nachweis angemessener Altersversorgung (§ 18 Abs. 2 Nr. 5)
+- **Ab 45 Jahren** (erste Erteilung nach § 18a/§ 18b): Gehalt mindestens **55.770 €** im Jahr (2026; 2027 voraussichtlich 58.410 €, siehe Artikel 07) oder Nachweis angemessener Altersversorgung (§ 18 Abs. 2 Nr. 5)
 - **Krankenversicherung:** Nachweis der gesetzlichen Krankenversicherung ab Arbeitsbeginn plus private Incoming-Versicherung aus der EU für die ersten 90 Tage (mind. 30.000 €, inkl. COVID-19); Details Artikel 22
 - **Gesicherter Lebensunterhalt** (in der Regel durch das Gehalt; § 5 Abs. 1 Nr. 1 AufenthG). Ein Unterkunftsnachweis steht für Fachkräfte **nicht** auf der Liste der Botschaft Taschkent (nur bei § 16d)
 - **Geklärte Identität** und **kein Ausweisungsinteresse** (§ 5 Abs. 1 Nr. 1a und 2 AufenthG), etwa wegen Straftaten oder Gefährdung der öffentlichen Sicherheit (§ 54 AufenthG)

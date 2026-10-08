@@ -18,7 +18,7 @@ Für das Arbeitsvisum verlangt die Botschaft Taschkent von Fachkräften einen **
 
 - **Gesetz:** § 18b AufenthG (Fachkraft mit akademischer Ausbildung) verlangt keine Deutschkenntnisse ([BGBl. 2023 I Nr. 217](https://www.recht.bund.de/bgbl/1/2023/217/VO.html), 18.08.2023).
 - **Botschaft Taschkent:** Sie listet für Fachkräfte trotzdem einen „Nachweis deutscher Sprachkenntnisse“. Für nicht reglementierte Berufe nennt sie kein Niveau ([Botschaft, Fachkraft](https://taschkent.diplo.de/uz-de/service/05-visaeinreise/2446108-2446108), abgerufen 03.10.2026). In der Praxis planen wir mit B1, weil der Arbeitgeber es erwartet (siehe Artikel 31).
-- Anerkannte Zertifikate (ALTE-zertifizierte Anbieter mit Niederlassung vor Ort):
+- Anerkannte Zertifikate (ALTE-zertifizierte Anbieter mit einer mit Entsandten besetzten Niederlassung):
   - Goethe-Zertifikat (A1: „Start Deutsch 1“)
   - ÖSD (A1: „Grundstufe Deutsch 1“)
   - telc (A1: „Start Deutsch 1“)
