@@ -1,7 +1,7 @@
 # IHK-FOSA-Anerkennung über die ZSEF (§ 81a): Praxis
 
 !!! info "Stand"
-    06.10.2026. Entstanden aus dem Update-Call vom 06.10.2026 und der ersten Antragsvorbereitung für einen Kandidaten mit Kolleg-Diplom (kein Bachelor). Ergänzt Artikel 41 (Wegewahl), 36 (Vorabzustimmung und § 81a) und 18 (IHK FOSA vs. HWK).
+    06.10.2026, ergänzt 15.10.2026 (schriftliche Auskünfte von KuBB und ZSEF, Abschnitt am Ende). Entstanden aus dem Update-Call vom 06.10.2026 und der ersten Antragsvorbereitung für einen Kandidaten mit Kolleg-Diplom (kein Bachelor). Ergänzt Artikel 41 (Wegewahl), 36 (Vorabzustimmung und § 81a) und 18 (IHK FOSA vs. HWK).
 
 ## Entscheidung im Team (06.10.2026)
 
@@ -54,3 +54,40 @@ Der Referenzberuf bindet auch für den Folgeantrag und muss zur Stelle beim Arbe
 - Zeiträume ohne Angabe im Lebenslauf → ZSEF verlangt einen lückenlosen Lebenslauf.
 - Weiterbildungszertifikat liegt nicht vor.
 - Stelle und Gesellschaft beim Arbeitgeber noch nicht benannt → Referenzberuf und EzB hängen daran.
+
+## Schriftliche Auskünfte von KuBB und ZSEF (14.10.2026)
+
+Am 08.10.2026 hat AATRIUM beiden Stellen der Regierung von Mittelfranken schriftlich Fragen gestellt (KuBB: Anerkennung eines Kolleg-Diploms Elektrotechnik; ZSEF: Verfahrensfragen § 81a). Beide haben am 14.10.2026 per E-Mail geantwortet. Hatamov läuft seit 13.10.2026 im **Standardverfahren direkt bei der IHK FOSA**, nicht mehr über die ZSEF.
+
+### KuBB (Sachgebiet 16, Berufsanerkennung – Koordinierung und Beratung)
+
+| Aussage | Bisher im Wiki | Bewertung |
+|---|---|---|
+| Grundvoraussetzung ist ein geordneter Ausbildungsgang nach staatlichen Rechts- und Verwaltungsvorschriften; verglichen wird mit einem deutschen Referenzberuf. | Ja (Art. 04, 18) | bekannt |
+| Die KuBB gibt kostenlos eine **Ersteinschätzung zum Referenzberuf**, sobald mindestens die Fächer- und Notenliste vorliegt. Unterlagen per E-Mail als PDF: Diplom und Fächerliste (je Original + deutsche Übersetzung), staatlicher Bildungsstandard, Praxisnachweise der Ausbildung, Arbeitszeugnisse und Arbeitsbuch (Farbkopie, Originalsprache). | Nur „kostenlose Beratung“ | **neu** |
+| Ein **Lehrplan auf Russisch** wird als Kopie ohne Übersetzung akzeptiert. Ob ein Lehrplan nötig ist, entscheidet die IHK FOSA. | Teilweise (FOSA: Lehrplan in den Website-Sprachen ohne Übersetzung) | bestätigt |
+| **Arbeitsbuch + Arbeitszeugnisse** reichen als Nachweis der Berufserfahrung, **Übersetzungen nicht erforderlich**. Das Zeugnis soll Zeitraum und Haupttätigkeiten nennen. | Nein: FOSA-Unterlagenliste verlangt Übersetzungen (Art. 04, 12, 18) | **neu, Widerspruch** zur FOSA-Liste. Ob das auch für den FOSA-Antrag selbst gilt, ist offen. |
+| Übersetzungen nur durch **öffentlich bestellte oder beeidigte** Übersetzer, diese dürfen auch **im Ausland** bestellt oder beeidigt sein. | Ja (Art. 04, 05, 10) | bekannt. Ob eine usbekische Übersetzung mit notarieller Unterschriftsbeglaubigung genügt, hat die KuBB **nicht** beantwortet. |
+| Bei **teilweiser Gleichwertigkeit** ist eine Einreise nach **§ 16d AufenthG** zur Anpassungsqualifizierung möglich; Aufenthaltsfragen an die ZSEF. | Ja (Art. 04, 18) | bekannt |
+| Im beschleunigten Verfahren leitet die Ausländerbehörde die Unterlagen an die Anerkennungsstelle weiter. | Ja (oben) | bekannt |
+
+Kontakt KuBB: Tel. +49 911 2352-270, kubb@reg-mfr.bayern.de (Anfragen auch an berufsanerkennung@reg-mfr.bayern.de), www.kubb.bayern.de.
+
+### ZSEF (Zentrale Stelle für die Einwanderung von Fachkräften)
+
+| Aussage | Bisher im Wiki | Bewertung |
+|---|---|---|
+| Antrag auf das beschleunigte Verfahren über den **Online-Dienst** der ZSEF. | Ja (Art. 36, oben) | bekannt |
+| Der Arbeitgeber kann **unterbevollmächtigen; eine namentlich benannte Person** der Firma genügt. | Als offene Frage (Art. 36) | **jetzt schriftlich bestätigt** |
+| Die ZSEF stellt jetzt zusätzlich eine **„Versicherung der Bevollmächtigung“** bereit (Folge des MDWG). | Nein: Formulare galten als nicht nachgeführt (Art. 36) | **neu**, Formular auf der ZSEF-Seite noch nicht geprüft |
+| **Dauer** einschließlich Wartezeit: zwischen **wenigen Wochen und mehreren Monaten**, je nach Antragsaufkommen und Vollständigkeit. | Nur gesetzliche Fristen und BMWK-Schätzung „ca. 4 Monate“ | **neu** (erste Aussage der ZSEF selbst) |
+| Alternativ geht das beschleunigte Verfahren bei der **örtlichen Ausländerbehörde am künftigen Arbeitsort** (Behördenfinder BAMF-NAvI). | Ja (Art. 04, 18, 36) | bekannt |
+| Vor Abschluss der Vereinbarung prüft die ZSEF **gebührenfrei**, ob das Verfahren Aussicht auf Erfolg hat. Eine eingehende Prüfung **vor** Antragstellung gibt es nicht. | Nein | **neu** |
+
+Nicht beantwortet hat die ZSEF: Übersetzer aus Usbekistan, TLS-Termin als Parallelverfahren, Speicherung der Vorabzustimmung im AZR und Versand des Originals, getrennte Dauer mit und ohne FOSA-Verfahren. Hotline +49 911 2352-211 (Mo–Fr 10–12 Uhr, Mo, Di, Do 13–15 Uhr), für Berufsanerkennung 2352-212.
+
+### Folgen für die Praxis
+
+- Vor dem FOSA-Antrag Diplom und Fächerliste an die KuBB schicken: Die Ersteinschätzung zum Referenzberuf ist kostenlos, und der Referenzberuf bindet auch für den Folgeantrag.
+- Für die Ersteinschätzung genügen Diplom, Fächerliste (mit Übersetzung, notfalls zunächst einer nicht beglaubigten Arbeitsübersetzung) und Bildungsstandard. Arbeitsbuch und Zeugnisse sind dafür nicht nötig.
+- Übersetzungen von Arbeitsbuch und Zeugnissen erst beauftragen, wenn geklärt ist, ob die IHK FOSA sie im Antrag verlangt.

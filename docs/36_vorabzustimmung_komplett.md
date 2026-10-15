@@ -444,7 +444,7 @@ Zusatzblatt A bestätigt diese beiden Verpflichtungen nur per Ankreuzfeld („bi
 | Familiennachzug | **eingeschlossen**, ohne Zusatzgebühr | nicht umfasst |
 | Gültigkeit des Ergebnisses | ABH-Vorabzustimmung: **3 Monate** (im Einzelfall länger) | BA-Vorabzustimmung: **9 Monate** |
 | Rechtsschutz | Verwaltungsinternum — nicht anfechtbar | Verwaltungsinternum — nicht anfechtbar |
-| Gesamtdauer | keine gesetzliche Gesamtfrist; BMWK schätzt „in der Regel **ca. 4 Monate**“ (FAQ, Stand August 2024) | nicht bezifferbar |
+| Gesamtdauer | keine gesetzliche Gesamtfrist; BMWK schätzt „in der Regel **ca. 4 Monate**“ (FAQ, Stand August 2024); ZSEF schriftlich am 14.10.2026: „zwischen wenigen Wochen und mehreren Monaten“ inkl. Wartezeit, je nach Aufkommen und Vollständigkeit (Artikel 42) | nicht bezifferbar |
 
 ### Entscheidungslogik
 
@@ -771,7 +771,8 @@ Der Ausschluss gilt auch für Vermittlungen nach § 14 Abs. 2 und für Einverneh
 - [ ] Beim Arbeitgeber-Service (0800 4 555520) klären, ob AATRIUM **ohne deutsche Betriebsnummer** ein Unternehmensprofil erhält
 - [ ] AATRIUM-Textbausteine erstellen: **Vollmacht ZAV** (siehe Art. 07), **Verpflichtungserklärungen Anerkennungspartnerschaft** (Mindestinhalt in Abschnitt 12), **Untervollmacht § 81a** (auf eine benannte Person, ZSEF-Formular)
 - [ ] Beim ZAV-Kompetenzcenter (0228 713 2000) nachfragen, ob eine **Vermittlungsabsprache** BA–Usbekistan im Rechtssinne besteht
-- [ ] Bei der ZSEF klären: Akzeptiert sie eine Untervollmacht an eine benannte Person bei AATRIUM, und speichert sie die Vorabzustimmung im AZR?
+- [x] ZSEF (Mail 14.10.2026): Untervollmacht an eine namentlich benannte Person bei AATRIUM wird akzeptiert (Artikel 42)
+- [ ] Bei der ZSEF klären: Speichert sie die Vorabzustimmung im AZR, und an wen geht das Original? (Mail 08.10.2026 dazu unbeantwortet)
 - [ ] Anwalt: Darf AATRIUM gegen Entgelt bei der BA und im § 81a als Bevollmächtigte auftreten (Rechtsdienstleistungsgesetz)?
 - [ ] Botschaft Taschkent (Kontaktformular): Gilt für Fachkräfte die Warteliste oder das Auslandsportal, und wie heißt die Vorabzustimmungs-Kategorie im Terminsystem genau?
 - [ ] Zuständiges ZAV-Team je Bögl-Einsatzbetrieb einmal vollständig erfassen
@@ -789,7 +790,7 @@ Der Ausschluss gilt auch für Vermittlungen nach § 14 Abs. 2 und für Einverneh
 | Bonner Sonderzuständigkeit | Merkblatt 7 nennt zwei Bonner Teams als bundesweit zuständig; das Zuständigkeits-PDF listet 273/274 nur regional. Nicht auflösbar. |
 | Aktualität der Fachlichen Weisungen | Die abrufbare Fassung trägt am 04.10.2026 weiterhin **Stand 12/2024**. |
 | Aktualität der BMI-Anwendungshinweise | Neueste auffindbare Fassung: **Tranche III, Rechtsstand 01.06.2024**. bmi.bund.de war nicht erreichbar; ob eine neuere Fassung mit MDWG-Anpassung existiert, ist offen. |
-| BMI-Muster vs. MDWG | Die Muster verlangen weiterhin die Vollmacht als Anlage, obwohl seit 29.07.2026 eine Versicherung genügt. Auch die ZSEF-Formulare (04.25 / 04.21) sind älter. Nicht nachgeführt. |
+| BMI-Muster vs. MDWG | Die Muster verlangen weiterhin die Vollmacht als Anlage, obwohl seit 29.07.2026 eine Versicherung genügt. Auch die ZSEF-Formulare (04.25 / 04.21) sind älter. Laut ZSEF-Mail vom 14.10.2026 gibt es inzwischen zusätzlich eine „Versicherung der Bevollmächtigung“; Formular auf der ZSEF-Seite noch nicht geprüft. |
 | Terminkategorie Taschkent | Fachkraft-Seite: „Nationales Visum mit Vorabzustimmung nach §36 BeschV oder §81a AufenthG“; Seite Nationales Visum: „Erwerbstätigkeit als Fachkraft“ (russisch «Трудовая деятельность»). Das Terminsystem war nicht erreichbar. Bei der Botschaft verifizieren. |
 | Antragsweg Fachkraft Taschkent | Terminseite: Warteliste der Botschaft. Fachkraft-Seite: Link auf das Auslandsportal. Kein Umstellungsdatum veröffentlicht (abgerufen 04.10.2026). Bei der Botschaft klären. |
 | Original vs. Kopie der Vorabzustimmung | Botschaft Taschkent: Original. Visumhandbuch und BMI-AH (81a.3.6.2): bei AZR-Speicherung genügt eine Kopie. Für Taschkent mit dem Original planen. |

@@ -69,7 +69,7 @@ Bei usbekischen Namen gibt es oft mehrere Schreibweisen in lateinischer Transkri
 
 ## Übersetzung und Legalisierung
 
-- Für Deutschland müssen die Dokumente in der Regel **übersetzt** werden (Deutsch). Die IHK FOSA verlangt Arbeitsbücher und Arbeitszeugnisse „in Farbkopie in Originalsprache und in deutscher Übersetzung von öffentlich bestellten oder beeidigten Dolmetschern“. Die HWK Niederbayern-Oberpfalz verlangt „Arbeitszeugnisse/Arbeitsbücher mit deutscher Übersetzung“.
+- Für Deutschland müssen die Dokumente in der Regel **übersetzt** werden (Deutsch). Die IHK FOSA verlangt Arbeitsbücher und Arbeitszeugnisse „in Farbkopie in Originalsprache und in deutscher Übersetzung von öffentlich bestellten oder beeidigten Dolmetschern“. Die HWK Niederbayern-Oberpfalz verlangt „Arbeitszeugnisse/Arbeitsbücher mit deutscher Übersetzung“. Die KuBB der Regierung von Mittelfranken schrieb dagegen am 14.10.2026, Arbeitsbuch und Arbeitszeugnisse reichten als Nachweis der Berufserfahrung **ohne Übersetzung**; ob die IHK FOSA das im Antrag ebenso sieht, ist offen (Artikel 42).
 - **Keine Apostille und keine Legalisation:** Eine usbekische Apostille ist in Deutschland wirkungslos (Einspruch Deutschlands vom 01.02.2012). Die Legalisation usbekischer Urkunden ist seit Juni 2002 ausgesetzt (Artikel 21).
 - Übersetzungen von einem **öffentlich bestellten oder beeidigten Übersetzer** anfertigen lassen. Ob eine Übersetzung aus Usbekistan genügt, vorher bei der Stelle fragen (Artikel 05).
 - Die Botschaft Taschkent verlangt für fremdsprachige Unterlagen eine **beglaubigte Übersetzung** ins Deutsche.
