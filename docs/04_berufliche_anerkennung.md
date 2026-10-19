@@ -1,6 +1,6 @@
 # 04 Berufliche Anerkennung (HWK, IHK FOSA, ZAB)
 
-**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md)
+**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md); Abschnitt 4.9 (Praxis) ergänzt Oktober 2026
 
 > **Ziel:** Klären, wie der usbekische Abschluss in Deutschland bewertet wird. Berufsausbildung (§ 18a AufenthG): Gleichwertigkeitsfeststellung bei IHK FOSA oder HWK. Hochschulabschluss (§ 18b AufenthG): anabin oder ZAB-Zeugnisbewertung, kein Anerkennungsbescheid, solange der Beruf nicht reglementiert ist.
 
@@ -212,6 +212,42 @@ Die **Zentralstelle für ausländisches Bildungswesen (ZAB)** bewertet im „ana
 - **Übersetzungen aus Usbekistan bei der HWK:** Ob die Kammer sie akzeptiert, vorab schriftlich klären.
 - **Geklärt (04.10.2026):** Für § 18a ist die volle Gleichwertigkeit Pflicht, auch bei Maurer, Betonbauer oder Straßenbauer (BA-Weisungen 18.0.6). Ohne Anerkennung geht nur § 19c Abs. 2 mit § 6 BeschV oder die Anerkennungspartnerschaft (§ 16d Abs. 3).
 - **ZAB-Verfahren für konkrete Kandidaten:** Sind deren Abschlüsse eher dual oder akademisch? (Fallbezogen prüfen)
+
+---
+
+## 4.9 Praxis Stand Okt 2026
+
+Erfahrungen aus laufenden Fällen; ergänzt die Abschnitte oben, ersetzt sie nicht.
+
+**Zwei getrennte Wege**
+
+- **Bachelor (Hochschule in anabin mit H+, Abschluss gelistet):** Für nicht reglementierte Bauberufe läuft kein Anerkennungsverfahren. Es gibt keine Nachschulung, und ein Arbeitsbuch ist für das Visum keine Pflicht (es hilft aber beim lückenlosen Lebenslauf). § 18b verlangt eine qualifizierte Beschäftigung, nicht die Beschäftigung im studierten Fach; ein fachfremder Bachelor schließt das Visum deshalb nicht aus. Ob der Arbeitgeber das Profil passend findet, ist eine andere Frage.
+- **Kolleg- oder Technikum-Diplom (Berufsausbildung):** Gleichwertigkeitsfeststellung bei IHK FOSA oder HWK, je nach Referenzberuf (Artikel 10, 43). anabin und ZAB bewerten diese Abschlüsse nicht.
+- **Reglementierte Berufe** (z. B. Pflege) laufen anders: Dort wird auch ein Bachelor nicht eins zu eins übernommen; Berufserfahrung senkt den Nachschulungsumfang.
+
+**Kolleg-Diplom: fast immer Defizite**
+
+- Die usbekische Berufsausbildung ist schulisch und hat wenig Betriebspraxis. Ohne Nachweis von Berufserfahrung endet das Verfahren deshalb meist mit **teilweiser Gleichwertigkeit**. Die fehlenden Inhalte schult der Betrieb in Deutschland nach, ein Ausbilder bestätigt die Stunden, danach Folgeantrag (Artikel 42).
+- Jede sauber belegte Stunde Berufserfahrung senkt die Defizitstunden. Arbeitsbuch (Auszug über my.gov.uz), Arbeitszeugnisse und Tätigkeitsbeschreibungen deshalb so vollständig wie möglich beilegen. Bei Bewerbern aus Usbekistan fehlen schriftliche Erfahrungsnachweise häufig.
+- Berufserfahrung zählt nur für den Beruf, in dem man anerkennen lässt. Am einfachsten ist die Anerkennung im erlernten Beruf.
+
+**Zeitplanung und Zustellung**
+
+- Den Anerkennungsantrag etwa **drei bis vier Monate vor dem geplanten Visumantrag** stellen. Erfahrungswert für die Prüfung bei der IHK FOSA nach Vollständigkeit: rund sechs Wochen; gesetzlich sind es bis zu drei Monate (4.4).
+- Das beschleunigte Verfahren (§ 81a, § 14a BQFG) kann nur der Arbeitgeber anstoßen. Ohne ihn als Antragsteller bleibt das Standardverfahren, das die Fachkraft oder ein Bevollmächtigter online stellt.
+- Bescheide gehen in der Praxis an eine Adresse in Deutschland. Deshalb früh eine Vollmacht der Fachkraft für einen Bevollmächtigten in Deutschland (Arbeitgeber oder Dienstleister) einholen, die auch den Empfang von Schreiben abdeckt. Ob eine Stelle auch direkt nach Usbekistan zustellt, unsicher, bitte bei der zuständigen Stelle prüfen.
+- Lieber einreichen und eine Nachforderung bekommen als auf das letzte Dokument warten: Fehlendes nennt die Stelle nach Eingang des Antrags (§ 6 Abs. 2 BQFG, 4.4).
+
+**Unterlagen**
+
+- Rahmenlehrpläne sind bei Hochschulen manchmal online zu finden, bei Kollegs selten. Früh bei der Einrichtung anfordern oder den staatlichen Bildungsstandard heranziehen (Artikel 42).
+- Ohne Übersetzung nimmt die IHK FOSA den Lehrplan nur in den Sprachen ihrer Website. Russisch gehört dazu, Usbekisch nach bisherigem Stand nicht; unsicher, bitte bei der IHK FOSA prüfen. Eine russische Fassung spart deshalb Übersetzungskosten.
+
+**Berufsbezeichnungen richtig lesen**
+
+- **Kranführer** ist in Usbekistan kein Ausbildungsberuf, sondern ein Kurs (in einem Fall 360 Stunden). Allein reicht das nicht für eine Anerkennung; Referenzberuf Baugeräteführer nur mit entsprechender Ausbildung (Artikel 43).
+- „**Architekt**“ in usbekischen Lebensläufen meint oft Pläne lesen und umsetzen, nicht den deutschen Architekten. „**Ingenieur**“ als Stellenbezeichnung sagt nichts über einen Hochschulabschluss.
+- Kolleg-Absolventen der Fachrichtung „**Recht**“ sind keine Juristen im deutschen Sinn; fachlich eher Sachbearbeitung. Die Anerkennung ist schwierig (Artikel 43).
 
 ---
 

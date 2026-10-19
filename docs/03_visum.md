@@ -104,7 +104,7 @@ Die vollständige, geprüfte Liste der Botschaft Taschkent steht in **Artikel 20
 
 ## 3.6 Terminweg: Warteliste der Botschaft
 
-Fachkräfte (§ 18a, § 18b) und Bewerber für die Blaue Karte tragen sich in die **Warteliste der Botschaft** ein; die Botschaft vergibt die Termine per E-Mail. **TLScontact ist für Fachkräfte nicht zuständig.** Fälle mit Vorabzustimmung buchen eine eigene Kategorie und melden die Buchung über das Kontaktformular. Die Botschaft rät ausdrücklich von Termin-Dienstleistern ab. Die Seiten der Botschaft widersprechen sich teilweise (Auslandsportal oder Warteliste) – Details und offene Punkte in **Artikel 20**.
+Fachkräfte (§ 18a, § 18b) und Bewerber für die Blaue Karte tragen sich in die **Warteliste der Botschaft** ein; die Botschaft vergibt die Termine per E-Mail. **TLScontact ist für Fachkräfte nicht zuständig.** Fälle mit Vorabzustimmung buchen eine eigene Kategorie und melden die Buchung über das Kontaktformular. Die Botschaft rät ausdrücklich von Termin-Dienstleistern ab. Die Seiten der Botschaft widersprechen sich teilweise (Auslandsportal oder Warteliste) – Details und offene Punkte in **Artikel 20**. Praxiserfahrungen mit TLS-Registrierung, Terminfreigabe und VIDEX (Stand Okt 2026): **Artikel 20, Abschnitt 8**.
 
 ---
 

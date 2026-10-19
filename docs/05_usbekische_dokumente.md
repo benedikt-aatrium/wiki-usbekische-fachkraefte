@@ -128,6 +128,15 @@ In Deutschland werden Übersetzer nach Landesrecht von den Landesjustizverwaltun
 5. **Form der Übersetzung klären:** Die Botschaft verlangt eine „beglaubigte“ Übersetzung, für die Heiratsurkunde im Familiennachzug eine „notarielle deutsche Übersetzung“.
 6. **Alles digitalisieren:** Scan in hoher Auflösung, speichern.
 
+### Praxis Stand Okt 2026
+
+- **Engpass Übersetzer:** In Deutschland beeidigte Übersetzer für Usbekisch sind stark ausgelastet. Wenn ein Auftrag angenommen ist, dauerten Diplom und Lehrplan etwa eine Woche; die Wartezeit bis zur Annahme kommt dazu. Für Anerkennungsverfahren (Kolleg-Diplome) deshalb früh einen Übersetzer binden.
+- **Zeitpunkt:** Übersetzungen etwa drei Monate vor dem geplanten Visumtermin anstoßen, für Kandidaten im Sprachkurs also, bevor das Zertifikat da ist. Nicht zu früh: Wer den Kurs abbricht, hat Kosten verursacht. In der Praxis ist ein Start ab A2 ein brauchbarer Kompromiss.
+- **Umfang beim Diplom:** Vorderseite (Abschluss, Fachrichtung) **und** Anlage bzw. Supplement (Fächer mit Stunden und Noten). Bei Kolleg-Diplomen für die Anerkennung zusätzlich Rahmenlehrplan, Arbeitsbuch und Arbeitszeugnisse, soweit die Stelle sie übersetzt verlangt (Artikel 42).
+- **Bachelor:** Auch wenn anabin den Abschluss ausweist, verlangt die Botschaft die Hochschulnachweise mit Übersetzung. Vorsorglich übersetzen.
+- **Aufträge eindeutig formulieren:** Dokument anhängen, Person eindeutig benennen (Name wie im Pass), Zweck dazuschreiben (Visum oder Anerkennung, weil die Anforderungen verschieden sind, siehe 5.3). Ein Auftrag je Dokument und Person.
+- **Visum und Anerkennung getrennt denken:** Was für die Visastelle genügt, genügt der Kammer nicht unbedingt. Wer nur einmal übersetzen lassen will, nimmt gleich einen öffentlich bestellten oder beeidigten Übersetzer (Artikel 43).
+
 ---
 
 ## 5.7 Offene Punkte

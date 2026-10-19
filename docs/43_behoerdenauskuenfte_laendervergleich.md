@@ -71,7 +71,7 @@ Frage: In Usbekistan beglaubigt ein Notar die Unterschrift des Übersetzers. Rei
 |---|---|---|
 | Was gilt ab 45? | Bei erstmaliger Erteilung nach § 18a/18b nach Vollendung des 45. Lebensjahres: Gehalt mindestens 55 % der BBG RV, 2026 **4.647,50 €/Monat** (RLP, NRW), oder Nachweis angemessener Altersversorgung (§ 18 Abs. 2 Nr. 5 AufenthG, § 1 Abs. 2 BeschV). | **einig**. Das ist keine Altersgrenze, sondern eine Gehalts- oder Vorsorgeschwelle. |
 | Wie wird Altersversorgung nachgewiesen? | Ansprüche aus der gesetzlichen Rentenversicherung des Herkunftslandes oder anderer Länder, private Renten- oder Lebensversicherung, Immobilien, sonstiges Vermögen, Betriebsvermögen, nach aktuellen Wertverhältnissen (NRW, SL). Mit Gehalt ab der Schwelle entfällt der Nachweis (NRW). | **einig** |
-| Gilt das schon beim Aufenthalt zur Anerkennung (§ 16d)? | HE, SL, MV, RLP: **nein**, erst bei § 18a/18b. SH: rechtlich nein, aber die spätere Erfüllbarkeit wird schon im Visumverfahren geprüft. NRW: **ja**, ab 45 auch bei § 16d. | **Widerspruch** |
+| Gilt das schon beim Aufenthalt zur Anerkennung (§ 16d)? | HE, SL, MV, RLP: **nein**, erst bei § 18a/18b. SH: rechtlich nein, aber die spätere Erfüllbarkeit wird schon im Visumverfahren geprüft. NRW nennt die Schwelle nur allgemein (§ 18 Abs. 2 Nr. 5 AufenthG, § 1 Abs. 2 BeschV) und äußert sich zu § 16d nicht. | **kein Widerspruch, aber offen** |
 
 ## Nach der Einreise
 
@@ -93,6 +93,7 @@ Frage: In Usbekistan beglaubigt ein Notar die Unterschrift des Übersetzers. Rei
 | Örtliche Zuständigkeit der Anerkennungsstelle | RAK Hamburg: nach dem **geplanten Arbeitsort** (BQFG), ersatzweise Wohnsitz. IHK Berlin: „als Münchner Unternehmen an die IHK München wenden“. | **Widerspruch**, Gesetz knüpft an den Arbeitsort | – |
 | **Anpassungsqualifizierung** nach Defizitbescheid | Qualifizierungsplan auf Basis des Bescheids, dann im Betrieb durchführen und dokumentieren. Im IHK-Bereich hilft die örtliche IHK beim Weiterbildungsplan, sobald der Bescheid vorliegt ([Infoblatt Anpassungsqualifizierung](https://www.unternehmen-berufsanerkennung.de/aktuelles/artikel/fuer-unternehmen-infoblatt-zur-anpassungsqualifizierung)). HWK Münster: Hilfe über das IQ-Netzwerk. | **einig** | Art. 18, 42 |
 | Vorprüfung bei der IHK FOSA | Keine Vorprüfung, nur im Antrag. Sprachkenntnisse sind für die Anerkennung nicht nötig. | – | Art. 18 |
+| Deutsch für die Einreise nach **§ 16d** | KuBB Bayern (16.10.): A2-Zertifikat eines anerkannten Anbieters (Goethe, telc, ÖSD), in der Regel nicht älter als ein Jahr, meist bei der Einreise vorzulegen | eine Stelle | Art. 04 (4.7) |
 
 Unterlagen für eine Ersteinschätzung (HWK Münster): Lebenslauf, Diplom mit Übersetzung, Fächerübersicht mit Stundenzahlen, möglichst Rahmenlehrplan, Nachweise der Berufserfahrung, Referenzberuf und Betrieb.
 
@@ -100,7 +101,7 @@ Unterlagen für eine Ersteinschätzung (HWK Münster): Lebenslauf, Diplom mit Ü
 
 - **Übersetzung mit usbekischer Notarbeglaubigung:** Die Länder sind uneinig. Für Bayern ist das nicht schriftlich geklärt.
 - **Angebot oder Vertrag:** Die Länder sind uneinig. Was die Botschaft Taschkent im Einzelfall verlangt, ist offen.
-- **Ab 45 bei § 16d:** Nur NRW sagt ja.
+- **Ab 45 bei § 16d:** Vier Länder sagen nein, SH prüft die spätere Erfüllbarkeit schon im Visumverfahren, NRW hat sich zu § 16d nicht geäußert.
 - **Örtliche Zuständigkeit der Anerkennung:** Arbeitsort oder Sitz des Vermittlers.
 - **Nie beantwortet:**
     - Dauer und erlaubte Arbeitszeit bei § 16d

@@ -152,6 +152,17 @@ Viele Fehler im Prozess der Einstellung usbekischer Fachkräfte lassen sich verm
 
 ---
 
+## Praxis Stand Okt 2026: weitere Fallstricke
+
+- **Falsche Vermittler:** In den Regionen geben sich Personen als Vermittler für bekannte deutsche Arbeitgeber aus und verlangen Geld für angebliche Jobzusagen. Sie nutzen dafür öffentliche Stellenanzeigen. Kandidaten früh und schriftlich sagen, über welche Kanäle echte Angebote kommen, und Verdachtsfälle der usbekischen Migrationsagentur melden.
+- **Angaben aus Bewerbungsbögen ungeprüft übernehmen:** Bögen werden oft von Dritten oder am Telefon ausgefüllt. Führerschein, Sprachniveau und Berufserfahrung vor jeder Weitergabe mit Dokument oder Rückfrage belegen. Ein im Lebenslauf genannter Lkw-Führerschein stellte sich im Interview als nicht vorhanden heraus.
+- **Sprachkurs-Ort nicht klar gesagt:** Wenn der Kurs in Taschkent stattfindet, muss das in Anzeige und Erstgespräch stehen. Viele Bewerber aus den Regionen sagen sonst spät ab.
+- **Nur Hilfstätigkeiten:** Das Fachkräftevisum setzt eine qualifizierte Beschäftigung voraus. Anzeigen für Lager- oder Hilfsjobs ziehen Bewerber an, die dafür nicht in Frage kommen.
+- **Dokumente nur im Messenger:** Lebensläufe und Unterlagen, die nur in Gruppenchats verschickt werden, gehen unter. Fertige Fassungen per E-Mail mit eindeutiger Kennung verschicken und zentral ablegen.
+- **Abkürzungen verwechselt:** ZAV (Zustimmung der BA) und ZAB (Zeugnisbewertung für Hochschulabschlüsse) sind verschiedene Stellen. Im Austausch mit Partnern ausschreiben.
+
+---
+
 ## Quellen
 
 - Aufenthaltsgesetz (AufenthG); Auswärtiges Amt – Visumhandbuch (Stand 21.08.2026): https://www.auswaertiges-amt.de/resource/blob/207816/5f5be4158ee61f51115a2a32e2885c67/visumhandbuch-data.pdf

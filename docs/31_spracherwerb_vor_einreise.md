@@ -116,6 +116,35 @@ Die Sprachphase muss **keine Wartezeit** sein. Parallel kann und sollte gearbeit
 
 ---
 
+## Praxis Stand Okt 2026
+
+!!! note "Erfahrungswerte"
+    Aus laufenden Kursen und Prüfungen in Taschkent, keine amtlichen Angaben.
+
+**Prüfung**
+
+- In der Praxis scheiterten die meisten Kandidaten, die B1 nicht bestanden, im Modul **Sprechen**, einige zusätzlich im Schreiben. Wer im Sprechen durchfällt, braucht tägliches Sprechtraining statt mehr Unterricht: z. B. fünf Tage pro Woche, Übungen plus Sprechen mit der Lehrkraft. Eine Wiederholung ist frühestens nach etwa einem Monat sinnvoll.
+- Die Punktzahlen je Modul anfordern. Nur damit lässt sich die Nachschulung gezielt planen.
+- Zur Prüfung erst anmelden, wenn die Lehrkraft die Bereitschaft bestätigt. Schüler sollten vorher wissen, dass nach dem Kurs eine Wiederholungsphase kommt; sonst sinkt die Motivation.
+- Andere Prüfstellen haben teils mehr Termine. Kandidaten legen B1 auch auf eigene Faust ab; das Zertifikat zählt, wenn der Anbieter anerkannt ist (siehe oben).
+
+**Zertifikate**
+
+- Goethe und telc stellen inzwischen digital aus. Die Druckversion mit Prüflink zusammen ablegen; eine Druckversion ohne Kontext wird bei der Sichtung leicht übersehen.
+- Mitgebrachte Zertifikate mit einem Einstufungstest gegenprüfen. Selbst angegebenes Niveau und Zertifikat weichen oft ab.
+
+**Nach dem Zertifikat**
+
+- Zwischen Zertifikat und Ausreise liegen oft mehrere Monate. Das Niveau mit etwa vier Stunden pro Woche halten, online ist das möglich.
+- Das Alter des Zertifikats am Visumtermin im Blick behalten (am besten jünger als 12 Monate, siehe oben).
+
+**Gesamtzeit**
+
+- Ohne Vorkenntnisse: B1 in sechs bis acht Monaten, danach rund ein Monat bis zum Zertifikat. Das Visum dauert in der Hochsaison (Juni bis Oktober) zwei bis drei Monate, sonst etwa einen. Zusammen zehn bis zwölf Monate bis zur Einreise, ohne Verzögerungen bei Dokumenten oder Anerkennung.
+- Zwischen Visum und Ausreise ein bis drei Monate einplanen (Kündigung, Familie, Flug, Feiertage).
+
+---
+
 ## Quellen
 
 - **Goethe-Institut Usbekistan (Taschkent)** — Kurse, abgerufen 04.10.2026: https://www.goethe.de/ins/uz/de/spr/kur.html

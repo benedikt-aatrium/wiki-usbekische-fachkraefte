@@ -1,6 +1,6 @@
 # 20 Visum-Antrag bei der Botschaft Taschkent
 
-**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md)
+**Stand:** 2026-10-04 (Satz für Satz an Primärquellen geprüft; Prüfprotokoll: Claude outputs/2026-10-04_Wiki_Pruefprotokoll.md); Abschnitt 8 (Praxis) ergänzt Oktober 2026
 
 Seiten der Botschaft abgerufen am 03.10.2026, Stichproben erneut am 04.10.2026 (sie zeigen kein eigenes Datum) · Grundlage: Prüfbericht `Claude outputs/2026-10-03_Rechtspruefung_Wiki_Visum_Vermittlung.md`
 
@@ -110,6 +110,41 @@ Quelle: [Botschaft, Nationales Visum](https://taschkent.diplo.de/uz-de/service/0
 4. **Vollständig einreichen.** Nachreichen ist möglich, aber die Bearbeitungszeit läuft erst ab vollständigen Unterlagen. Nach einer Ablehnung gibt es keine Remonstration mehr, nur einen neuen Antrag oder eine Klage.
 5. **Sprachzertifikat** am Termin jünger als 12 Monate; **Pass** noch mindestens 1 Jahr gültig.
 6. **Krankenversicherung** als Incoming-Versicherung aus der EU planen.
+
+---
+
+## 8. Praxis Stand Okt 2026
+
+Erfahrungen aus laufenden § 18b-Fällen. Keine amtlichen Angaben; wo etwas unsicher ist, steht es dabei.
+
+**Terminlage**
+
+- In der Praxis wurden § 18b-Antragsteller bei **TLScontact** registriert: Profil anlegen, Passkopie und Personaldaten hochladen, danach kommt der Termin per E-Mail. Zum Registrieren reicht die Passkopie; der VIDEX-Antrag wird erst zum Termin gebraucht. Die Bestätigungen gehen an die im Profil hinterlegte Adresse, meist die des Kandidaten. Diese Adresse also kennen oder eine eigene hinterlegen.
+- TLS nimmt die Unterlagen an, prüft auf Vollständigkeit, meldet Fehlendes und digitalisiert. Geprüft und entschieden wird in der Botschaft.
+- Mitte Oktober 2026 lag für die registrierten Fachkräfte noch keine Terminbestätigung vor. Ob eine TLS-Registrierung für § 18b vom Botschaftsweg (Abschnitt 1) anerkannt wird, ist weiter **unsicher, bitte bei der Botschaft prüfen**.
+- Termine werden **blockweise** freigeschaltet, teils 10 bis 30 auf einmal, teils zwei bis drei Wochen gar nicht. Freie Slots werden offenbar automatisiert geblockt und kurzfristig wieder freigegeben. Kandidaten aus den Regionen müssen dann schnell nach Taschkent kommen können.
+- Erfahrungswert Saison: Juni bis Oktober ist Hochsaison (Studium, Ausbildung, Urlaub), die Wartezeit ist dann deutlich länger als im Rest des Jahres. Die Feiertage zum Jahresende verschieben Ausreisen oft in den Januar.
+
+**VIDEX**
+
+- Antrag über videx.diplo.de im Bereich langfristiger Aufenthalt (nationales Visum). Den Entwurf als Datei (JSON) speichern; so können mehrere Beteiligte daran weiterarbeiten. Bis zum Ausdruck mit Barcode lässt sich alles ändern.
+- Beim einladenden Arbeitgeber („Referenz“) Firma und Anschrift genau wie im Arbeitsvertrag eintragen.
+- VIDEX fragt Ehepartner, Kinder und Eltern ab (auch den Vornamen des Vaters). Diese Daten früh einsammeln; sie gehören in den Antrag, nicht in den Bewerber-Lebenslauf.
+- Viele Kandidaten halten die Datenabfrage für einen Teil der Terminbuchung. Erklären, dass es der eigentliche Antrag ist.
+
+**Unterlagen am Termin**
+
+- **Zwei** biometrische Passfotos 35 × 45 mm, nicht älter als 6 Monate. Die Zahl ausdrücklich nennen, sonst kommt der Kandidat mit einem.
+- Belehrungen (§ 54 AufenthG, konkretes Arbeitsplatzangebot, Meldepflicht), Lebenslauf und Motivationsschreiben **eigenhändig** unterschreiben, nicht digital. Kandidaten wohnen oft weit weg von Taschkent; deshalb früh unterschreiben lassen, z. B. schon während des Sprachkurses.
+- Alle Scans und Ausdrucke farbig und vollständig (alle Seiten), Diplome als Scan, nicht als Handyfoto.
+- § 18b mit Bachelor: Abschlusszeugnis mit Notenverzeichnis (Diplom und Anlage), zwei anabin-Ausdrucke, tabellarischer Lebenslauf. Ein Auszug aus dem Arbeitsbuch ist keine Pflichtunterlage, hilft aber, den Lebenslauf lückenlos zu belegen. Das Diplom trotz anabin mit Übersetzung beilegen (Vorderseite und Anlage mit Fächern und Noten).
+- Goethe und telc stellen Zertifikate inzwischen digital aus. Den Ausdruck mit Prüflink vorlegen; die Botschaft kann die Echtheit selbst prüfen. Weitere Zertifikate (z. B. A2 neben B1) sind unnötig.
+- Im regulären Verfahren liegt die EzB dem Antrag bei, und die Botschaft holt die Zustimmung der BA ein. Erfahrungswert dafür: etwa ein bis zwei Wochen.
+
+**Fallstricke**
+
+- Ein Formfehler kostet schnell Wochen; ein falsch ausgefülltes Formular geht zurück, und das Verfahren beginnt neu. Was einmal funktioniert hat, als Vorlage für die nächsten Fälle festhalten.
+- Kleine Abweichungen zwischen Arbeitsvertrag, EzB und Visumantrag (Hausnummer, Postleitzahl, Namensschreibweise) vor der Abgabe abgleichen. Die Passkopie mit jedem Dokumentenversand mitschicken, damit jeder Empfänger die Schreibweise prüfen kann.
 
 ## Offene Punkte (bei der Botschaft erfragen)
 

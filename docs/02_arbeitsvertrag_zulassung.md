@@ -33,6 +33,15 @@ Der Arbeitgeber muss die wesentlichen Arbeitsbedingungen schriftlich festhalten,
 
 **Quelle:** [BA-Weisungen 39.0.10–39.0.13](https://www.arbeitsagentur.de/datei/dok_ba033210.pdf) (Stand 12/2024); [EzB 02/2024](https://www.arbeitsagentur.de/datei/erklaerung-zum-beschaeftigungsverhaeltnis_ba047549.pdf); [BT-Drs. 20/1636](https://dserver.bundestag.de/btd/20/016/2001636.pdf) (Nachweisgesetz, Fassung 2022); [BGBl. 2024 I Nr. 323](https://www.recht.bund.de/bgbl/1/2024/323/regelungstext.pdf?__blob=publicationFile&v=1) (Textform, nicht im Bau); Gehaltsgrenzen: [ZSEF](https://www.regierung.mittelfranken.bayern.de/service/zentrale_stelle_einwanderung_fachkraefte/index.html) (Stand 29.09.2026)
 
+### Praxis Stand Okt 2026: Vertragsbeginn und EzB
+
+- **Kein festes Eintrittsdatum, das vor dem Visum verstreicht.** Bei der aktuellen Terminlage in Taschkent (Artikel 20, Abschnitt 8) ist ein Datum zwei, drei Monate nach Vertragsschluss schnell überholt; dann müssen Vertrag und EzB neu ausgestellt und unterschrieben werden. In der Praxis bewährt haben sich Formulierungen wie „Der Arbeitnehmer wird voraussichtlich mit Wirkung vom … eingestellt. Das Arbeitsverhältnis beginnt mit der tatsächlichen Tätigkeitsaufnahme.“ oder „ab … oder nach Erteilung des Visums und Einreise“. Ein weit in die Zukunft gelegtes festes Datum hilft auch nicht: Die Einreise zur Arbeit ist erst zum Vertragsbeginn sinnvoll, und eine Behörde wartet eher ab, wenn der Vertrag „noch nicht gilt“. Ob jede Visastelle solche Klauseln akzeptiert, ist nicht amtlich bestätigt; unsicher, bitte bei der zuständigen Stelle prüfen.
+- **Unterschrift der Fachkraft im Original.** Im Bau gilt Papier mit eigenhändiger Unterschrift (siehe oben). Praktisch: Vertrag farbig ausdrucken, die Fachkraft unterschreibt vor Ort, z. B. beim Visatermin. Scans immer vollständig und farbig.
+- **EzB erst mit unterschriebenem Vertrag.** Aus dem Vertrag ergibt sich, welche Gesellschaft und welche Betriebsstätte einstellt; bei Arbeitgebern mit mehreren Betriebsnummern hängt die EzB daran. EzB deshalb immer zusammen mit dem Vertrag ausfüllen.
+- **EzB sauber ausfüllen:** Entgelt mit Einheit („pro Stunde“ bzw. Monatsbrutto), Arbeitszeit, Urlaub und Tarifbindung wie im Vertrag; keine bloßen Verweise auf Vertragsparagrafen. Bei wechselnden Baustellen die feste Betriebsstätte benennen, damit kein Eindruck von Arbeitnehmerüberlassung entsteht.
+- **Adresse der Fachkraft kurz vor Vertrag und EzB neu abfragen.** Angaben aus Bewerbungsbögen sind oft ein Jahr alt; Abweichungen zwischen Vertrag und Visumantrag fallen auf.
+- **Vollmacht der Fachkraft früh einholen** (Vertretung, Verwaltung von Unterlagen, Antragstellung, Empfang von Schreiben), nicht erst kurz vor dem Antrag. Für § 81a gelten eigene Formulare (Artikel 36, 42).
+
 ---
 
 ## 2.2 Wann ist eine Zustimmung der BA/ZAV nötig?
