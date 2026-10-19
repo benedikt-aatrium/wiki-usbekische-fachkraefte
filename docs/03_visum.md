@@ -31,7 +31,7 @@
 Allgemein für ein D-Nationalvisum zur Beschäftigung gilt:
 
 - **Gültiger Reisepass** – die Botschaft Taschkent verlangt noch **mindestens 1 Jahr** Gültigkeit
-- **Konkretes Arbeitsplatzangebot** (§ 18 Abs. 2 Nr. 1 AufenthG). Die Botschaft verlangt einen unterschriebenen Arbeitsvertrag oder ein konkretes Angebot mit Position, Gehalt, Arbeitszeit und Befristung
+- **Konkretes Arbeitsplatzangebot** (§ 18 Abs. 2 Nr. 1 AufenthG). Die Botschaft verlangt einen unterschriebenen Arbeitsvertrag oder ein konkretes Angebot mit Position, Gehalt, Arbeitszeit und Befristung Die Länder sind sich uneinig, ob ein Angebot reicht: HE und MV ja, SL und NRW verlangen einen unterschriebenen Vertrag (Artikel 43). Sicherer Weg: unterschriebener Arbeitsvertrag.
 - **Zustimmung zur Beschäftigung** der BA/ZAV (sofern erforderlich; § 18 Abs. 2 Nr. 2, § 39 AufenthG)
 - **Qualifikation:** anerkannter oder vergleichbarer Abschluss, soweit Voraussetzung (Akademiker: anabin oder ZAB; Berufsausbildung: Gleichwertigkeitsbescheid). Eine Berufsausübungserlaubnis nur in reglementierten Berufen (§ 18 Abs. 2 Nr. 3 und 4)
 - **Ab 45 Jahren** (erste Erteilung nach § 18a/§ 18b): Gehalt mindestens **55.770 €** im Jahr (2026; 2027 voraussichtlich 58.410 €, siehe Artikel 07) oder Nachweis angemessener Altersversorgung (§ 18 Abs. 2 Nr. 5)

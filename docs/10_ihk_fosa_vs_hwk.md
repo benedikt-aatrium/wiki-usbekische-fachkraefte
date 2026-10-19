@@ -42,6 +42,8 @@ Nach dem **Berufsqualifikationsfeststellungsgesetz (BQFG)** ist für die Anerken
 
 **Quelle:** Anlage A in der Fassung von [BT-Drs. 19/14335](https://dserver.bundestag.de/btd/19/143/1914335.pdf); [Anerkennungs-Finder](https://www.anerkennung-in-deutschland.de/de/interest/finder/profession) (Maurer/in, Beton- und Stahlbetonbauer/in, Straßenbauer/in, Trockenbaumonteur/in; Arbeitsorte Sengenthal, Neumarkt i.d.OPf., Nürnberg; abgerufen 04.10.2026); [IHK-FOSA-Berufeliste](https://www.ihk-fosa.de/fileadmin/Dateien/Informationsmaterial/IHK-Berufe_01.pdf) (Stand August 2026); [HWK Niederbayern-Oberpfalz](https://www.hwkno.de/artikel/anerkennung-auslaendischer-berufsabschluesse-76,3630,4273.html) (abgerufen 04.10.2026)
 
+Schriftlich bestätigt im Oktober 2026 (Artikel 43): Beton- und Stahlbetonbauer und Maurer → Handwerk, Elektroanlagenmonteur → IHK FOSA (fif.IQ NRW, BAMF-Hotline). Die HWK Münster weist darauf hin, dass beide Bauberufe auch als Industrieberuf existieren und die Stelle vom Referenzberuf abhängt.
+
 ---
 
 ## Verifizierte Rechtsgrundlagen

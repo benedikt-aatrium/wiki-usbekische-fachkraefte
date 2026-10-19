@@ -468,6 +468,7 @@ Zusatzblatt A bestätigt diese beiden Verpflichtungen nur per Ankreuzfeld („bi
 
 !!! warning "Parallelverfahren sind meldepflichtig"
     Die BMI-Anwendungshinweise (Nr. 81a.1.0.2): Parallelverfahren sind „zwar **rechtlich nicht ausgeschlossen**, sie sollten aber im Sinne der Prozessökonomie vermieden werden. **Mangels Sachentscheidungsinteresses kann die betroffene Behörde ein Parallelverfahren aussetzen.**" Die aktuelle Muster-Vereinbarung führt „Abfrage Parallelverfahren (reguläres Visumverfahren und/oder Vorabzustimmung der BA nach § 36 Abs. 3 BeschV)" ausdrücklich in der Checkliste.
+    Schriftlich im Oktober 2026 (Artikel 43): HE, SL, SH, MV, RLP und NRW raten einheitlich, einen schon gebuchten Visumtermin nicht für den § 81a-Antrag zu nutzen und erst nach der Vorabzustimmung neu zu buchen. Das gilt nur für § 81a-Fälle.
 
     Umgekehrt gilt: Wurde bereits ein Visum- oder Titelantrag gestellt, ist die **BA-Vorabzustimmung gesperrt**.
 
@@ -772,7 +773,7 @@ Der Ausschluss gilt auch für Vermittlungen nach § 14 Abs. 2 und für Einverneh
 - [ ] AATRIUM-Textbausteine erstellen: **Vollmacht ZAV** (siehe Art. 07), **Verpflichtungserklärungen Anerkennungspartnerschaft** (Mindestinhalt in Abschnitt 12), **Untervollmacht § 81a** (auf eine benannte Person, ZSEF-Formular)
 - [ ] Beim ZAV-Kompetenzcenter (0228 713 2000) nachfragen, ob eine **Vermittlungsabsprache** BA–Usbekistan im Rechtssinne besteht
 - [x] ZSEF (Mail 14.10.2026): Untervollmacht an eine namentlich benannte Person bei AATRIUM wird akzeptiert (Artikel 42)
-- [ ] Bei der ZSEF klären: Speichert sie die Vorabzustimmung im AZR, und an wen geht das Original? (Mail 08.10.2026 dazu unbeantwortet)
+- [ ] Bei der ZSEF klären: Speichert sie die Vorabzustimmung im AZR, und an wen geht das Original? (Mail 08.10.2026 dazu unbeantwortet). Sechs andere Länder sagen schriftlich: elektronisch über das AZR, eine Kopie reicht (Artikel 43).
 - [ ] Anwalt: Darf AATRIUM gegen Entgelt bei der BA und im § 81a als Bevollmächtigte auftreten (Rechtsdienstleistungsgesetz)?
 - [ ] Botschaft Taschkent (Kontaktformular): Gilt für Fachkräfte die Warteliste oder das Auslandsportal, und wie heißt die Vorabzustimmungs-Kategorie im Terminsystem genau?
 - [ ] Zuständiges ZAV-Team je Bögl-Einsatzbetrieb einmal vollständig erfassen

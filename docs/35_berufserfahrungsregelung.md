@@ -64,6 +64,8 @@ Die Details regelt **§ 6 BeschV** („Beschäftigung bei ausgeprägter berufspr
     1. **„Qualifizierte Beschäftigung" ist Voraussetzung** — Helfer- und Anlerntätigkeiten sind ausgeschlossen. Die Stelle muss typischerweise eine Berufsausbildung oder ein Studium voraussetzen (FW 19c.6.3; ZSEF-Checkliste).
     2. **Die Erfahrung muss belegt sein** — „2 Jahre in den letzten 5 Jahren" prüft die BA anhand der **Dokumente**: Lebenslauf, Arbeitszeugnisse oder Bestätigungen früherer Arbeitgeber, Arbeitsbücher, Sozialversicherungsnachweise (FW 19c.6.3, 19c.6.7; ZSEF-Checkliste). Die Erfahrung muss auf Fachkraftniveau sein. Qualifizierte Teilzeit kann zählen, wenn sie die Haupttätigkeit war. Kandidaten ohne belastbare Erfahrungsnachweise können diesen Weg nicht nutzen — genau deshalb ist die Erfahrungsdokumentation in der Vorbereitungsphase so kritisch (siehe Artikel 06, 28).
 
+    **Schriftlich bestätigt (fif.IQ NRW, 19.10.2026, Artikel 43):** Ein fachfremder, staatlich anerkannter Abschluss plus Bauerfahrung reicht. Maßgeblich ist der Bereich der Erfahrung, aber Hilfs- und Anlerntätigkeit zählt nicht.
+
 ---
 
 ## Verfahren in der Praxis

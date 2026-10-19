@@ -86,6 +86,8 @@ In Usbekistan gibt es keine öffentlich bestellten oder beeidigten Übersetzer w
 | **ZAB** | Meist keine Übersetzung nötig | Bewertung anhand der Originaldokumente; der Vorab-Check zeigt, ob eine Übersetzung „zusätzlich“ verlangt wird |
 | **IHK FOSA / HWK** | Wahrscheinlich nein | § 5 Abs. 2 BQFG verlangt „öffentlich bestellte oder beeidigte“ Übersetzer. Eine notarielle Unterschriftsbeglaubigung erfüllt das dem Wortlaut nach nicht. Sicherer Weg: Übersetzer aus [justiz-dolmetscher.de](https://www.justiz-dolmetscher.de/Recherche/) oder vorher schriftliche Zusage der Kammer. Die KuBB (Regierung von Mittelfranken) bestätigte am 14.10.2026 nur die Regel (öffentlich bestellt oder beeidigt, auch im Ausland), zur notariellen Beglaubigung äußerte sie sich nicht (Artikel 42) |
 
+Ländervergleich Oktober 2026 (Artikel 43): Hessen und Saarland lehnen die usbekische Notarbeglaubigung ab, Rheinland-Pfalz und Mecklenburg-Vorpommern akzeptieren sie in der Regel, Schleswig-Holstein und NRW legen sich nicht fest. Sicherer Weg bleibt der öffentlich bestellte oder beeidigte Übersetzer.
+
 Gleiche Lage in Kasachstan: Die Botschaft dort schreibt, ein beeidigter Übersetzer „existiert in Kasachstan nicht“, und rät, vorher bei der deutschen Stelle zu fragen.
 
 **Empfehlung:** Vor jeder Übersetzung die konkrete Stelle (HWK, IHK FOSA, ZAB, Botschaft) fragen, welche Übersetzung akzeptiert wird. Für die Anerkennung im Zweifel gleich einen in Deutschland beeidigten Übersetzer nehmen; eine vorhandene usbekische Übersetzung kann er prüfen und bestätigen statt neu zu übersetzen (Kosten vorher erfragen).
